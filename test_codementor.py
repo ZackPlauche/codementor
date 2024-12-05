@@ -8,8 +8,21 @@ def client():
 
 
 @pytest.fixture
+def jobs(client) -> list[dict]:
+    return client.get_jobs()
+
+
+def test_get_jobs(jobs):
+    assert len(jobs) == 15
+
+
+def test_get_job_details(client, jobs):
+    client._get_job_detail(jobs[0]['random_key'])
+
+
+@pytest.fixture
 def all_jobs(client) -> list[dict]:
-    jobs = client.get_jobs()
+    jobs = client.get_jobs(all=True)
     print('There were this many jobs:', len(jobs))
     return jobs
 
