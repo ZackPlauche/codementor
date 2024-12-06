@@ -161,3 +161,9 @@ class Client:
                 break
 
         return all_sessions
+    
+    def get_session_details(self, session_id: str) -> dict:
+        url = ENDPOINTS['session detail'].format(session_id=session_id)
+        response = self.session.get(url)
+        response.raise_for_status()
+        return response.json()
