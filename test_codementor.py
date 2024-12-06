@@ -34,3 +34,8 @@ def test_get_all_jobs(all_jobs):
 def test_get_related_jobs(client, all_jobs):
     related_jobs = client.get_jobs(related=True)
     assert len(related_jobs) < len(all_jobs)
+    
+    
+def test_get_sessions(client):
+    sessions = client.get_sessions()
+    assert len(sessions) > 0

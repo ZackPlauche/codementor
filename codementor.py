@@ -11,6 +11,8 @@ ENDPOINTS = {
     'job list': '/requests/search',
     'job apply': '/requests/{random_key}/interests',
     'user chat': '/chats/messages/{username}',
+    'session list': '/lessons',
+    'session detail': '/lessons/{session_id}',
 }
 
 for key, value in ENDPOINTS.items():
@@ -129,10 +131,33 @@ class Client:
 
     def message_user(self, username: str, message: str):
         url = ENDPOINTS['user chat'].format(username=username)
+        raise NotImplementedError
 
+    def get_sessions(self) -> list[dict]:
+        url = ENDPOINTS['session list']
+        all_sessions = []
+        params = {}
+        while True:
+            try:
+                response = self.session.get(url, params=params)
+                response.raise_for_status()
+                sessions = response.json()
 
-if __name__ == '__main__':
-    client = Client.from_env()
-    import json
-    with open('jobs.json', 'w') as f:
-        json.dump(client.get_jobs(), f)
+                if not sessions:  # No more sessions to fetch
+                    break
+
+                all_sessions.extend(sessions)
+
+                # Update timestamp for next page
+                last_session = sessions[-1]
+                last_timestamp = last_session['created_at']
+                params['before_timestamp'] = last_timestamp
+
+                # Add a small delay between requests
+                time.sleep(2)
+
+            except requests.exceptions.RequestException as e:
+                print(f"Request failed: {e}")
+                break
+
+        return all_sessions
