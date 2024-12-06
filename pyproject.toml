@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "codementorapi"
+name = "codementor"
 version = "0.1.1"
 description = "Python client for the Codementor API"
 authors = ["Zack Plauché <zackknowspython@gmail.com>"]
