@@ -24,6 +24,20 @@ ENDPOINTS = {k: BASE_URL + v for k, v in ENDPOINTS.items()}
 
 
 class Client:
+    """A client for interacting with the Codementor API.
+
+    This client handles authentication and provides methods for accessing various
+    Codementor API endpoints including jobs, sessions, reviews and more.
+
+    Args:
+        access_token (str): The Codementor API access token
+        refresh_token (str): The Codementor API refresh token
+
+    Example:
+        >>> client = Client(access_token="abc123", refresh_token="xyz789")
+        >>> jobs = client.get_jobs()
+    """
+
     def __init__(self, access_token: str, refresh_token: str):
         self.session = requests.Session()
         self.session.headers.update({
