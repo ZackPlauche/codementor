@@ -102,13 +102,13 @@ class Client:
 
         return all_jobs
 
-    def _get_job_detail(self, job_id: str):
-        url = ENDPOINTS['job detail'].format(random_key=job_id)
+    def get_job_details(self, job_random_key: str):
+        url = ENDPOINTS['job detail'].format(random_key=job_random_key)
         response = self.session.get(url)
         response.raise_for_status()  # Raise exception for bad status codes
         return response.json()
 
-    def _send_job_interest(self, job_id: str, message: str, open_to_special_rate: bool = False):
+    def send_job_interest(self, job_random_key: str, message: str, open_to_special_rate: bool = False):
         """
         Send interest in a job posting to Codementor.
 
@@ -132,9 +132,17 @@ class Client:
         response.raise_for_status()  # Raise exception for bad status codes
         return response.json()
 
-    def message_user(self, username: str, message: str):
+    def send_message(self, username: str, message: str):
         url = ENDPOINTS['user chat'].format(username=username)
-        raise NotImplementedError
+        response = self.session.post(url, json={'message': {
+            'content': message,
+            'request': {
+                'temp_message_id': None,
+            },
+            'type': 'message',
+        }})
+        response.raise_for_status()
+        return response.json()
 
     def get_sessions(self) -> list[dict]:
         url = ENDPOINTS['session list']
