@@ -1,0 +1,4832 @@
+[
+    {
+        "length": 2436,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4545373665",
+        "created_at": 1731339412,
+        "init_cost": "108.27",
+        "cost": "108.27",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/722f4e56d27910b48fc8d57be20aee9e?d=mm&s=64",
+            "name": "Steve Metzger",
+            "username": "stvmetzger"
+        }
+    },
+    {
+        "length": 2361,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4934537369",
+        "created_at": 1723144727,
+        "init_cost": "104.93",
+        "cost": "104.93",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/722f4e56d27910b48fc8d57be20aee9e?d=mm&s=64",
+            "name": "Steve Metzger",
+            "username": "stvmetzger"
+        }
+    },
+    {
+        "length": 3388,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5340586443",
+        "created_at": 1719409753,
+        "init_cost": "150.58",
+        "cost": "150.58",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/722f4e56d27910b48fc8d57be20aee9e?d=mm&s=64",
+            "name": "Steve Metzger",
+            "username": "stvmetzger"
+        }
+    },
+    {
+        "length": 1248,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6643154531",
+        "created_at": 1718574109,
+        "init_cost": "104.00",
+        "cost": "104.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/fsV18CPBRjqn3oIn3NJL",
+            "name": "Mary Caroline Kreps",
+            "username": "marycarolinekreps"
+        }
+    },
+    {
+        "length": 5259,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5343586143",
+        "created_at": 1718368532,
+        "init_cost": "438.25",
+        "cost": "138.25",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/YK0NnuktRQmCBPHSttls",
+            "name": "Shayne Sprenkle",
+            "username": "shaynesprenkle"
+        }
+    },
+    {
+        "length": 994,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3496558943",
+        "created_at": 1717428031,
+        "init_cost": "44.18",
+        "cost": "44.18",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/722f4e56d27910b48fc8d57be20aee9e?d=mm&s=64",
+            "name": "Steve Metzger",
+            "username": "stvmetzger"
+        }
+    },
+    {
+        "length": 5116,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6499543316",
+        "created_at": 1715973907,
+        "init_cost": "113.69",
+        "cost": "113.69",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/f69e1156a400117867b50f83abab920d?d=mm&s=64",
+            "name": "Sandra Linnen",
+            "username": "sandi"
+        }
+    },
+    {
+        "length": 8010,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "1065613634",
+        "created_at": 1715707717,
+        "init_cost": "178.00",
+        "cost": "178.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/f69e1156a400117867b50f83abab920d?d=mm&s=64",
+            "name": "Sandra Linnen",
+            "username": "sandi"
+        }
+    },
+    {
+        "length": 691,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6541331632",
+        "created_at": 1715358001,
+        "init_cost": "20.00",
+        "cost": "20.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/d156fb58298bba58e70ef4c104ad19ee?d=mm&s=64",
+            "name": "Omar Abdelkarim",
+            "username": "oabdelkarim"
+        }
+    },
+    {
+        "length": 855,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "9046352136",
+        "created_at": 1714944035,
+        "init_cost": "75.00",
+        "cost": "75.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/XrOkmVSwQfiv9AIl63KK",
+            "name": "Celia He",
+            "username": "celiahe"
+        }
+    },
+    {
+        "length": 3523,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "0132640453",
+        "created_at": 1713812701,
+        "init_cost": "78.29",
+        "cost": "40.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/d84a3f18207c5f08f975516136512e30?d=mm&s=64",
+            "name": "Olivia Posch",
+            "username": "oliviaposch"
+        }
+    },
+    {
+        "length": 3017,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "9113046530",
+        "created_at": 1713596400,
+        "init_cost": "251.42",
+        "cost": "251.42",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/4c057c0fcf5a7b1dc5c5594d4efa95b4?d=mm&s=64",
+            "name": "Giulia Cellerino",
+            "username": "giuliacellerino"
+        }
+    },
+    {
+        "length": 3599,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6975543317",
+        "created_at": 1713299706,
+        "init_cost": "99.97",
+        "cost": "99.97",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/e0pTnuvBRyGEi9rnq0Rj",
+            "name": "Szabolcs Hatala",
+            "username": "szabolcshatala"
+        }
+    },
+    {
+        "length": 5264,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6714515363",
+        "created_at": 1712916176,
+        "init_cost": "87.73",
+        "cost": "87.73",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/c15a03a388dce5856698733c417fba4d?d=mm&s=64",
+            "name": "Toby Lent",
+            "username": "tobylent01"
+        }
+    },
+    {
+        "length": 9010,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6347315353",
+        "created_at": 1712856440,
+        "init_cost": "150.17",
+        "cost": "150.17",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/c15a03a388dce5856698733c417fba4d?d=mm&s=64",
+            "name": "Toby Lent",
+            "username": "tobylent01"
+        }
+    },
+    {
+        "length": 2515,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5614833809",
+        "created_at": 1710946028,
+        "init_cost": "209.58",
+        "cost": "209.58",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/0sxFshudTWSicy0m7Hpx",
+            "name": "Ari",
+            "username": "ariellesimmons"
+        }
+    },
+    {
+        "length": 511,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4351643055",
+        "created_at": 1710748172,
+        "init_cost": "15.00",
+        "cost": "15.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/8d51d905ed0d892124e4b28ce8b6988a?d=mm&s=64",
+            "name": "Allegra Matthews",
+            "username": "marmalad"
+        }
+    },
+    {
+        "length": 537,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "1405543634",
+        "created_at": 1710747142,
+        "init_cost": "15.00",
+        "cost": "15.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/8d51d905ed0d892124e4b28ce8b6988a?d=mm&s=64",
+            "name": "Allegra Matthews",
+            "username": "marmalad"
+        }
+    },
+    {
+        "length": 14657,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "0374915363",
+        "created_at": 1709296121,
+        "init_cost": "1221.42",
+        "cost": "1221.42",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/YNecD76hRhWmo5Olzj8A",
+            "name": "Devi Vijayakumar",
+            "username": "devivijayakumar"
+        }
+    },
+    {
+        "length": 4655,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6998543312",
+        "created_at": 1707993283,
+        "init_cost": "103.44",
+        "cost": "103.44",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/d84a3f18207c5f08f975516136512e30?d=mm&s=64",
+            "name": "Olivia Posch",
+            "username": "oliviaposch"
+        }
+    },
+    {
+        "length": 15209,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "1605253634",
+        "created_at": 1707748734,
+        "init_cost": "1267.42",
+        "cost": "1267.42",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/YK0NnuktRQmCBPHSttls",
+            "name": "Shayne Sprenkle",
+            "username": "shaynesprenkle"
+        }
+    },
+    {
+        "length": 1983,
+        "free_length": 0,
+        "aasm_state": "full_refunded",
+        "id": "2316235245",
+        "created_at": 1707241067,
+        "init_cost": "44.07",
+        "cost": "0.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/d84a3f18207c5f08f975516136512e30?d=mm&s=64",
+            "name": "Olivia Posch",
+            "username": "oliviaposch"
+        }
+    },
+    {
+        "length": 2737,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4351663404",
+        "created_at": 1706116782,
+        "init_cost": "121.64",
+        "cost": "121.64",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/722f4e56d27910b48fc8d57be20aee9e?d=mm&s=64",
+            "name": "Steve Metzger",
+            "username": "stvmetzger"
+        }
+    },
+    {
+        "length": 1871,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "2464715363",
+        "created_at": 1705512912,
+        "init_cost": "83.16",
+        "cost": "83.16",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/722f4e56d27910b48fc8d57be20aee9e?d=mm&s=64",
+            "name": "Steve Metzger",
+            "username": "stvmetzger"
+        }
+    },
+    {
+        "length": 1673,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6315516843",
+        "created_at": 1702834986,
+        "init_cost": "74.36",
+        "cost": "74.36",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/722f4e56d27910b48fc8d57be20aee9e?d=mm&s=64",
+            "name": "Steve Metzger",
+            "username": "stvmetzger"
+        }
+    },
+    {
+        "length": 6313,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5943823816",
+        "created_at": 1702414018,
+        "init_cost": "526.08",
+        "cost": "526.08",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/0sxFshudTWSicy0m7Hpx",
+            "name": "Ari",
+            "username": "ariellesimmons"
+        }
+    },
+    {
+        "length": 5184,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "9233456946",
+        "created_at": 1701885126,
+        "init_cost": "115.20",
+        "cost": "115.20",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/d84a3f18207c5f08f975516136512e30?d=mm&s=64",
+            "name": "Olivia Posch",
+            "username": "oliviaposch"
+        }
+    },
+    {
+        "length": 6860,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3296596943",
+        "created_at": 1701787488,
+        "init_cost": "152.44",
+        "cost": "152.44",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/d84a3f18207c5f08f975516136512e30?d=mm&s=64",
+            "name": "Olivia Posch",
+            "username": "oliviaposch"
+        }
+    },
+    {
+        "length": 1514,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5624833097",
+        "created_at": 1699296227,
+        "init_cost": "67.29",
+        "cost": "67.29",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/722f4e56d27910b48fc8d57be20aee9e?d=mm&s=64",
+            "name": "Steve Metzger",
+            "username": "stvmetzger"
+        }
+    },
+    {
+        "length": 2031,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5624433857",
+        "created_at": 1699025773,
+        "init_cost": "90.27",
+        "cost": "90.27",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/722f4e56d27910b48fc8d57be20aee9e?d=mm&s=64",
+            "name": "Steve Metzger",
+            "username": "stvmetzger"
+        }
+    },
+    {
+        "length": 1692,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5943773326",
+        "created_at": 1699019882,
+        "init_cost": "141.00",
+        "cost": "141.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/bwclwyD2RImY5laqYBbg",
+            "name": "Tyler Scionti",
+            "username": "tylerscionti"
+        }
+    },
+    {
+        "length": 1915,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "1954325363",
+        "created_at": 1697733165,
+        "init_cost": "42.56",
+        "cost": "42.56",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/d84a3f18207c5f08f975516136512e30?d=mm&s=64",
+            "name": "Olivia Posch",
+            "username": "oliviaposch"
+        }
+    },
+    {
+        "length": 2694,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "8233456389",
+        "created_at": 1697562344,
+        "init_cost": "59.87",
+        "cost": "59.87",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/d84a3f18207c5f08f975516136512e30?d=mm&s=64",
+            "name": "Olivia Posch",
+            "username": "oliviaposch"
+        }
+    },
+    {
+        "length": 4361,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "8233456479",
+        "created_at": 1697209428,
+        "init_cost": "363.42",
+        "cost": "363.42",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/858fe4a36da59eea8662653adbc027ab?d=mm&s=64",
+            "name": "Michael Bryzek",
+            "username": "mbryzek"
+        }
+    },
+    {
+        "length": 1512,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4523373696",
+        "created_at": 1697201886,
+        "init_cost": "42.00",
+        "cost": "42.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/0fa2ae382a085860bf1096ff56f75cf5?d=mm&s=64",
+            "name": "Adam Becker",
+            "username": "adamboazbecker"
+        }
+    },
+    {
+        "length": 1377,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4246357233",
+        "created_at": 1695051553,
+        "init_cost": "114.75",
+        "cost": "114.75",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/858fe4a36da59eea8662653adbc027ab?d=mm&s=64",
+            "name": "Michael Bryzek",
+            "username": "mbryzek"
+        }
+    },
+    {
+        "length": 2056,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3135642241",
+        "created_at": 1694551700,
+        "init_cost": "45.69",
+        "cost": "43.03",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/e0dc7fc43d43f84e2a767f3b9259c0d0?d=mm&s=64",
+            "name": "Noelle Guckien",
+            "username": "noelleguckien"
+        }
+    },
+    {
+        "length": 5201,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3522683465",
+        "created_at": 1694126721,
+        "init_cost": "86.68",
+        "cost": "86.68",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/XW4zidLT1WAA15axZuCh",
+            "name": "Hailey Hannigan",
+            "username": "haileyhannigan"
+        }
+    },
+    {
+        "length": 2723,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4372853266",
+        "created_at": 1693828963,
+        "init_cost": "226.92",
+        "cost": "226.92",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/ac25731fbba5fb8e357c02bd38ed9912?d=mm&s=64",
+            "name": "Chris Ekin",
+            "username": "cjekin"
+        }
+    },
+    {
+        "length": 1039,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4352623632",
+        "created_at": 1693565646,
+        "init_cost": "23.09",
+        "cost": "23.09",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/d84a3f18207c5f08f975516136512e30?d=mm&s=64",
+            "name": "Olivia Posch",
+            "username": "oliviaposch"
+        }
+    },
+    {
+        "length": 1286,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "2205193634",
+        "created_at": 1691685137,
+        "init_cost": "57.16",
+        "cost": "57.16",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/722f4e56d27910b48fc8d57be20aee9e?d=mm&s=64",
+            "name": "Steve Metzger",
+            "username": "stvmetzger"
+        }
+    },
+    {
+        "length": 4465,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6046359231",
+        "created_at": 1690979689,
+        "init_cost": "99.22",
+        "cost": "99.22",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/d84a3f18207c5f08f975516136512e30?d=mm&s=64",
+            "name": "Olivia Posch",
+            "username": "oliviaposch"
+        }
+    },
+    {
+        "length": 6613,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "9033456876",
+        "created_at": 1688583612,
+        "init_cost": "220.43",
+        "cost": "220.43",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/4d7011d3ebdef4a0c7c6d5f26f101740?d=mm&s=64",
+            "name": "Thomas Quaid",
+            "username": "quaidt89"
+        }
+    },
+    {
+        "length": 321,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "8084405363",
+        "created_at": 1688463093,
+        "init_cost": "75.00",
+        "cost": "75.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/i8keUS4ToyYmbcO1aVpg",
+            "name": "Boateng Opoku-Yeboah",
+            "username": "boatengopokuyeboah781"
+        }
+    },
+    {
+        "length": 709,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6640305583",
+        "created_at": 1688065377,
+        "init_cost": "20.00",
+        "cost": "20.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/02bd10b6b6d15a7b80aabfe9b257f81f?d=mm&s=64",
+            "name": "ausecours",
+            "username": "alainclaudem"
+        }
+    },
+    {
+        "length": 2248,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3550004643",
+        "created_at": 1688054553,
+        "init_cost": "49.96",
+        "cost": "49.96",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/02bd10b6b6d15a7b80aabfe9b257f81f?d=mm&s=64",
+            "name": "ausecours",
+            "username": "alainclaudem"
+        }
+    },
+    {
+        "length": 969,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5604933737",
+        "created_at": 1686818066,
+        "init_cost": "21.53",
+        "cost": "21.53",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/d84a3f18207c5f08f975516136512e30?d=mm&s=64",
+            "name": "Olivia Posch",
+            "username": "oliviaposch"
+        }
+    },
+    {
+        "length": 5606,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4350633057",
+        "created_at": 1686744286,
+        "init_cost": "124.58",
+        "cost": "124.58",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/d84a3f18207c5f08f975516136512e30?d=mm&s=64",
+            "name": "Olivia Posch",
+            "username": "oliviaposch"
+        }
+    },
+    {
+        "length": 5974,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5743783606",
+        "created_at": 1686598557,
+        "init_cost": "132.76",
+        "cost": "132.76",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/d84a3f18207c5f08f975516136512e30?d=mm&s=64",
+            "name": "Olivia Posch",
+            "username": "oliviaposch"
+        }
+    },
+    {
+        "length": 4515,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5425023367",
+        "created_at": 1686424258,
+        "init_cost": "200.67",
+        "cost": "200.67",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/adOYQeJKRsKXEemt37w9",
+            "name": "wepwawet",
+            "username": "t298261"
+        }
+    },
+    {
+        "length": 6571,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3007673495",
+        "created_at": 1686259630,
+        "init_cost": "146.02",
+        "cost": "146.02",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/d84a3f18207c5f08f975516136512e30?d=mm&s=64",
+            "name": "Olivia Posch",
+            "username": "oliviaposch"
+        }
+    },
+    {
+        "length": 1090,
+        "free_length": 0,
+        "aasm_state": "full_refunded",
+        "id": "5543793706",
+        "created_at": 1686166426,
+        "init_cost": "48.44",
+        "cost": "0.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/lx9v8r6XRqSEPGmvQFAw",
+            "name": "falowo gbolahan",
+            "username": "falowogbolahan"
+        }
+    },
+    {
+        "length": 5866,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3304556943",
+        "created_at": 1686080255,
+        "init_cost": "130.36",
+        "cost": "130.36",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/d84a3f18207c5f08f975516136512e30?d=mm&s=64",
+            "name": "Olivia Posch",
+            "username": "oliviaposch"
+        }
+    },
+    {
+        "length": 2905,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "9694940533",
+        "created_at": 1686071589,
+        "init_cost": "129.11",
+        "cost": "129.11",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/d84a3f18207c5f08f975516136512e30?d=mm&s=64",
+            "name": "Olivia Posch",
+            "username": "oliviaposch"
+        }
+    },
+    {
+        "length": 5628,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3109663475",
+        "created_at": 1685915271,
+        "init_cost": "250.13",
+        "cost": "250.13",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://ucarecdn.com/009c9b28-1fe6-439a-8e04-a44f50494bf5/",
+            "name": "Michael",
+            "username": "michaeldinnall"
+        }
+    },
+    {
+        "length": 7432,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "8924105363",
+        "created_at": 1685869838,
+        "init_cost": "165.16",
+        "cost": "165.16",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/d84a3f18207c5f08f975516136512e30?d=mm&s=64",
+            "name": "Olivia Posch",
+            "username": "oliviaposch"
+        }
+    },
+    {
+        "length": 1235,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5407003369",
+        "created_at": 1684955956,
+        "init_cost": "54.89",
+        "cost": "54.89",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/ffb8e526a5ed37ff6525fed89b0121f1?d=mm&s=64",
+            "name": "Kati Ruthart",
+            "username": "kati448"
+        }
+    },
+    {
+        "length": 1057,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4506373695",
+        "created_at": 1684914782,
+        "init_cost": "46.98",
+        "cost": "46.98",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/uWXjMrWsRMqOIBGIQVsD",
+            "name": "John Cunningham",
+            "username": "johncunningham"
+        }
+    },
+    {
+        "length": 1800,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "7304556543",
+        "created_at": 1684865665,
+        "init_cost": "80.00",
+        "cost": "80.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/Vp1Tyx9ZQcWZZXDTpysX",
+            "name": "Senne Vrins",
+            "username": "sennevrins"
+        }
+    },
+    {
+        "length": 2613,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4325953096",
+        "created_at": 1684748512,
+        "init_cost": "116.13",
+        "cost": "116.13",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/f156e153a2aa90fc9162e6933dfe8d12?d=mm&s=64",
+            "name": "Jason ifg",
+            "username": "jasonif"
+        }
+    },
+    {
+        "length": 8136,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5411093365",
+        "created_at": 1684684752,
+        "init_cost": "361.60",
+        "cost": "361.60",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/GAgb6NhRSqx4ryUD7JnP",
+            "name": "Nathaniel Olsen",
+            "username": "nateid"
+        }
+    },
+    {
+        "length": 1800,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3905693405",
+        "created_at": 1684678703,
+        "init_cost": "80.00",
+        "cost": "80.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/lx9v8r6XRqSEPGmvQFAw",
+            "name": "falowo gbolahan",
+            "username": "falowogbolahan"
+        }
+    },
+    {
+        "length": 681,
+        "free_length": 0,
+        "aasm_state": "full_refunded",
+        "id": "7305546543",
+        "created_at": 1684500109,
+        "init_cost": "40.00",
+        "cost": "0.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/8555ee9491f462d38de61968c23fa436?d=mm&s=64",
+            "name": "Grant Knaver",
+            "username": "grantknaver"
+        }
+    },
+    {
+        "length": 1797,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5306230545",
+        "created_at": 1684425321,
+        "init_cost": "49.92",
+        "cost": "49.92",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/j0Y7ZR5TlK21ZiB6VlBD",
+            "name": "Ivan Tadic",
+            "username": "ivantadic"
+        }
+    },
+    {
+        "length": 408,
+        "free_length": 0,
+        "aasm_state": "full_refunded",
+        "id": "3805693415",
+        "created_at": 1684179303,
+        "init_cost": "40.00",
+        "cost": "0.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/3d2213d97d7e5eef3f4ce333ac168dfa?d=mm&s=64",
+            "name": "Nadia Helal",
+            "username": "nadiafarouk831"
+        }
+    },
+    {
+        "length": 579,
+        "free_length": 0,
+        "aasm_state": "full_refunded",
+        "id": "4350603465",
+        "created_at": 1683985055,
+        "init_cost": "20.00",
+        "cost": "0.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/ToM5Wt7QFua3bEjBLd3g",
+            "name": "vibhas shrivastava",
+            "username": "vibhasshrivastava"
+        }
+    },
+    {
+        "length": 1098,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5306133345",
+        "created_at": 1683538231,
+        "init_cost": "48.80",
+        "cost": "48.80",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/9n4tSZi8T8eDiI1kglpp",
+            "name": "Javier C S",
+            "username": "javiercs"
+        }
+    },
+    {
+        "length": 1807,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3335603044",
+        "created_at": 1683057115,
+        "init_cost": "80.31",
+        "cost": "80.31",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/ddb82d7e17d86ceda35f2eb04958a797?d=mm&s=64",
+            "name": "Tommy Seo",
+            "username": "tommyseo"
+        }
+    },
+    {
+        "length": 902,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "0305293634",
+        "created_at": 1682701440,
+        "init_cost": "40.09",
+        "cost": "40.09",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://ucarecdn.com/2ccc1e13-3b7a-459c-857d-f33781d87c1d/",
+            "name": "Magali ",
+            "username": "biancabenitez"
+        }
+    },
+    {
+        "length": 2938,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "2030641453",
+        "created_at": 1682249240,
+        "init_cost": "130.58",
+        "cost": "130.58",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/e3d5a329615b3eded70193af5e2a2211?d=mm&s=64",
+            "name": "Gunnar Gray",
+            "username": "gunnargray41"
+        }
+    },
+    {
+        "length": 2650,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4305586443",
+        "created_at": 1681846981,
+        "init_cost": "117.78",
+        "cost": "117.78",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/e5a4wRipRRGAoTnmfNA5",
+            "name": "Brett Borgard (ChurchKeyMusic)",
+            "username": "churchkeystudio"
+        }
+    },
+    {
+        "length": 8138,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6544305283",
+        "created_at": 1681464797,
+        "init_cost": "361.69",
+        "cost": "361.69",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://ucarecdn.com/0da2c115-8030-477e-9a95-2114bf7040a8/",
+            "name": "Daleep",
+            "username": "tbmgames"
+        }
+    },
+    {
+        "length": 3021,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4746353034",
+        "created_at": 1681334414,
+        "init_cost": "134.27",
+        "cost": "100.52",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/5ff23e364a34580deb2c0f22a0e10f3c?d=mm&s=64",
+            "name": "Zach Miller",
+            "username": "zachxmiller"
+        }
+    },
+    {
+        "length": 4731,
+        "free_length": 0,
+        "aasm_state": "full_refunded",
+        "id": "6403254734",
+        "created_at": 1681329390,
+        "init_cost": "210.27",
+        "cost": "0.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/d84a3f18207c5f08f975516136512e30?d=mm&s=64",
+            "name": "Olivia Posch",
+            "username": "oliviaposch"
+        }
+    },
+    {
+        "length": 917,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6144305773",
+        "created_at": 1681309535,
+        "init_cost": "40.76",
+        "cost": "40.76",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/B6yflBUKQ4qFhyZ6FH8o",
+            "name": "Vincent Elequin",
+            "username": "vincentelequin"
+        }
+    },
+    {
+        "length": 1865,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "9146357031",
+        "created_at": 1681145467,
+        "init_cost": "82.89",
+        "cost": "82.89",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/m1KiM31dSu2WkukoFSyb",
+            "name": "Mario Conte",
+            "username": "mohamedcamara"
+        }
+    },
+    {
+        "length": 1854,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6346358031",
+        "created_at": 1680813315,
+        "init_cost": "82.40",
+        "cost": "82.40",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/m1KiM31dSu2WkukoFSyb",
+            "name": "Mario Conte",
+            "username": "mohamedcamara"
+        }
+    },
+    {
+        "length": 5644,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6403454831",
+        "created_at": 1680731911,
+        "init_cost": "250.84",
+        "cost": "250.84",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/m1KiM31dSu2WkukoFSyb",
+            "name": "Mario Conte",
+            "username": "mohamedcamara"
+        }
+    },
+    {
+        "length": 4191,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5543863906",
+        "created_at": 1680207820,
+        "init_cost": "186.27",
+        "cost": "186.27",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/rnYseoSamzc7TO9kAAQw",
+            "name": "Zachary Evans",
+            "username": "ze561384"
+        }
+    },
+    {
+        "length": 2298,
+        "free_length": 0,
+        "aasm_state": "full_refunded",
+        "id": "6984543308",
+        "created_at": 1680191971,
+        "init_cost": "102.13",
+        "cost": "0.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/42edbef0038c38f98f290c09afcc488c?d=mm&s=64",
+            "name": "Shawn Adams",
+            "username": "timberwolfshadow"
+        }
+    },
+    {
+        "length": 522,
+        "free_length": 0,
+        "aasm_state": "full_refunded",
+        "id": "2146357038",
+        "created_at": 1680186650,
+        "init_cost": "40.00",
+        "cost": "0.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/dda0fd0bfb37f1aaf8078d83d0be3190?d=mm&s=64",
+            "name": "Removed User",
+            "username": "b1263525c7d0140de4ad"
+        }
+    },
+    {
+        "length": 3484,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6148305193",
+        "created_at": 1680124164,
+        "init_cost": "154.84",
+        "cost": "154.84",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/f3c95690b186e4189a057a9ab9fd080e?d=mm&s=64",
+            "name": "Geoff Williams",
+            "username": "jeffkoenigoriginal"
+        }
+    },
+    {
+        "length": 1223,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "7033456968",
+        "created_at": 1679936137,
+        "init_cost": "54.36",
+        "cost": "54.36",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/722f4e56d27910b48fc8d57be20aee9e?d=mm&s=64",
+            "name": "Steve Metzger",
+            "username": "stvmetzger"
+        }
+    },
+    {
+        "length": 2512,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "8668940533",
+        "created_at": 1679844492,
+        "init_cost": "111.64",
+        "cost": "111.64",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/8e562ed5a99271c0d0ef39f3ae02bdc5?d=mm&s=64",
+            "name": "Bjorn Andreasson",
+            "username": "bjornan"
+        }
+    },
+    {
+        "length": 4086,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "8033456688",
+        "created_at": 1679833922,
+        "init_cost": "181.60",
+        "cost": "181.60",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/8e562ed5a99271c0d0ef39f3ae02bdc5?d=mm&s=64",
+            "name": "Bjorn Andreasson",
+            "username": "bjornan"
+        }
+    },
+    {
+        "length": 1546,
+        "free_length": 0,
+        "aasm_state": "full_refunded",
+        "id": "6434539667",
+        "created_at": 1679436682,
+        "init_cost": "68.71",
+        "cost": "0.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+            "name": "Vasu12",
+            "username": "vasanthivasu"
+        }
+    },
+    {
+        "length": 2701,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "9453601366",
+        "created_at": 1679410377,
+        "init_cost": "120.04",
+        "cost": "120.04",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/bzETRnFxQq2gf2S4uZfN",
+            "name": "Stefanie Harrison",
+            "username": "stefanieharrison"
+        }
+    },
+    {
+        "length": 2331,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3658639644",
+        "created_at": 1679396274,
+        "init_cost": "103.60",
+        "cost": "103.60",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://ucarecdn.com/0da2c115-8030-477e-9a95-2114bf7040a8/",
+            "name": "Daleep",
+            "username": "tbmgames"
+        }
+    },
+    {
+        "length": 1707,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3166693415",
+        "created_at": 1679332014,
+        "init_cost": "75.87",
+        "cost": "75.87",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/d491eca3e19160fbe6f796d486fe9adf?d=mm&s=64",
+            "name": "IyaiBassey",
+            "username": "iyaibassey"
+        }
+    },
+    {
+        "length": 3779,
+        "free_length": 0,
+        "aasm_state": "full_refunded",
+        "id": "3656326554",
+        "created_at": 1679242808,
+        "init_cost": "167.96",
+        "cost": "0.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/JL39GUJyQXi61adBJFRw",
+            "name": "John Rafferty",
+            "username": "raffejf0"
+        }
+    },
+    {
+        "length": 1008,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3656396034",
+        "created_at": 1679070871,
+        "init_cost": "44.80",
+        "cost": "44.80",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/4bO9pntJQei3pUEqPKPN",
+            "name": "Matt Ahlborg",
+            "username": "mattahlborg"
+        }
+    },
+    {
+        "length": 5831,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3656366064",
+        "created_at": 1678993681,
+        "init_cost": "259.16",
+        "cost": "259.16",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/62bd2e8d088669ae04ad17b2a5d5d106?d=mm&s=64",
+            "name": "Zachary Phillips",
+            "username": "zacharyphillips"
+        }
+    },
+    {
+        "length": 1695,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5243683666",
+        "created_at": 1678987922,
+        "init_cost": "75.33",
+        "cost": "40.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/62bd2e8d088669ae04ad17b2a5d5d106?d=mm&s=64",
+            "name": "Zachary Phillips",
+            "username": "zacharyphillips"
+        }
+    },
+    {
+        "length": 1459,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3066683435",
+        "created_at": 1678821848,
+        "init_cost": "64.84",
+        "cost": "64.84",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/b780f9c1831500da1ea4b9656168e5d8?d=mm&s=64",
+            "name": "Philip J Berent",
+            "username": "berentp"
+        }
+    },
+    {
+        "length": 2195,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3656326374",
+        "created_at": 1678752000,
+        "init_cost": "97.56",
+        "cost": "97.56",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/ca318626cbc95448c02d1c6df9fe6a2d?d=mm&s=64",
+            "name": "Michael Smith",
+            "username": "mhutch0401141"
+        }
+    },
+    {
+        "length": 865,
+        "free_length": 0,
+        "aasm_state": "full_refunded",
+        "id": "3766633415",
+        "created_at": 1678730662,
+        "init_cost": "40.00",
+        "cost": "0.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/4bO9pntJQei3pUEqPKPN",
+            "name": "Matt Ahlborg",
+            "username": "mattahlborg"
+        }
+    },
+    {
+        "length": 2967,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6163154930",
+        "created_at": 1678490191,
+        "init_cost": "131.87",
+        "cost": "131.87",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/7918f589eaed8a0ec075d8f970d265cd?d=mm&s=64",
+            "name": "William Ellisor",
+            "username": "williamellisor"
+        }
+    },
+    {
+        "length": 951,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6340365193",
+        "created_at": 1678468201,
+        "init_cost": "42.27",
+        "cost": "42.27",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/fBklq2PmR9ineaLzYiEW",
+            "name": "Nick Dadzie",
+            "username": "nicholasdadzie"
+        }
+    },
+    {
+        "length": 4487,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4390153696",
+        "created_at": 1678456780,
+        "init_cost": "199.42",
+        "cost": "120.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/MOXa122MQn2gSbnnvkLu",
+            "name": "proy",
+            "username": "viewspdata"
+        }
+    },
+    {
+        "length": 3440,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4390553656",
+        "created_at": 1678381654,
+        "init_cost": "152.89",
+        "cost": "152.89",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/eo8hbrxoRtywwpz86jaV",
+            "name": "Christian Needler",
+            "username": "replacingterror"
+        }
+    },
+    {
+        "length": 1545,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "1613046533",
+        "created_at": 1678295889,
+        "init_cost": "68.67",
+        "cost": "68.67",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/iJ7kycPQ5SBHcwl8UJ2N",
+            "name": "Jimmy Hogerty",
+            "username": "jimmyhogerty"
+        }
+    },
+    {
+        "length": 2658,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3167683415",
+        "created_at": 1677694989,
+        "init_cost": "118.13",
+        "cost": "118.13",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/737c59b1597c31af0de461a7a8532820?d=mm&s=64",
+            "name": "Gaby Nyakure",
+            "username": "gabynyakure"
+        }
+    },
+    {
+        "length": 963,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3656327814",
+        "created_at": 1677682464,
+        "init_cost": "42.80",
+        "cost": "42.80",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/eZxBeCoUQ0agd6RbnRos",
+            "name": "Shivam Damani",
+            "username": "shivamdamani"
+        }
+    },
+    {
+        "length": 749,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6691543367",
+        "created_at": 1677522742,
+        "init_cost": "40.00",
+        "cost": "40.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/9UqbemUJTjeuVhLFXANt",
+            "name": "Chris Mansker",
+            "username": "chrismansker"
+        }
+    },
+    {
+        "length": 1637,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5633456667",
+        "created_at": 1677520878,
+        "init_cost": "72.76",
+        "cost": "72.76",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/2ivitGdQX247cEX3ewfQ",
+            "name": "Alex W.",
+            "username": "alexw527"
+        }
+    },
+    {
+        "length": 2296,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6655543367",
+        "created_at": 1677518437,
+        "init_cost": "102.04",
+        "cost": "102.04",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/9UqbemUJTjeuVhLFXANt",
+            "name": "Chris Mansker",
+            "username": "chrismansker"
+        }
+    },
+    {
+        "length": 4298,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "2453643367",
+        "created_at": 1677360374,
+        "init_cost": "143.27",
+        "cost": "143.27",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/M8wwKoXRSmkQGP7NgF0Q",
+            "name": "Arundeep Patwalia",
+            "username": "arundeeppatwalia"
+        }
+    },
+    {
+        "length": 1717,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6247365043",
+        "created_at": 1677264559,
+        "init_cost": "76.31",
+        "cost": "76.31",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/722f4e56d27910b48fc8d57be20aee9e?d=mm&s=64",
+            "name": "Steve Metzger",
+            "username": "stvmetzger"
+        }
+    },
+    {
+        "length": 3713,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5743573366",
+        "created_at": 1676056029,
+        "init_cost": "165.02",
+        "cost": "165.02",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/4bO9pntJQei3pUEqPKPN",
+            "name": "Matt Ahlborg",
+            "username": "mattahlborg"
+        }
+    },
+    {
+        "length": 4897,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5143393966",
+        "created_at": 1675544615,
+        "init_cost": "163.23",
+        "cost": "163.23",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/cgLL9k3ZTdq7U84EAU99",
+            "name": "Preston Keskey",
+            "username": "prestonkeskey"
+        }
+    },
+    {
+        "length": 11766,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3360596343",
+        "created_at": 1675110794,
+        "init_cost": "392.20",
+        "cost": "392.20",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://ucarecdn.com/d71bc5f1-93ee-4bfb-ae45-d0a2b97ebbe2/",
+            "name": "sheriffderek",
+            "username": "sheriffderek"
+        }
+    },
+    {
+        "length": 1610,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "8364516243",
+        "created_at": 1674858757,
+        "init_cost": "53.67",
+        "cost": "53.67",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/5ce8e863705bc73602dfcbd9f469fb22?d=mm&s=64",
+            "name": "Removed User",
+            "username": "a56662c48ca822b363ac"
+        }
+    },
+    {
+        "length": 2464,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5664633392",
+        "created_at": 1674848526,
+        "init_cost": "82.13",
+        "cost": "82.13",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/722f4e56d27910b48fc8d57be20aee9e?d=mm&s=64",
+            "name": "Steve Metzger",
+            "username": "stvmetzger"
+        }
+    },
+    {
+        "length": 4775,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5664333692",
+        "created_at": 1674838871,
+        "init_cost": "159.17",
+        "cost": "159.17",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/298dfa932426677c0bd21e9925cbd0df?d=mm&s=64",
+            "name": "Erik Robert Anderson",
+            "username": "primex001"
+        }
+    },
+    {
+        "length": 1321,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6214565363",
+        "created_at": 1674671313,
+        "init_cost": "44.03",
+        "cost": "44.03",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/j7YfQI7RyuYU3rDmU0Wj",
+            "name": "Stephen F",
+            "username": "stephenforder"
+        }
+    },
+    {
+        "length": 3363,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6678543362",
+        "created_at": 1674575083,
+        "init_cost": "112.10",
+        "cost": "112.10",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/7KYHvCB8SbCShjYep85x",
+            "name": "Heyko Degenhart",
+            "username": "heykodegenhart"
+        }
+    },
+    {
+        "length": 2799,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6342365803",
+        "created_at": 1674489875,
+        "init_cost": "93.30",
+        "cost": "93.30",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/0bf3c38513524b2668af9c38f5358335?d=mm&s=64",
+            "name": "Nick Shipley",
+            "username": "nickshipley"
+        }
+    },
+    {
+        "length": 2166,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "0446354634",
+        "created_at": 1674145525,
+        "init_cost": "72.20",
+        "cost": "72.20",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://lh4.googleusercontent.com/-m6p6Y6KRiwM/AAAAAAAAAAI/AAAAAAAAAKc/j-YoQTd7p8g/photo.jpg",
+            "name": "Yohann Atticot (Yoch)",
+            "username": "yohannatticotyoch"
+        }
+    },
+    {
+        "length": 500,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3656364714",
+        "created_at": 1673994662,
+        "init_cost": "30.00",
+        "cost": "30.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/722f4e56d27910b48fc8d57be20aee9e?d=mm&s=64",
+            "name": "Steve Metzger",
+            "username": "stvmetzger"
+        }
+    },
+    {
+        "length": 2679,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4569333645",
+        "created_at": 1673728291,
+        "init_cost": "89.30",
+        "cost": "89.30",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/eb0e5fc3b89f334cb46ffd81dd5f159b?d=mm&s=64",
+            "name": "Matthew Edgin",
+            "username": "medgin729"
+        }
+    },
+    {
+        "length": 3566,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "8633456934",
+        "created_at": 1673722900,
+        "init_cost": "118.87",
+        "cost": "118.87",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/722f4e56d27910b48fc8d57be20aee9e?d=mm&s=64",
+            "name": "Steve Metzger",
+            "username": "stvmetzger"
+        }
+    },
+    {
+        "length": 3346,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6244365613",
+        "created_at": 1673625035,
+        "init_cost": "111.53",
+        "cost": "111.53",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/161330b50e55ef9cc72f5e9bc9b056c3?d=mm&s=64",
+            "name": "Asad Akbar",
+            "username": "asadakbar"
+        }
+    },
+    {
+        "length": 785,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6694543364",
+        "created_at": 1673622288,
+        "init_cost": "30.00",
+        "cost": "30.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/722f4e56d27910b48fc8d57be20aee9e?d=mm&s=64",
+            "name": "Steve Metzger",
+            "username": "stvmetzger"
+        }
+    },
+    {
+        "length": 825,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6834536468",
+        "created_at": 1673559153,
+        "init_cost": "30.00",
+        "cost": "30.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/e04b7654fd710564350bbc98b33c50dd?d=mm&s=64",
+            "name": "Kevin Aguiar",
+            "username": "kevinwaguiar"
+        }
+    },
+    {
+        "length": 4994,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3246353634",
+        "created_at": 1673475469,
+        "init_cost": "166.47",
+        "cost": "166.47",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/e04b7654fd710564350bbc98b33c50dd?d=mm&s=64",
+            "name": "Kevin Aguiar",
+            "username": "kevinwaguiar"
+        }
+    },
+    {
+        "length": 1087,
+        "free_length": 0,
+        "aasm_state": "full_refunded",
+        "id": "1494065363",
+        "created_at": 1673377707,
+        "init_cost": "36.23",
+        "cost": "0.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/9f49d3db0a283e5002c1a5976a01f61c?d=mm&s=64",
+            "name": "Pastel Blumaroo",
+            "username": "pastel"
+        }
+    },
+    {
+        "length": 1181,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "2046356634",
+        "created_at": 1673372351,
+        "init_cost": "39.37",
+        "cost": "39.37",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/4b417312220329d6275b333f3abf937e?d=mm&s=64",
+            "name": "Shayda Bazargani",
+            "username": "shaydabazargani"
+        }
+    },
+    {
+        "length": 2163,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3046355634",
+        "created_at": 1673368139,
+        "init_cost": "72.10",
+        "cost": "72.10",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/161330b50e55ef9cc72f5e9bc9b056c3?d=mm&s=64",
+            "name": "Asad Akbar",
+            "username": "asadakbar"
+        }
+    },
+    {
+        "length": 1745,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3035604640",
+        "created_at": 1673361043,
+        "init_cost": "58.17",
+        "cost": "58.17",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/161330b50e55ef9cc72f5e9bc9b056c3?d=mm&s=64",
+            "name": "Asad Akbar",
+            "username": "asadakbar"
+        }
+    },
+    {
+        "length": 1387,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "9364516143",
+        "created_at": 1673194060,
+        "init_cost": "46.23",
+        "cost": "46.23",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/a78e4d801a0a71b2826525d1eef619d2?d=mm&s=64",
+            "name": "Megha Chettur",
+            "username": "meghachettur06"
+        }
+    },
+    {
+        "length": 1197,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4356643041",
+        "created_at": 1673114492,
+        "init_cost": "39.90",
+        "cost": "39.90",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/e04b7654fd710564350bbc98b33c50dd?d=mm&s=64",
+            "name": "Kevin Aguiar",
+            "username": "kevinwaguiar"
+        }
+    },
+    {
+        "length": 4163,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6663054431",
+        "created_at": 1673109915,
+        "init_cost": "138.77",
+        "cost": "138.77",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/0bf3c38513524b2668af9c38f5358335?d=mm&s=64",
+            "name": "Nick Shipley",
+            "username": "nickshipley"
+        }
+    },
+    {
+        "length": 5481,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6163454531",
+        "created_at": 1672869719,
+        "init_cost": "182.70",
+        "cost": "182.70",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/c0feed9bce15833b69444f16173ac0fd?d=mm&s=64",
+            "name": "Chris Baldwin",
+            "username": "cdbald"
+        }
+    },
+    {
+        "length": 3300,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3656351934",
+        "created_at": 1672767229,
+        "init_cost": "110.00",
+        "cost": "110.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/eef534f6e81ebd971c86d82959d212f8?d=mm&s=64",
+            "name": "robin@robin-kipp.net",
+            "username": "rob_k"
+        }
+    },
+    {
+        "length": 1346,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3453639361",
+        "created_at": 1672764350,
+        "init_cost": "44.87",
+        "cost": "44.87",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/722f4e56d27910b48fc8d57be20aee9e?d=mm&s=64",
+            "name": "Steve Metzger",
+            "username": "stvmetzger"
+        }
+    },
+    {
+        "length": 1034,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4569333618",
+        "created_at": 1672759505,
+        "init_cost": "34.47",
+        "cost": "34.47",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/722f4e56d27910b48fc8d57be20aee9e?d=mm&s=64",
+            "name": "Steve Metzger",
+            "username": "stvmetzger"
+        }
+    },
+    {
+        "length": 6,
+        "free_length": 0,
+        "aasm_state": "full_refunded",
+        "id": "5460633361",
+        "created_at": 1672757879,
+        "init_cost": "30.00",
+        "cost": "0.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/722f4e56d27910b48fc8d57be20aee9e?d=mm&s=64",
+            "name": "Steve Metzger",
+            "username": "stvmetzger"
+        }
+    },
+    {
+        "length": 3285,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4362586143",
+        "created_at": 1672322414,
+        "init_cost": "109.50",
+        "cost": "109.50",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/e04b7654fd710564350bbc98b33c50dd?d=mm&s=64",
+            "name": "Kevin Aguiar",
+            "username": "kevinwaguiar"
+        }
+    },
+    {
+        "length": 357,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5664633248",
+        "created_at": 1671729900,
+        "init_cost": "30.00",
+        "cost": "30.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/ef20bef9230b5a300d46e64bfd8f0aa9?d=mm&s=64",
+            "name": "Mia",
+            "username": "hannibal816"
+        }
+    },
+    {
+        "length": 2163,
+        "free_length": 0,
+        "aasm_state": "full_refunded",
+        "id": "5543853466",
+        "created_at": 1671721459,
+        "init_cost": "72.10",
+        "cost": "0.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/Ofdvw1QqTuyGg3Bih5za",
+            "name": "Blaze",
+            "username": "blaze969"
+        }
+    },
+    {
+        "length": 850,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3168633455",
+        "created_at": 1671560869,
+        "init_cost": "30.00",
+        "cost": "30.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/p5GleleGS5ico68lPZtt",
+            "name": "jenilaryan",
+            "username": "jenilaryan"
+        }
+    },
+    {
+        "length": 3791,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "2633456958",
+        "created_at": 1671492409,
+        "init_cost": "126.37",
+        "cost": "126.37",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/e9E7qMMaQPmDhjDfdYAD",
+            "name": "Jawara Vanterpool",
+            "username": "jawaravanterpool"
+        }
+    },
+    {
+        "length": 3923,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6634535867",
+        "created_at": 1671486042,
+        "init_cost": "130.77",
+        "cost": "130.77",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/p5GleleGS5ico68lPZtt",
+            "name": "jenilaryan",
+            "username": "jenilaryan"
+        }
+    },
+    {
+        "length": 1255,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4358553616",
+        "created_at": 1671483135,
+        "init_cost": "41.83",
+        "cost": "41.83",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/p5GleleGS5ico68lPZtt",
+            "name": "jenilaryan",
+            "username": "jenilaryan"
+        }
+    },
+    {
+        "length": 635,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "9633456438",
+        "created_at": 1671460207,
+        "init_cost": "30.00",
+        "cost": "30.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/8DNRRPyRNK7SwjK7enLp",
+            "name": "Kabi Singh",
+            "username": "kabisingh977"
+        }
+    },
+    {
+        "length": 702,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3468366579",
+        "created_at": 1671290168,
+        "init_cost": "30.00",
+        "cost": "30.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/a81dec9605af70130511c76f40f5ae14?d=mm&s=64",
+            "name": "Grant Phelps",
+            "username": "grantphelps4702"
+        }
+    },
+    {
+        "length": 2987,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3364886656",
+        "created_at": 1671280467,
+        "init_cost": "99.57",
+        "cost": "99.57",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/a81dec9605af70130511c76f40f5ae14?d=mm&s=64",
+            "name": "Grant Phelps",
+            "username": "grantphelps4702"
+        }
+    },
+    {
+        "length": 3157,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5443823866",
+        "created_at": 1671208456,
+        "init_cost": "105.23",
+        "cost": "105.23",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/a0aae9b3a08c6d981eace695505ddb1b?d=mm&s=64",
+            "name": "Erik Hartman",
+            "username": "zype1007708"
+        }
+    },
+    {
+        "length": 655,
+        "free_length": 0,
+        "aasm_state": "full_refunded",
+        "id": "3696548843",
+        "created_at": 1671205053,
+        "init_cost": "30.00",
+        "cost": "0.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/a0aae9b3a08c6d981eace695505ddb1b?d=mm&s=64",
+            "name": "Erik Hartman",
+            "username": "zype1007708"
+        }
+    },
+    {
+        "length": 2574,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3370556643",
+        "created_at": 1670444100,
+        "init_cost": "85.80",
+        "cost": "85.80",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/eec3e01b728345bbbd1fc32061c74a61?d=mm&s=64",
+            "name": "Removed User",
+            "username": "8d5272513f578dbfb751"
+        }
+    },
+    {
+        "length": 3567,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "2373596043",
+        "created_at": 1670060081,
+        "init_cost": "118.90",
+        "cost": "118.90",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/38588ad11f2d4e1dd326bdb3310834ca?d=mm&s=64",
+            "name": "Aaron A Randall",
+            "username": "aaron36"
+        }
+    },
+    {
+        "length": 4389,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5470723360",
+        "created_at": 1669914215,
+        "init_cost": "146.30",
+        "cost": "146.30",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/a0aae9b3a08c6d981eace695505ddb1b?d=mm&s=64",
+            "name": "Erik Hartman",
+            "username": "zype1007708"
+        }
+    },
+    {
+        "length": 11772,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "0547301635",
+        "created_at": 1669825209,
+        "init_cost": "392.40",
+        "cost": "392.40",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/ba16ada213d2f41cf64ca723353cf1cb?d=mm&s=64",
+            "name": "Abraham adegite",
+            "username": "tonjebaba"
+        }
+    },
+    {
+        "length": 1801,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3756330774",
+        "created_at": 1669803968,
+        "init_cost": "60.03",
+        "cost": "60.03",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/38588ad11f2d4e1dd326bdb3310834ca?d=mm&s=64",
+            "name": "Aaron A Randall",
+            "username": "aaron36"
+        }
+    },
+    {
+        "length": 6841,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4733456199",
+        "created_at": 1668800638,
+        "init_cost": "228.03",
+        "cost": "228.03",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/25c835f505ecfae4603b3b2a527999d7?d=mm&s=64",
+            "name": "Bruce",
+            "username": "bkrogman"
+        }
+    },
+    {
+        "length": 2092,
+        "free_length": 0,
+        "aasm_state": "full_refunded",
+        "id": "6733456719",
+        "created_at": 1668782486,
+        "init_cost": "69.73",
+        "cost": "0.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/198be0a588018b1525c78293648af281?d=mm&s=64",
+            "name": "Daniel",
+            "username": "danielwillitzer"
+        }
+    },
+    {
+        "length": 166,
+        "free_length": 0,
+        "aasm_state": "full_refunded",
+        "id": "4339153756",
+        "created_at": 1668780146,
+        "init_cost": "30.00",
+        "cost": "0.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://ucarecdn.com/d9f88412-8c58-4151-8fcb-11f190765339/",
+            "name": "Cameron McCloskey",
+            "username": "cameronmccloskey"
+        }
+    },
+    {
+        "length": 659,
+        "free_length": 0,
+        "aasm_state": "full_refunded",
+        "id": "6049375123",
+        "created_at": 1668729896,
+        "init_cost": "30.00",
+        "cost": "0.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://ucarecdn.com/d9f88412-8c58-4151-8fcb-11f190765339/",
+            "name": "Cameron McCloskey",
+            "username": "cameronmccloskey"
+        }
+    },
+    {
+        "length": 392,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "9645647533",
+        "created_at": 1668715923,
+        "init_cost": "30.00",
+        "cost": "30.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/25c835f505ecfae4603b3b2a527999d7?d=mm&s=64",
+            "name": "Bruce",
+            "username": "bkrogman"
+        }
+    },
+    {
+        "length": 3577,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6526543379",
+        "created_at": 1668708075,
+        "init_cost": "119.23",
+        "cost": "119.23",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/25c835f505ecfae4603b3b2a527999d7?d=mm&s=64",
+            "name": "Bruce",
+            "username": "bkrogman"
+        }
+    },
+    {
+        "length": 5307,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3766589543",
+        "created_at": 1668701735,
+        "init_cost": "176.90",
+        "cost": "176.90",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/25c835f505ecfae4603b3b2a527999d7?d=mm&s=64",
+            "name": "Bruce",
+            "username": "bkrogman"
+        }
+    },
+    {
+        "length": 2893,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "0373526943",
+        "created_at": 1668622056,
+        "init_cost": "96.43",
+        "cost": "96.43",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/25c835f505ecfae4603b3b2a527999d7?d=mm&s=64",
+            "name": "Bruce",
+            "username": "bkrogman"
+        }
+    },
+    {
+        "length": 3720,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3374597656",
+        "created_at": 1668618000,
+        "init_cost": "124.00",
+        "cost": "124.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/Vo15qVTQmxgHnTNBfNxQ",
+            "name": "Lorenzo Carreri",
+            "username": "lorenzocarreri"
+        }
+    },
+    {
+        "length": 3614,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5674333709",
+        "created_at": 1668441730,
+        "init_cost": "120.47",
+        "cost": "120.47",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/Vo15qVTQmxgHnTNBfNxQ",
+            "name": "Lorenzo Carreri",
+            "username": "lorenzocarreri"
+        }
+    },
+    {
+        "length": 423,
+        "free_length": 0,
+        "aasm_state": "full_refunded",
+        "id": "3733456479",
+        "created_at": 1668368038,
+        "init_cost": "30.00",
+        "cost": "0.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/5ce8e863705bc73602dfcbd9f469fb22?d=mm&s=64",
+            "name": "Removed User",
+            "username": "a56662c48ca822b363ac"
+        }
+    },
+    {
+        "length": 7802,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5674133279",
+        "created_at": 1668359065,
+        "init_cost": "260.07",
+        "cost": "260.07",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/25c835f505ecfae4603b3b2a527999d7?d=mm&s=64",
+            "name": "Bruce",
+            "username": "bkrogman"
+        }
+    },
+    {
+        "length": 153,
+        "free_length": 0,
+        "aasm_state": "full_refunded",
+        "id": "3952737648",
+        "created_at": 1668358853,
+        "init_cost": "30.00",
+        "cost": "0.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/25c835f505ecfae4603b3b2a527999d7?d=mm&s=64",
+            "name": "Bruce",
+            "username": "bkrogman"
+        }
+    },
+    {
+        "length": 18946,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4335453766",
+        "created_at": 1668272806,
+        "init_cost": "631.53",
+        "cost": "631.53",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/25c835f505ecfae4603b3b2a527999d7?d=mm&s=64",
+            "name": "Bruce",
+            "username": "bkrogman"
+        }
+    },
+    {
+        "length": 2816,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6971543375",
+        "created_at": 1668200562,
+        "init_cost": "93.87",
+        "cost": "93.87",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/25c835f505ecfae4603b3b2a527999d7?d=mm&s=64",
+            "name": "Bruce",
+            "username": "bkrogman"
+        }
+    },
+    {
+        "length": 4628,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4345953706",
+        "created_at": 1668194906,
+        "init_cost": "154.27",
+        "cost": "154.27",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/25c835f505ecfae4603b3b2a527999d7?d=mm&s=64",
+            "name": "Bruce",
+            "username": "bkrogman"
+        }
+    },
+    {
+        "length": 7586,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5629847533",
+        "created_at": 1668186282,
+        "init_cost": "252.87",
+        "cost": "252.87",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/25c835f505ecfae4603b3b2a527999d7?d=mm&s=64",
+            "name": "Bruce",
+            "username": "bkrogman"
+        }
+    },
+    {
+        "length": 3918,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4657937935",
+        "created_at": 1668182084,
+        "init_cost": "130.60",
+        "cost": "130.60",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/Vo15qVTQmxgHnTNBfNxQ",
+            "name": "Lorenzo Carreri",
+            "username": "lorenzocarreri"
+        }
+    },
+    {
+        "length": 1897,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5659547533",
+        "created_at": 1668178790,
+        "init_cost": "63.23",
+        "cost": "63.23",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/25c835f505ecfae4603b3b2a527999d7?d=mm&s=64",
+            "name": "Bruce",
+            "username": "bkrogman"
+        }
+    },
+    {
+        "length": 483,
+        "free_length": 0,
+        "aasm_state": "full_refunded",
+        "id": "6953543375",
+        "created_at": 1668177249,
+        "init_cost": "30.00",
+        "cost": "0.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/67c8a3faad218cde6032ebc25af2e4dc?d=mm&s=64",
+            "name": "Barbara K",
+            "username": "barbarak"
+        }
+    },
+    {
+        "length": 3928,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5691947533",
+        "created_at": 1668122821,
+        "init_cost": "130.93",
+        "cost": "130.93",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/02d9ccfd45e6c9389185e7f2198967d8?d=mm&s=64",
+            "name": "Melissa Miller",
+            "username": "melissamillerjd"
+        }
+    },
+    {
+        "length": 7339,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5371536543",
+        "created_at": 1668114327,
+        "init_cost": "244.63",
+        "cost": "244.63",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/25c835f505ecfae4603b3b2a527999d7?d=mm&s=64",
+            "name": "Bruce",
+            "username": "bkrogman"
+        }
+    },
+    {
+        "length": 426,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4146351735",
+        "created_at": 1668111476,
+        "init_cost": "30.00",
+        "cost": "30.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/25c835f505ecfae4603b3b2a527999d7?d=mm&s=64",
+            "name": "Bruce",
+            "username": "bkrogman"
+        }
+    },
+    {
+        "length": 6353,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3384957556",
+        "created_at": 1668037745,
+        "init_cost": "211.77",
+        "cost": "211.77",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/25c835f505ecfae4603b3b2a527999d7?d=mm&s=64",
+            "name": "Bruce",
+            "username": "bkrogman"
+        }
+    },
+    {
+        "length": 2764,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4577383650",
+        "created_at": 1667930924,
+        "init_cost": "92.13",
+        "cost": "92.13",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/ug3rgqTjQPG1hcwi7CFU",
+            "name": "Fernando Medina Corey",
+            "username": "fernandomedinacorey"
+        }
+    },
+    {
+        "length": 2614,
+        "free_length": 0,
+        "aasm_state": "full_refunded",
+        "id": "4572383655",
+        "created_at": 1667923057,
+        "init_cost": "87.13",
+        "cost": "0.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/Ofdvw1QqTuyGg3Bih5za",
+            "name": "Blaze",
+            "username": "blaze969"
+        }
+    },
+    {
+        "length": 1413,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "7205503634",
+        "created_at": 1667764802,
+        "init_cost": "31.40",
+        "cost": "31.40",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/b3fbc0ee5c4a42d1505a7db7e5efe584?d=mm&s=64",
+            "name": "Jacob Quernheim",
+            "username": "jquernheim"
+        }
+    },
+    {
+        "length": 2633,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6373054433",
+        "created_at": 1667580156,
+        "init_cost": "58.51",
+        "cost": "58.51",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/Kq7dJm1WR4yiIgbRGQAW",
+            "name": "Keke Lamar",
+            "username": "kekelamar"
+        }
+    },
+    {
+        "length": 2218,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "7373516343",
+        "created_at": 1667400059,
+        "init_cost": "49.29",
+        "cost": "49.29",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/klVVcIEPSFCtApTNquuV",
+            "name": "Michael Cheich",
+            "username": "michaelcheich"
+        }
+    },
+    {
+        "length": 1939,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5674833263",
+        "created_at": 1667322983,
+        "init_cost": "43.09",
+        "cost": "43.09",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/b9ed5fc0f1444d236aa177d693bbbd6f?d=mm&s=64",
+            "name": "Suga Pang ",
+            "username": "nixchong27"
+        }
+    },
+    {
+        "length": 2618,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6743375203",
+        "created_at": 1667241347,
+        "init_cost": "58.18",
+        "cost": "58.18",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/78ff9f3e95b2c6e8d8d4278a3bce0340?d=mm&s=64",
+            "name": "Anthony Davey",
+            "username": "daveyam91"
+        }
+    },
+    {
+        "length": 4036,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5370566343",
+        "created_at": 1667134042,
+        "init_cost": "134.53",
+        "cost": "134.53",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/1768fda9ea880cc876d983fa1d374e95?d=mm&s=64",
+            "name": "Julian Hamann",
+            "username": "jules734"
+        }
+    },
+    {
+        "length": 3195,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6073054733",
+        "created_at": 1666991382,
+        "init_cost": "71.00",
+        "cost": "71.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/kkVI7O3zR3SA1NerYIOg",
+            "name": "Chhaya Kulkarni",
+            "username": "chhayakulkarni"
+        }
+    },
+    {
+        "length": 1554,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3756392244",
+        "created_at": 1666971238,
+        "init_cost": "34.53",
+        "cost": "34.53",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/8a25f05674391f38b85302021ff14ca6?d=mm&s=64",
+            "name": "Elijah Buford",
+            "username": "elijahbuford"
+        }
+    },
+    {
+        "length": 743,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5453744362",
+        "created_at": 1666812157,
+        "init_cost": "20.00",
+        "cost": "20.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/iSlYedmoRST8shfvn6F8",
+            "name": "Bandar Alsanie",
+            "username": "bandaralsanie"
+        }
+    },
+    {
+        "length": 4133,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6173254532",
+        "created_at": 1666804676,
+        "init_cost": "91.84",
+        "cost": "91.84",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/c63aea50a54bc503858254292fec0778?d=mm&s=64",
+            "name": "Lucia F",
+            "username": "mladytina"
+        }
+    },
+    {
+        "length": 4407,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6573054332",
+        "created_at": 1666719981,
+        "init_cost": "97.93",
+        "cost": "97.93",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/c63aea50a54bc503858254292fec0778?d=mm&s=64",
+            "name": "Lucia F",
+            "username": "mladytina"
+        }
+    },
+    {
+        "length": 6616,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "0846351732",
+        "created_at": 1666627993,
+        "init_cost": "147.02",
+        "cost": "147.02",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/36sKtnq5TwCW7qKmxSMi",
+            "name": "Ryan Dalby",
+            "username": "ryandalby"
+        }
+    },
+    {
+        "length": 219,
+        "free_length": 0,
+        "aasm_state": "full_refunded",
+        "id": "2214875363",
+        "created_at": 1666627336,
+        "init_cost": "20.00",
+        "cost": "0.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/36sKtnq5TwCW7qKmxSMi",
+            "name": "Ryan Dalby",
+            "username": "ryandalby"
+        }
+    },
+    {
+        "length": 3149,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5246352732",
+        "created_at": 1666569321,
+        "init_cost": "69.98",
+        "cost": "69.98",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/36sKtnq5TwCW7qKmxSMi",
+            "name": "Ryan Dalby",
+            "username": "ryandalby"
+        }
+    },
+    {
+        "length": 2009,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "9370536243",
+        "created_at": 1666468433,
+        "init_cost": "44.64",
+        "cost": "44.64",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/fed09e5835d54d013d192fe18dbb3d0c?d=mm&s=64",
+            "name": "Amir Kalantari",
+            "username": "amirhosseinkalantari"
+        }
+    },
+    {
+        "length": 1705,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5674833614",
+        "created_at": 1666206141,
+        "init_cost": "66.31",
+        "cost": "66.31",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/0ixEBEE9SsiA6Xo8wzNq",
+            "name": "Megan Ballard",
+            "username": "meganballard"
+        }
+    },
+    {
+        "length": 1160,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4353693030",
+        "created_at": 1663612689,
+        "init_cost": "38.67",
+        "cost": "38.67",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/5ce8e863705bc73602dfcbd9f469fb22?d=mm&s=64",
+            "name": "Removed User",
+            "username": "a56662c48ca822b363ac"
+        }
+    },
+    {
+        "length": 4792,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3035660341",
+        "created_at": 1663272356,
+        "init_cost": "106.49",
+        "cost": "106.49",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/574854e7c156e58c13b6abfc5e905336?d=mm&s=64",
+            "name": "Raoul",
+            "username": "campbellrouzan2"
+        }
+    },
+    {
+        "length": 2788,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3235600345",
+        "created_at": 1663104068,
+        "init_cost": "92.93",
+        "cost": "92.93",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/G63QwG5QIGXbROm2JvOw",
+            "name": "Garima K.",
+            "username": "thepuredesire"
+        }
+    },
+    {
+        "length": 1374,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "0330643153",
+        "created_at": 1663100951,
+        "init_cost": "45.80",
+        "cost": "45.80",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/e04b7654fd710564350bbc98b33c50dd?d=mm&s=64",
+            "name": "Kevin Aguiar",
+            "username": "kevinwaguiar"
+        }
+    },
+    {
+        "length": 4002,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5743763536",
+        "created_at": 1662667464,
+        "init_cost": "133.40",
+        "cost": "133.40",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/PmeOv0dSRIy3AlxXP6MY",
+            "name": "Liz Verde",
+            "username": "lizverde"
+        }
+    },
+    {
+        "length": 2428,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4353653007",
+        "created_at": 1662655589,
+        "init_cost": "80.93",
+        "cost": "80.93",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/1c1d52d5b2d7042325a9d6f44c07a838?d=mm&s=64",
+            "name": "Jason Vondersmith",
+            "username": "jason714"
+        }
+    },
+    {
+        "length": 1856,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "2453355367",
+        "created_at": 1662386626,
+        "init_cost": "61.87",
+        "cost": "61.87",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/e04b7654fd710564350bbc98b33c50dd?d=mm&s=64",
+            "name": "Kevin Aguiar",
+            "username": "kevinwaguiar"
+        }
+    },
+    {
+        "length": 9225,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "1046357337",
+        "created_at": 1662322675,
+        "init_cost": "153.75",
+        "cost": "153.75",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/574854e7c156e58c13b6abfc5e905336?d=mm&s=64",
+            "name": "Raoul",
+            "username": "campbellrouzan2"
+        }
+    },
+    {
+        "length": 492,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "9629843533",
+        "created_at": 1662028985,
+        "init_cost": "20.00",
+        "cost": "20.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/a0aae9b3a08c6d981eace695505ddb1b?d=mm&s=64",
+            "name": "Erik Hartman",
+            "username": "zype1007708"
+        }
+    },
+    {
+        "length": 3835,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5634833519",
+        "created_at": 1661946176,
+        "init_cost": "85.22",
+        "cost": "85.22",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/a0aae9b3a08c6d981eace695505ddb1b?d=mm&s=64",
+            "name": "Erik Hartman",
+            "username": "zype1007708"
+        }
+    },
+    {
+        "length": 4571,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3394893556",
+        "created_at": 1661883483,
+        "init_cost": "101.58",
+        "cost": "50.79",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://ucarecdn.com/72a009cb-b268-42e6-886d-185bbd6a26b8/",
+            "name": "Lohit Talasila",
+            "username": "lohittalasila"
+        }
+    },
+    {
+        "length": 1248,
+        "free_length": 0,
+        "aasm_state": "full_refunded",
+        "id": "5410333369",
+        "created_at": 1661803694,
+        "init_cost": "27.73",
+        "cost": "0.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/567bbc1af7891155b0add5b526f88e19?d=mm&s=64",
+            "name": "Fabian Silva",
+            "username": "fsilva"
+        }
+    },
+    {
+        "length": 3273,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3374993656",
+        "created_at": 1661790465,
+        "init_cost": "72.73",
+        "cost": "72.73",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/a0aae9b3a08c6d981eace695505ddb1b?d=mm&s=64",
+            "name": "Erik Hartman",
+            "username": "zype1007708"
+        }
+    },
+    {
+        "length": 2620,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "9686543533",
+        "created_at": 1661705409,
+        "init_cost": "58.22",
+        "cost": "58.22",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/a0aae9b3a08c6d981eace695505ddb1b?d=mm&s=64",
+            "name": "Erik Hartman",
+            "username": "zype1007708"
+        }
+    },
+    {
+        "length": 525,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4658833939",
+        "created_at": 1661626227,
+        "init_cost": "30.00",
+        "cost": "30.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/6AGtL9FZQSq2AFdBVnHp",
+            "name": "Nakeeta Charles",
+            "username": "nakeetacharles"
+        }
+    },
+    {
+        "length": 5953,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "9244235363",
+        "created_at": 1659466984,
+        "init_cost": "198.43",
+        "cost": "198.43",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/GlhrYw4uRkq1mQpvHBuk",
+            "name": "CreatEvo",
+            "username": "exploevo"
+        }
+    },
+    {
+        "length": 905,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4353623352",
+        "created_at": 1659463592,
+        "init_cost": "30.17",
+        "cost": "30.17",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/939c912e3b616dec777cdc9f751ca181?d=mm&s=64",
+            "name": "Edward",
+            "username": "remoteworkforus"
+        }
+    },
+    {
+        "length": 6121,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3634663445",
+        "created_at": 1658948618,
+        "init_cost": "136.02",
+        "cost": "136.02",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/GlhrYw4uRkq1mQpvHBuk",
+            "name": "CreatEvo",
+            "username": "exploevo"
+        }
+    },
+    {
+        "length": 842,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "2846351334",
+        "created_at": 1658867954,
+        "init_cost": "22.00",
+        "cost": "22.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/594076be67a1bced89bc7b88e51c9529?d=mm&s=64",
+            "name": "Chris Birchby",
+            "username": "cbirchby"
+        }
+    },
+    {
+        "length": 6182,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "7332556443",
+        "created_at": 1658859564,
+        "init_cost": "206.07",
+        "cost": "206.07",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/BkYjN1V2TqObxuk8Zb8Q",
+            "name": "Max Johnson",
+            "username": "maxjohnson944"
+        }
+    },
+    {
+        "length": 2078,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6733354034",
+        "created_at": 1658782769,
+        "init_cost": "69.27",
+        "cost": "69.27",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/kzhbtWSJ2dKCiEAhX95Q",
+            "name": "Alyson Race",
+            "username": "alysonrace"
+        }
+    },
+    {
+        "length": 1478,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "1453389361",
+        "created_at": 1658437815,
+        "init_cost": "49.27",
+        "cost": "49.27",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/51c8311746eb4015a603a11f3be14e8c?d=mm&s=64",
+            "name": "Nina Ferguson",
+            "username": "fergusoncatriona1"
+        }
+    },
+    {
+        "length": 178,
+        "free_length": 0,
+        "aasm_state": "full_refunded",
+        "id": "1331642053",
+        "created_at": 1658422251,
+        "init_cost": "30.00",
+        "cost": "0.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/3d74154d66fd05c5411a55c61ce0e90b?d=mm&s=64",
+            "name": "Lili Joe",
+            "username": "lilijoe249"
+        }
+    },
+    {
+        "length": 12954,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3731653475",
+        "created_at": 1657999208,
+        "init_cost": "431.80",
+        "cost": "431.80",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/UcEW49f5SSCLMBuUA2it",
+            "name": "Eric",
+            "username": "eric462"
+        }
+    },
+    {
+        "length": 8675,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4453343368",
+        "created_at": 1657900825,
+        "init_cost": "289.17",
+        "cost": "289.17",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/6b36f78c91b4a905880863e2345cbfcd?d=mm&s=64",
+            "name": "Daniel Hammond",
+            "username": "dhammondku"
+        }
+    },
+    {
+        "length": 3646,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6972543338",
+        "created_at": 1657827180,
+        "init_cost": "121.53",
+        "cost": "121.53",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/GlhrYw4uRkq1mQpvHBuk",
+            "name": "CreatEvo",
+            "username": "exploevo"
+        }
+    },
+    {
+        "length": 3525,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "8804135363",
+        "created_at": 1657729142,
+        "init_cost": "117.50",
+        "cost": "117.50",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/594076be67a1bced89bc7b88e51c9529?d=mm&s=64",
+            "name": "Chris Birchby",
+            "username": "cbirchby"
+        }
+    },
+    {
+        "length": 1837,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6133054538",
+        "created_at": 1657666795,
+        "init_cost": "61.23",
+        "cost": "61.23",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/npu6y3VzQMSopYAGbqAb",
+            "name": "Jonathan Torres-Herrera",
+            "username": "jonathantorresherrera"
+        }
+    },
+    {
+        "length": 3890,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3338623475",
+        "created_at": 1657655089,
+        "init_cost": "129.67",
+        "cost": "129.67",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/npu6y3VzQMSopYAGbqAb",
+            "name": "Jonathan Torres-Herrera",
+            "username": "jonathantorresherrera"
+        }
+    },
+    {
+        "length": 433,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5634933338",
+        "created_at": 1657648442,
+        "init_cost": "30.00",
+        "cost": "30.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/FeIR1oCSLGnglGb0qpzC",
+            "name": "Ajar Ajar",
+            "username": "ajarajar"
+        }
+    },
+    {
+        "length": 2243,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5420333368",
+        "created_at": 1657644983,
+        "init_cost": "74.77",
+        "cost": "74.77",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/dce177625c9b1d93d9ad87e3988210ab?d=mm&s=64",
+            "name": "Ashley Pitt",
+            "username": "pittashley"
+        }
+    },
+    {
+        "length": 2145,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6033054638",
+        "created_at": 1657555917,
+        "init_cost": "71.50",
+        "cost": "71.50",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://ucarecdn.com/d9e3209c-e1d2-4f61-a71a-97d798155645/",
+            "name": "Marton Horvath",
+            "username": "kroeger"
+        }
+    },
+    {
+        "length": 3188,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5332536843",
+        "created_at": 1657392727,
+        "init_cost": "106.27",
+        "cost": "106.27",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/E3qR0FQuQeyeXUpz0url",
+            "name": "Daniel Sandoval",
+            "username": "danielsandoval"
+        }
+    },
+    {
+        "length": 3641,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4368753316",
+        "created_at": 1657222611,
+        "init_cost": "121.37",
+        "cost": "121.37",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/GlhrYw4uRkq1mQpvHBuk",
+            "name": "CreatEvo",
+            "username": "exploevo"
+        }
+    },
+    {
+        "length": 1465,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4453921366",
+        "created_at": 1657138189,
+        "init_cost": "48.83",
+        "cost": "48.83",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/eWGFSEHOQrSbjyNC5rWt",
+            "name": "Julius Park Oh",
+            "username": "juliusparkoh"
+        }
+    },
+    {
+        "length": 7208,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5694333356",
+        "created_at": 1656950733,
+        "init_cost": "240.27",
+        "cost": "240.27",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/b64e5165d48f41a107b41e18690f38fc?d=mm&s=64",
+            "name": "Tilak Pasala",
+            "username": "tilakpasala"
+        }
+    },
+    {
+        "length": 729,
+        "free_length": 0,
+        "aasm_state": "full_refunded",
+        "id": "6678149533",
+        "created_at": 1656618340,
+        "init_cost": "30.00",
+        "cost": "0.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/09806563e5eb51e2b3ce68d4d3ccc8b5?d=mm&s=64",
+            "name": "Amal",
+            "username": "amalaldaoud96"
+        }
+    },
+    {
+        "length": 4931,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5743043896",
+        "created_at": 1655913664,
+        "init_cost": "164.37",
+        "cost": "164.37",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/594076be67a1bced89bc7b88e51c9529?d=mm&s=64",
+            "name": "Chris Birchby",
+            "username": "cbirchby"
+        }
+    },
+    {
+        "length": 5058,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "2392586043",
+        "created_at": 1655837921,
+        "init_cost": "168.60",
+        "cost": "168.60",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/GlhrYw4uRkq1mQpvHBuk",
+            "name": "CreatEvo",
+            "username": "exploevo"
+        }
+    },
+    {
+        "length": 3247,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6445543397",
+        "created_at": 1655668834,
+        "init_cost": "108.23",
+        "cost": "108.23",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/WjD3s19hQkS5qTBpAALl",
+            "name": "Musab Kamal",
+            "username": "musabkamal"
+        }
+    },
+    {
+        "length": 2253,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5694433337",
+        "created_at": 1655329855,
+        "init_cost": "75.10",
+        "cost": "75.10",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/7fe9b7c298b0ae28f37a63e6fc24a10e?d=mm&s=64",
+            "name": "Sahil Pindolia ",
+            "username": "sahil_pindolia"
+        }
+    },
+    {
+        "length": 5788,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3956337234",
+        "created_at": 1655323781,
+        "init_cost": "192.93",
+        "cost": "192.93",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/594076be67a1bced89bc7b88e51c9529?d=mm&s=64",
+            "name": "Chris Birchby",
+            "username": "cbirchby"
+        }
+    },
+    {
+        "length": 3958,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3397643405",
+        "created_at": 1655307133,
+        "init_cost": "131.93",
+        "cost": "131.93",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/594076be67a1bced89bc7b88e51c9529?d=mm&s=64",
+            "name": "Chris Birchby",
+            "username": "cbirchby"
+        }
+    },
+    {
+        "length": 74,
+        "free_length": 0,
+        "aasm_state": "full_refunded",
+        "id": "8933456067",
+        "created_at": 1655239069,
+        "init_cost": "30.00",
+        "cost": "0.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/a984f19e8d514a2404d379209cf8cc98?d=mm&s=64",
+            "name": "Ruyu Ding",
+            "username": "ry21077"
+        }
+    },
+    {
+        "length": 3905,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "7678049533",
+        "created_at": 1655233383,
+        "init_cost": "130.17",
+        "cost": "130.17",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/GlhrYw4uRkq1mQpvHBuk",
+            "name": "CreatEvo",
+            "username": "exploevo"
+        }
+    },
+    {
+        "length": 1619,
+        "free_length": 0,
+        "aasm_state": "full_refunded",
+        "id": "5694033287",
+        "created_at": 1655221472,
+        "init_cost": "53.97",
+        "cost": "0.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/3d74154d66fd05c5411a55c61ce0e90b?d=mm&s=64",
+            "name": "Lili Joe",
+            "username": "lilijoe249"
+        }
+    },
+    {
+        "length": 5389,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4359153916",
+        "created_at": 1654781588,
+        "init_cost": "179.63",
+        "cost": "179.63",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/GlhrYw4uRkq1mQpvHBuk",
+            "name": "CreatEvo",
+            "username": "exploevo"
+        }
+    },
+    {
+        "length": 961,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "7358936964",
+        "created_at": 1654633315,
+        "init_cost": "32.03",
+        "cost": "32.03",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/7fe9b7c298b0ae28f37a63e6fc24a10e?d=mm&s=64",
+            "name": "Sahil Pindolia ",
+            "username": "sahil_pindolia"
+        }
+    },
+    {
+        "length": 2873,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "9640949533",
+        "created_at": 1654444391,
+        "init_cost": "95.77",
+        "cost": "95.77",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/1768fda9ea880cc876d983fa1d374e95?d=mm&s=64",
+            "name": "Julian Hamann",
+            "username": "jules734"
+        }
+    },
+    {
+        "length": 2211,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5694133745",
+        "created_at": 1654267352,
+        "init_cost": "73.70",
+        "cost": "73.70",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/2c817f1f5b6ba4b2d18240ecaa39bda5?d=mm&s=64",
+            "name": "Sam Koch",
+            "username": "samkoch"
+        }
+    },
+    {
+        "length": 13455,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4355653906",
+        "created_at": 1653943861,
+        "init_cost": "448.50",
+        "cost": "448.50",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/7fe9b7c298b0ae28f37a63e6fc24a10e?d=mm&s=64",
+            "name": "Sahil Pindolia ",
+            "username": "sahil_pindolia"
+        }
+    },
+    {
+        "length": 1356,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "1390566543",
+        "created_at": 1653661387,
+        "init_cost": "45.20",
+        "cost": "45.20",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/7fe9b7c298b0ae28f37a63e6fc24a10e?d=mm&s=64",
+            "name": "Sahil Pindolia ",
+            "username": "sahil_pindolia"
+        }
+    },
+    {
+        "length": 2888,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6762543395",
+        "created_at": 1653598057,
+        "init_cost": "96.27",
+        "cost": "96.27",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/7fe9b7c298b0ae28f37a63e6fc24a10e?d=mm&s=64",
+            "name": "Sahil Pindolia ",
+            "username": "sahil_pindolia"
+        }
+    },
+    {
+        "length": 1654,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6179543393",
+        "created_at": 1653485707,
+        "init_cost": "55.13",
+        "cost": "55.13",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/7fe9b7c298b0ae28f37a63e6fc24a10e?d=mm&s=64",
+            "name": "Sahil Pindolia ",
+            "username": "sahil_pindolia"
+        }
+    },
+    {
+        "length": 1684,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "8933456463",
+        "created_at": 1653325490,
+        "init_cost": "56.13",
+        "cost": "56.13",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/7fe9b7c298b0ae28f37a63e6fc24a10e?d=mm&s=64",
+            "name": "Sahil Pindolia ",
+            "username": "sahil_pindolia"
+        }
+    },
+    {
+        "length": 1965,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6093354233",
+        "created_at": 1653165810,
+        "init_cost": "65.50",
+        "cost": "65.50",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/0ace477e02386a4e53ef30e202dfd956?d=mm&s=64",
+            "name": "David M",
+            "username": "dgenixllc"
+        }
+    },
+    {
+        "length": 2148,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4598323635",
+        "created_at": 1653100816,
+        "init_cost": "71.60",
+        "cost": "71.60",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/45bdbcfc6b7b954201474d7543d494ed?d=mm&s=64",
+            "name": "shareef chowdhury",
+            "username": "shareefochowdhury"
+        }
+    },
+    {
+        "length": 1705,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5440913362",
+        "created_at": 1652881823,
+        "init_cost": "56.83",
+        "cost": "56.83",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/aZgTvOYRRmmUkp8nSiJt",
+            "name": "Greg Elin",
+            "username": "gregelin"
+        }
+    },
+    {
+        "length": 1165,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4346350932",
+        "created_at": 1652740087,
+        "init_cost": "38.83",
+        "cost": "38.83",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+            "name": "Peter ",
+            "username": "jacksonnguyen640"
+        }
+    },
+    {
+        "length": 2413,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3996592643",
+        "created_at": 1652717923,
+        "init_cost": "80.43",
+        "cost": "80.43",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/1d7a6957e71ad0e3bf78724fbc6eb24f?d=mm&s=64",
+            "name": "William Forsyth",
+            "username": "williamtcforsyth"
+        }
+    },
+    {
+        "length": 1769,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4359643011",
+        "created_at": 1651782965,
+        "init_cost": "49.14",
+        "cost": "49.14",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/Jk39BOPThSCcLGRrimau",
+            "name": "Ryan Mulroy",
+            "username": "ryanmulroy"
+        }
+    },
+    {
+        "length": 6520,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3691613465",
+        "created_at": 1651584554,
+        "init_cost": "181.11",
+        "cost": "181.11",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/93f6ed7a52d910188e432f00b5fadb57?d=mm&s=64",
+            "name": "Ryan Alexander",
+            "username": "ryanalexander487"
+        }
+    },
+    {
+        "length": 2598,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "9933456561",
+        "created_at": 1651579269,
+        "init_cost": "72.17",
+        "cost": "72.17",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/7504e9642defb18367c12c6b0105b90d?d=mm&s=64",
+            "name": "Joel Chenoweth",
+            "username": "jchenwth"
+        }
+    },
+    {
+        "length": 5964,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5694933161",
+        "created_at": 1651572839,
+        "init_cost": "165.67",
+        "cost": "165.67",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/93f6ed7a52d910188e432f00b5fadb57?d=mm&s=64",
+            "name": "Ryan Alexander",
+            "username": "ryanalexander487"
+        }
+    },
+    {
+        "length": 3783,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5543153896",
+        "created_at": 1651521908,
+        "init_cost": "105.08",
+        "cost": "105.08",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/93f6ed7a52d910188e432f00b5fadb57?d=mm&s=64",
+            "name": "Ryan Alexander",
+            "username": "ryanalexander487"
+        }
+    },
+    {
+        "length": 2124,
+        "free_length": 0,
+        "aasm_state": "full_refunded",
+        "id": "1114895363",
+        "created_at": 1651518257,
+        "init_cost": "59.00",
+        "cost": "0.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/EUvY3VFSTTmWNymSBOw6",
+            "name": "Kaitlin Cunningham",
+            "username": "kaitlincunningham"
+        }
+    },
+    {
+        "length": 809,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4359623211",
+        "created_at": 1651489976,
+        "init_cost": "25.00",
+        "cost": "25.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/7504e9642defb18367c12c6b0105b90d?d=mm&s=64",
+            "name": "Joel Chenoweth",
+            "username": "jchenwth"
+        }
+    },
+    {
+        "length": 2670,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "1124795363",
+        "created_at": 1651338770,
+        "init_cost": "74.17",
+        "cost": "74.17",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/EuWGcNE8Sf2uXcfnJRPj",
+            "name": "bobby beason",
+            "username": "bobbybeason"
+        }
+    },
+    {
+        "length": 7653,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "9934537166",
+        "created_at": 1651329159,
+        "init_cost": "212.58",
+        "cost": "212.58",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/c227c559db661bdfbe79a12eaf278ac3?d=mm&s=64",
+            "name": "jk",
+            "username": "jk12"
+        }
+    },
+    {
+        "length": 5184,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3857935644",
+        "created_at": 1651140256,
+        "init_cost": "144.00",
+        "cost": "144.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/7504e9642defb18367c12c6b0105b90d?d=mm&s=64",
+            "name": "Joel Chenoweth",
+            "username": "jchenwth"
+        }
+    },
+    {
+        "length": 6199,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3498368547",
+        "created_at": 1651002003,
+        "init_cost": "172.19",
+        "cost": "172.19",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+            "name": "Peter ",
+            "username": "jacksonnguyen640"
+        }
+    },
+    {
+        "length": 1926,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5654613296",
+        "created_at": 1650718630,
+        "init_cost": "53.50",
+        "cost": "53.50",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/yn2rMT73RsOKDBAglvOr",
+            "name": "Ibrahim Fawzi",
+            "username": "ibrahimfawzi"
+        }
+    },
+    {
+        "length": 1638,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4155623640",
+        "created_at": 1649844666,
+        "init_cost": "45.50",
+        "cost": "45.50",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/00dcd3ca322e84a795bb291d11abee26?d=mm&s=64",
+            "name": "Aislinn Pentony",
+            "username": "aislinnpentony07"
+        }
+    },
+    {
+        "length": 3494,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3556148274",
+        "created_at": 1645464837,
+        "init_cost": "97.06",
+        "cost": "97.06",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/60daad37e7c77592eb6ef54bdf9343c8?d=mm&s=64",
+            "name": "Saw",
+            "username": "dogmoonp"
+        }
+    },
+    {
+        "length": 4978,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4326451876",
+        "created_at": 1645402063,
+        "init_cost": "138.28",
+        "cost": "138.28",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/8f4f8d35ab1d52dc05c3b5688de35202?d=mm&s=64",
+            "name": "Gloria Lastra",
+            "username": "glorialastra"
+        }
+    },
+    {
+        "length": 5295,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "1186663445",
+        "created_at": 1645291973,
+        "init_cost": "147.08",
+        "cost": "147.08",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/60daad37e7c77592eb6ef54bdf9343c8?d=mm&s=64",
+            "name": "Saw",
+            "username": "dogmoonp"
+        }
+    },
+    {
+        "length": 3745,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3194868556",
+        "created_at": 1645199041,
+        "init_cost": "104.03",
+        "cost": "104.03",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/gisz0OJcRaaDBgHTPLom",
+            "name": "eht-escanor",
+            "username": "ehtescanor"
+        }
+    },
+    {
+        "length": 3104,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4356551836",
+        "created_at": 1645192902,
+        "init_cost": "68.98",
+        "cost": "68.98",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/67d0d61ef1e50ce99f82bb19737a0983?d=mm&s=64",
+            "name": "Claire C",
+            "username": "cmc8ma"
+        }
+    },
+    {
+        "length": 1709,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5684913506",
+        "created_at": 1644958122,
+        "init_cost": "47.47",
+        "cost": "47.47",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/57a3c67dc592883b68127da4caceef93?d=mm&s=64",
+            "name": "Emma Steuer",
+            "username": "emmasteuer1"
+        }
+    },
+    {
+        "length": 270,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "8315041634",
+        "created_at": 1644863996,
+        "init_cost": "25.00",
+        "cost": "25.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/57a3c67dc592883b68127da4caceef93?d=mm&s=64",
+            "name": "Emma Steuer",
+            "username": "emmasteuer1"
+        }
+    },
+    {
+        "length": 1400,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4386210045",
+        "created_at": 1644858682,
+        "init_cost": "38.89",
+        "cost": "38.89",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/57a3c67dc592883b68127da4caceef93?d=mm&s=64",
+            "name": "Emma Steuer",
+            "username": "emmasteuer1"
+        }
+    },
+    {
+        "length": 4603,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5684313890",
+        "created_at": 1644792834,
+        "init_cost": "127.86",
+        "cost": "127.86",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/6H314pXT3mVoa1u9ohz7",
+            "name": "Austin Robinson",
+            "username": "austinrobinson"
+        }
+    },
+    {
+        "length": 1276,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "2185586043",
+        "created_at": 1644683437,
+        "init_cost": "35.44",
+        "cost": "35.44",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/4jA9fljHQrGGKsHIQ8LX",
+            "name": "Dylan McRae",
+            "username": "dylanmcrae"
+        }
+    },
+    {
+        "length": 476,
+        "free_length": 0,
+        "aasm_state": "full_refunded",
+        "id": "5452833160",
+        "created_at": 1644595283,
+        "init_cost": "25.00",
+        "cost": "0.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/4jA9fljHQrGGKsHIQ8LX",
+            "name": "Dylan McRae",
+            "username": "dylanmcrae"
+        }
+    },
+    {
+        "length": 1458,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5684313647",
+        "created_at": 1644321884,
+        "init_cost": "40.50",
+        "cost": "40.50",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/d45740f56a14bb77c48987a21ecceee9?d=mm&s=64",
+            "name": "Joao Isabel",
+            "username": "joaoalvesisabel"
+        }
+    },
+    {
+        "length": 719,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6853543187",
+        "created_at": 1643904968,
+        "init_cost": "25.00",
+        "cost": "25.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/uQoDFChrQOOAAEgDX7kF",
+            "name": "h p",
+            "username": "harri853"
+        }
+    },
+    {
+        "length": 1877,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "8453801167",
+        "created_at": 1643900840,
+        "init_cost": "52.14",
+        "cost": "52.14",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/uQoDFChrQOOAAEgDX7kF",
+            "name": "h p",
+            "username": "harri853"
+        }
+    },
+    {
+        "length": 820,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4180546743",
+        "created_at": 1643819479,
+        "init_cost": "25.00",
+        "cost": "25.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/1ebcfb3b3dcb9ae12d67b0e7270b5498?d=mm&s=64",
+            "name": "Removed User",
+            "username": "cadbc2075444babdce00"
+        }
+    },
+    {
+        "length": 2828,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "9678148531",
+        "created_at": 1643303015,
+        "init_cost": "78.56",
+        "cost": "78.56",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/uQoDFChrQOOAAEgDX7kF",
+            "name": "h p",
+            "username": "harri853"
+        }
+    },
+    {
+        "length": 383,
+        "free_length": 0,
+        "aasm_state": "full_refunded",
+        "id": "4389051826",
+        "created_at": 1643129325,
+        "init_cost": "25.00",
+        "cost": "0.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/fc6e5292f3a5a3d1fe7b6d7fd959af33?d=mm&s=64",
+            "name": "Jonathan Robson",
+            "username": "jonathanrobson"
+        }
+    },
+    {
+        "length": 3551,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4385351836",
+        "created_at": 1642690710,
+        "init_cost": "98.64",
+        "cost": "98.64",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/uQoDFChrQOOAAEgDX7kF",
+            "name": "h p",
+            "username": "harri853"
+        }
+    },
+    {
+        "length": 3344,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "2453872165",
+        "created_at": 1642534999,
+        "init_cost": "92.89",
+        "cost": "92.89",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/6k6O32VVSbqQi2HqmNsu",
+            "name": "Adam L.",
+            "username": "astrosoup"
+        }
+    },
+    {
+        "length": 1312,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4385251846",
+        "created_at": 1642509676,
+        "init_cost": "36.44",
+        "cost": "36.44",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/uQoDFChrQOOAAEgDX7kF",
+            "name": "h p",
+            "username": "harri853"
+        }
+    },
+    {
+        "length": 1451,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "1359839646",
+        "created_at": 1642183579,
+        "init_cost": "40.31",
+        "cost": "40.31",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/uQoDFChrQOOAAEgDX7kF",
+            "name": "h p",
+            "username": "harri853"
+        }
+    },
+    {
+        "length": 691,
+        "free_length": 0,
+        "aasm_state": "full_refunded",
+        "id": "1189526343",
+        "created_at": 1642170556,
+        "init_cost": "25.00",
+        "cost": "0.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/VsVW5xOxT2oQlCZtOsDg",
+            "name": "Tariq H",
+            "username": "tariqh"
+        }
+    },
+    {
+        "length": 7198,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "1358839647",
+        "created_at": 1642151642,
+        "init_cost": "199.94",
+        "cost": "199.94",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://ucarecdn.com/2237106a-745b-4c0d-a2a3-19aa92718c03/",
+            "name": "Brian Otten",
+            "username": "briandotten"
+        }
+    },
+    {
+        "length": 11025,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "0811346531",
+        "created_at": 1642095703,
+        "init_cost": "306.25",
+        "cost": "306.25",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/uQoDFChrQOOAAEgDX7kF",
+            "name": "h p",
+            "username": "harri853"
+        }
+    },
+    {
+        "length": 3247,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "8005351634",
+        "created_at": 1642021240,
+        "init_cost": "90.19",
+        "cost": "90.19",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/00dcd3ca322e84a795bb291d11abee26?d=mm&s=64",
+            "name": "Aislinn Pentony",
+            "username": "aislinnpentony07"
+        }
+    },
+    {
+        "length": 584,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4588351635",
+        "created_at": 1642018422,
+        "init_cost": "25.00",
+        "cost": "25.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/00dcd3ca322e84a795bb291d11abee26?d=mm&s=64",
+            "name": "Aislinn Pentony",
+            "username": "aislinnpentony07"
+        }
+    },
+    {
+        "length": 1156,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6243185623",
+        "created_at": 1641911972,
+        "init_cost": "32.11",
+        "cost": "32.11",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/VsVW5xOxT2oQlCZtOsDg",
+            "name": "Tariq H",
+            "username": "tariqh"
+        }
+    },
+    {
+        "length": 2182,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5684213963",
+        "created_at": 1641904442,
+        "init_cost": "60.61",
+        "cost": "60.61",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/fa4d1f916006d0c34e051e982aa9ad25?d=mm&s=64",
+            "name": "Trevor Harvey",
+            "username": "trevorharvey"
+        }
+    },
+    {
+        "length": 675,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4304785361",
+        "created_at": 1641493711,
+        "init_cost": "25.00",
+        "cost": "25.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/VF9txDlRSOW5uZH6qoml",
+            "name": "trigpolynom",
+            "username": "trigpolynom"
+        }
+    },
+    {
+        "length": 4862,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3189516243",
+        "created_at": 1641381987,
+        "init_cost": "135.06",
+        "cost": "135.06",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/68f46d8b30697af9c94e7c2e93d0500c?d=mm&s=64",
+            "name": "Fred",
+            "username": "fjnlsa11"
+        }
+    },
+    {
+        "length": 1803,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "0386210445",
+        "created_at": 1639531669,
+        "init_cost": "50.08",
+        "cost": "50.08",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/rjrymBMnSKCl440Vm844",
+            "name": "Chandrakanth B",
+            "username": "chandrakanthb"
+        }
+    },
+    {
+        "length": 3948,
+        "free_length": 900,
+        "aasm_state": "finished",
+        "id": "1188663425",
+        "created_at": 1638806644,
+        "init_cost": "84.67",
+        "cost": "84.67",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/7sbQzCQgSxqjr17B9VBg",
+            "name": "Bobby Kittell",
+            "username": "bobbykittell125"
+        }
+    },
+    {
+        "length": 3192,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "1540693475",
+        "created_at": 1637586110,
+        "init_cost": "70.93",
+        "cost": "70.93",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/67d0d61ef1e50ce99f82bb19737a0983?d=mm&s=64",
+            "name": "Claire C",
+            "username": "cmc8ma"
+        }
+    },
+    {
+        "length": 20976,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4725031634",
+        "created_at": 1637499702,
+        "init_cost": "466.13",
+        "cost": "466.13",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/67d0d61ef1e50ce99f82bb19737a0983?d=mm&s=64",
+            "name": "Claire C",
+            "username": "cmc8ma"
+        }
+    },
+    {
+        "length": 4561,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "9148526043",
+        "created_at": 1637346638,
+        "init_cost": "101.36",
+        "cost": "101.36",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/67d0d61ef1e50ce99f82bb19737a0983?d=mm&s=64",
+            "name": "Claire C",
+            "username": "cmc8ma"
+        }
+    },
+    {
+        "length": 1469,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "0346713045",
+        "created_at": 1637260385,
+        "init_cost": "32.64",
+        "cost": "32.64",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/67d0d61ef1e50ce99f82bb19737a0983?d=mm&s=64",
+            "name": "Claire C",
+            "username": "cmc8ma"
+        }
+    },
+    {
+        "length": 1562,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3914545361",
+        "created_at": 1636553571,
+        "init_cost": "43.39",
+        "cost": "43.39",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/FxEq6tKMQ6SeYwZW7kqd",
+            "name": "Jonathon Hammond",
+            "username": "jhammond2012"
+        }
+    },
+    {
+        "length": 3868,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4904545361",
+        "created_at": 1636549511,
+        "init_cost": "85.96",
+        "cost": "85.96",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/daaf1273558bfcf1804796635d60655b?d=mm&s=64",
+            "name": "Adrien Kwong",
+            "username": "akrtw1"
+        }
+    },
+    {
+        "length": 3361,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6288543149",
+        "created_at": 1636370335,
+        "init_cost": "74.69",
+        "cost": "74.69",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/daaf1273558bfcf1804796635d60655b?d=mm&s=64",
+            "name": "Adrien Kwong",
+            "username": "akrtw1"
+        }
+    },
+    {
+        "length": 3916,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "1445663465",
+        "created_at": 1636197886,
+        "init_cost": "87.02",
+        "cost": "87.02",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/daaf1273558bfcf1804796635d60655b?d=mm&s=64",
+            "name": "Adrien Kwong",
+            "username": "akrtw1"
+        }
+    },
+    {
+        "length": 2254,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3401546531",
+        "created_at": 1636109726,
+        "init_cost": "50.09",
+        "cost": "50.09",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/daaf1273558bfcf1804796635d60655b?d=mm&s=64",
+            "name": "Adrien Kwong",
+            "username": "akrtw1"
+        }
+    },
+    {
+        "length": 2002,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4385651446",
+        "created_at": 1635934123,
+        "init_cost": "44.49",
+        "cost": "20.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/848PntlSN6Un8JIbAO0i",
+            "name": "Daiden Sacha",
+            "username": "daidensacha"
+        }
+    },
+    {
+        "length": 799,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "6341554235",
+        "created_at": 1635866993,
+        "init_cost": "20.00",
+        "cost": "20.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/67d0d61ef1e50ce99f82bb19737a0983?d=mm&s=64",
+            "name": "Claire C",
+            "username": "cmc8ma"
+        }
+    },
+    {
+        "length": 1534,
+        "free_length": 0,
+        "aasm_state": "full_refunded",
+        "id": "5544320614",
+        "created_at": 1635860026,
+        "init_cost": "34.09",
+        "cost": "0.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/daaf1273558bfcf1804796635d60655b?d=mm&s=64",
+            "name": "Adrien Kwong",
+            "username": "akrtw1"
+        }
+    },
+    {
+        "length": 7774,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "3456185274",
+        "created_at": 1635774773,
+        "init_cost": "172.76",
+        "cost": "172.76",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/daaf1273558bfcf1804796635d60655b?d=mm&s=64",
+            "name": "Adrien Kwong",
+            "username": "akrtw1"
+        }
+    },
+    {
+        "length": 19900,
+        "free_length": 900,
+        "aasm_state": "finished",
+        "id": "6841054433",
+        "created_at": 1635685310,
+        "init_cost": "422.22",
+        "cost": "422.22",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/67d0d61ef1e50ce99f82bb19737a0983?d=mm&s=64",
+            "name": "Claire C",
+            "username": "cmc8ma"
+        }
+    },
+    {
+        "length": 1968,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "5445423163",
+        "created_at": 1635329100,
+        "init_cost": "43.73",
+        "cost": "43.73",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/daaf1273558bfcf1804796635d60655b?d=mm&s=64",
+            "name": "Adrien Kwong",
+            "username": "akrtw1"
+        }
+    },
+    {
+        "length": 4801,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "4905301634",
+        "created_at": 1635251038,
+        "init_cost": "106.69",
+        "cost": "106.69",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/daaf1273558bfcf1804796635d60655b?d=mm&s=64",
+            "name": "Adrien Kwong",
+            "username": "akrtw1"
+        }
+    },
+    {
+        "length": 738,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "1542140643",
+        "created_at": 1635171456,
+        "init_cost": "20.00",
+        "cost": "20.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/daaf1273558bfcf1804796635d60655b?d=mm&s=64",
+            "name": "Adrien Kwong",
+            "username": "akrtw1"
+        }
+    },
+    {
+        "length": 2847,
+        "free_length": 900,
+        "aasm_state": "full_refunded",
+        "id": "4154603292",
+        "created_at": 1634760839,
+        "init_cost": "43.27",
+        "cost": "0.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://cdn.filestackcontent.com/QS2ApFF1SDmoLTObSrL4",
+            "name": "Tariq T",
+            "username": "tariqt"
+        }
+    },
+    {
+        "length": 115,
+        "free_length": 900,
+        "aasm_state": "finished",
+        "id": "0346612245",
+        "created_at": 1634757879,
+        "init_cost": "0.00",
+        "cost": "0.00",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/cd4f03cf5b974c89bed6d2ef417fd66f?d=mm&s=64",
+            "name": "Ghada Al naimi",
+            "username": "ga1513753"
+        }
+    },
+    {
+        "length": 2791,
+        "free_length": 0,
+        "aasm_state": "finished",
+        "id": "2446356414",
+        "created_at": 1634666269,
+        "init_cost": "62.02",
+        "cost": "62.02",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/4f947f35d3223041d8925ff268a9834b?d=mm&s=64",
+            "name": "Anthony DiMeo",
+            "username": "adimeo09"
+        }
+    },
+    {
+        "length": 3161,
+        "free_length": 900,
+        "aasm_state": "finished",
+        "id": "1434640051",
+        "created_at": 1634122939,
+        "init_cost": "50.24",
+        "cost": "50.24",
+        "legacy": false,
+        "mentee": {
+            "small_avatar_url": "https://www.gravatar.com/avatar/bfdcd437a323ed808b0cc0e2486c3ba2?d=mm&s=64",
+            "name": "Removed User",
+            "username": "80dff75faae8b8a77d28"
+        }
+    }
+]

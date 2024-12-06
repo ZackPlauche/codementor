@@ -1,0 +1,41 @@
+{
+    "request": {
+        "temp_message_id": null
+    },
+    "type": "message",
+    "created_at": 1733520072117.4211,
+    "read_at": null,
+    "id": "1d6cf433-850c-4036-874d-20aa08236ea3",
+    "content": "Hey louis!\n\nI'd love to help you with this. \ud83d\ude42\n\nWould you like to have a call?",
+    "chats_path": "chats/267bcc96-afa0-4279-ac12-5f62c6cbe7da/89585d3c-4e2c-4a18-83ab-ec3ec3ca30d0",
+    "sender": {
+        "timezone_str": "+00:00",
+        "timezone_offset": 0,
+        "timezone_display": "London (+00:00)",
+        "timezone": "Europe/London",
+        "username": "zackplauche",
+        "name": "Zack Plauch\u00e9",
+        "first_name": "Zack",
+        "level": "mentor",
+        "role": "mentor",
+        "avatar_url": "https://ucarecdn.com/ac71e130-9586-41d7-9718-ce4147b3f278/",
+        "small_avatar_url": "https://ucarecdn.com/ac71e130-9586-41d7-9718-ce4147b3f278/",
+        "uuid": "89585d3c-4e2c-4a18-83ab-ec3ec3ca30d0",
+        "rating": 5.0
+    },
+    "receiver": {
+        "timezone_str": "-08:00",
+        "timezone_offset": -28800,
+        "timezone_display": "Pacific Time (US & Canada) (-08:00)",
+        "timezone": "America/Los_Angeles",
+        "username": "louisbeaumont",
+        "name": "louis beaumont",
+        "first_name": "louis",
+        "level": "user",
+        "role": "user",
+        "avatar_url": "https://cdn.filestackcontent.com/cXWpC6OoSeq3nVpH7blJ",
+        "small_avatar_url": "https://cdn.filestackcontent.com/cXWpC6OoSeq3nVpH7blJ",
+        "uuid": "267bcc96-afa0-4279-ac12-5f62c6cbe7da",
+        "rating": 0.0
+    }
+}

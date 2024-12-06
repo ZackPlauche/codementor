@@ -1,0 +1,42 @@
+{
+    "random_key": "l1uny0poqo",
+    "title": "Debug my implementation of Microsoft Remote Desktop (Rust/C++)",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "20.0",
+    "created_at": 1733518139,
+    "is_featured": true,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+        "name": "louis beaumont",
+        "username": "louisbeaumont",
+        "small_avatar_url": "https://cdn.filestackcontent.com/cXWpC6OoSeq3nVpH7blJ",
+        "time_zone_display": "Pacific Time (US & Canada) (-08:00)",
+        "is_student": false
+    },
+    "categories": [
+        {
+            "name": "C++",
+            "url_string": "c_plus_plus"
+        },
+        {
+            "name": "Debugging",
+            "url_string": "debugging"
+        },
+        {
+            "name": "Rust",
+            "url_string": "rust"
+        }
+    ],
+    "detail": {
+        "kind": "troubleshooting",
+        "description": "https://github.com/mediar-ai/screenpipe/pull/686",
+        "estimated_length": "More than 1 hr"
+    },
+    "special_rate": null
+}
