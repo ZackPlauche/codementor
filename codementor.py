@@ -13,6 +13,8 @@ ENDPOINTS = {
     'user chat': '/chats/messages/{username}',
     'session list': '/lessons',
     'session detail': '/lessons/{session_id}',
+    'reviews': '/users/{username}/reviews',
+    'me': '/me',
 }
 
 for key, value in ENDPOINTS.items():
@@ -161,9 +163,53 @@ class Client:
                 break
 
         return all_sessions
-    
+
     def get_session_details(self, session_id: str) -> dict:
         url = ENDPOINTS['session detail'].format(session_id=session_id)
         response = self.session.get(url)
         response.raise_for_status()
         return response.json()
+
+    def get_reviews(self, username: str | None = None) -> list[dict]:
+        """
+        Get all reviews from completed sessions by paginating through timestamps.
+
+        Args:
+            username: The username to get reviews for
+
+        Returns:
+            List of review dictionaries containing review text, mentee info and session ID.
+            Returns empty list if request fails.
+        """
+        if username is None:
+            response = self.session.get(ENDPOINTS['me'])
+            response.raise_for_status()
+            username = response.json()['username']
+        url = ENDPOINTS['reviews'].format(username=username)
+        all_reviews = []
+        params = {}
+
+        while True:
+            try:
+                response = self.session.get(url, params=params)
+                response.raise_for_status()
+                reviews = response.json()
+
+                if not reviews:  # No more reviews to fetch
+                    break
+
+                all_reviews.extend(reviews)
+
+                # Update timestamp for next page
+                last_review = reviews[-1]
+                last_timestamp = last_review['created_at']
+                params['before_timestamp'] = last_timestamp
+
+                # Add a small delay between requests
+                time.sleep(2)
+
+            except requests.exceptions.RequestException as e:
+                print(f"Request failed: {e}")
+                break
+
+        return all_reviews

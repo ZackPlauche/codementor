@@ -40,6 +40,13 @@ def test_get_sessions(client):
     sessions = client.get_sessions()
     assert len(sessions) > 0
     
+
 def test_get_session_details(client):
     session_details = client.get_session_details(session_id='1434640051')
     assert session_details is not None
+
+
+def test_get_reviews(client):
+    reviews = client.get_reviews()
+    assert len(reviews) > 0
+    
