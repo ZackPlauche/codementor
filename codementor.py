@@ -15,6 +15,7 @@ ENDPOINTS = {
     'session detail': '/lessons/{session_id}',
     'reviews': '/users/{username}/reviews',
     'me': '/me',
+    'freelance jobs': '/offline-helps',
 }
 
 for key, value in ENDPOINTS.items():
@@ -213,3 +214,38 @@ class Client:
                 break
 
         return all_reviews
+
+    def get_freelance_jobs(self) -> list[dict]:
+        """
+        Get freelance jobs from Codementor by paginating through offsets.
+
+        Returns:
+            List of freelance job dictionaries
+        """
+        url = ENDPOINTS['freelance jobs']
+        params = {'type': 'solved'}
+        all_jobs = []
+
+        while True:
+            try:
+                response = self.session.get(url, params=params)
+                response.raise_for_status()
+
+                jobs = response.json()
+                if not jobs:  # No more jobs to fetch
+                    break
+
+                all_jobs.extend(jobs)
+
+                # Update offset for next page
+                last_job = jobs[-1]
+                params['offset'] = last_job['created_at']
+
+                # Add a small delay between requests
+                time.sleep(2)
+
+            except requests.exceptions.RequestException as e:
+                print(f"Request failed: {e}")
+                break
+
+        return all_jobs

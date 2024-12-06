@@ -2,11 +2,9 @@ import codementor
 
 client = codementor.Client.from_env()
 
-reviews = client.get_reviews(username='zackplauche')
-from pprint import pprint
-
-print(len(reviews))
+response_data = client.get_freelance_jobs()
+print(len(response_data))
 import json
 
-with open('reviews.json', 'w') as f:
-    json.dump(reviews, f)
+with open('response_data.json', 'w') as f:
+    json.dump(response_data, f)

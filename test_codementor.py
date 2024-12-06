@@ -50,3 +50,7 @@ def test_get_reviews(client):
     reviews = client.get_reviews()
     assert len(reviews) > 0
     
+
+def test_get_freelance_jobs(client):
+    freelance_jobs = client.get_freelance_jobs()
+    assert len(freelance_jobs) > 0
