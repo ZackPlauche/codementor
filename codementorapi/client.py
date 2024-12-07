@@ -56,8 +56,8 @@ class Client:
         """Instantiate the Client using environment variables."""
         load_dotenv(override=True)
         return cls(
-            access_token=os.getenv('ACCESS_TOKEN'),
-            refresh_token=os.getenv('REFRESH_TOKEN')
+            access_token=os.getenv('CODEMENTOR_ACCESS_TOKEN'),
+            refresh_token=os.getenv('CODEMENTOR_REFRESH_TOKEN')
         )
 
     def _paginate(

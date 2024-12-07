@@ -1,11 +1,11 @@
 import pytest
-import codementor
+import codementorapi
 
 
 @pytest.fixture
 def client():
     """Create a Codementor client instance from environment variables."""
-    return codementor.Client.from_env()
+    return codementorapi.Client.from_env()
 
 
 @pytest.fixture

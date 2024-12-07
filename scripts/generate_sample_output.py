@@ -1,13 +1,13 @@
 import json
 from pathlib import Path
 
-import codementor.codementor as codementor
+import codementorapi
 
 
 SAMPLE_OUTPUT_PATH = Path(__file__).parent.parent / 'sample_outputs'
 SAMPLE_OUTPUT_PATH.mkdir(exist_ok=True)
 
-codementor = codementor.Client.from_env()
+codementor = codementorapi.Client.from_env()
 
 
 def save_to_json(data: dict | list[dict] | list[str], filename: str):
