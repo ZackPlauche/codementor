@@ -66,7 +66,7 @@ all_related_jobs = client.get_related_jobs(related=True, all=True)
 Once you have the job list, you can get the deatils for the specific job.
 
 ```python
-job_details = client.get_job_details(job_random_key=jobs[0]['random_key'])
+job_details = client.get_job_details(job_random_key=jobs[0].random_key)
 ```
 
 ### Applying to Jobs
@@ -91,41 +91,11 @@ first_name = job['user']['name'].split(' ')[0]
 client.send_message(username, f'Hey {first_name}! Would you like to have a call?')
 ```
 
-# Get latest available jobs (unfiltered)
-
-```python
-jobs = client.get_jobs()
-```
-
-# Get all available jobs (unfiltered)
-
-```python
-jobs = client.get_jobs(all=True)
-```
-
-# Get related available jobs
-
-```python
-related_jobs = client.get_related_jobs(related=True)
-```
-
-# Get all related available jobs
-
-```python
-related_jobs = client.get_related_jobs(related=True, all=True)
-```
-
-# Get job details
-
-```python
-job_details = client.get_job_details(job_id=jobs[0]['random_id'])
-```
-
 # Get sessions
 
 ```python
 sessions = client.get_sessions()
-session_details = client.get_session_details(sessions[0]['id'])
+session_details = client.get_session_details(sessions[0].id)
 reviews = client.get_reviews()
 freelance_jobs = client.get_freelance_jobs()
 ```
