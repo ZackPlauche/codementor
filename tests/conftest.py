@@ -1,5 +1,6 @@
 import pytest
 import codementorapi
+from codementorapi.models import JobListItem
 
 
 @pytest.fixture
@@ -9,13 +10,13 @@ def client():
 
 
 @pytest.fixture
-def jobs(client) -> list[dict]:
+def jobs(client) -> list[JobListItem]:
     """Get a list of current jobs."""
     return client.get_jobs()
 
 
 @pytest.fixture
-def all_jobs(client) -> list[dict]:
+def all_jobs(client) -> list[JobListItem]:
     """Get a list of all available jobs."""
     jobs = client.get_jobs(all=True)
     print('There were this many jobs:', len(jobs))

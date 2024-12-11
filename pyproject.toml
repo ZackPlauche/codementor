@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "codementorapi"
-version = "0.1.0"
+version = "0.2.0"
 description = "Python client for the Codementor API"
 authors = ["Zack Plauché <zackknowspython@gmail.com>"]
 readme = "README.md"
@@ -20,6 +20,7 @@ python = "^3.12"
 requests = "^2.32.3"
 python-dotenv = "^1.0.1"
 playwright = "^1.49.0"
+pydantic = "^2.10.3"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.3.4"

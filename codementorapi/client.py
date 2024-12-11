@@ -5,6 +5,20 @@ from typing import Any, Optional
 import requests
 from dotenv import load_dotenv
 
+from .models import (
+    JobListResponse,
+    JobListItem,
+    JobDetailResponse,
+    Review,
+    ReviewListResponse,
+    MessageResponse,
+    SessionListItem,
+    SessionDetailResponse,
+    SessionListResponse,
+    FreelanceJobListResponse,
+    FreelanceJobListItem
+)
+
 BASE_URL = "https://api.codementor.io/api/v2"
 
 ENDPOINTS = {
@@ -112,22 +126,23 @@ class Client:
             response.raise_for_status()
             return response
 
-    def get_jobs(self, related: bool = False, all: bool = False) -> list[dict]:
+    def get_jobs(self, related: bool = False, all: bool = False) -> JobListResponse:
         """Get jobs/requests from Codementor."""
         params = {'search_type': 'all' if not related else 'related'}
 
         if all:
-            return self._paginate(ENDPOINTS['job list'], params)
+            jobs = self._paginate(ENDPOINTS['job list'], params)
+        else:
+            response = self._make_request(
+                'get', ENDPOINTS['job list'], params=params)
+            jobs = response.json()
+        return [JobListItem.model_validate(job) for job in jobs]
 
-        response = self._make_request(
-            'get', ENDPOINTS['job list'], params=params)
-        return response.json()
-
-    def get_job_details(self, job_random_key: str) -> dict:
+    def get_job_details(self, job_random_key: str) -> JobDetailResponse:
         """Get details for a specific job."""
         url = ENDPOINTS['job detail'].format(random_key=job_random_key)
         response = self._make_request('get', url)
-        return response.json()
+        return JobDetailResponse.model_validate(response.json())
 
     def send_job_interest(
         self,
@@ -144,7 +159,7 @@ class Client:
         response = self._make_request('post', url, json=payload)
         return response.json()
 
-    def send_message(self, username: str, message: str) -> dict:
+    def send_message(self, username: str, message: str) -> MessageResponse:
         """Send a chat message to a user."""
         url = ENDPOINTS['user chat'].format(username=username)
         payload = {
@@ -155,31 +170,33 @@ class Client:
             }
         }
         response = self._make_request('post', url, json=payload)
-        return response.json()
+        return MessageResponse.model_validate(response.json())
 
-    def get_sessions(self) -> list[dict]:
+    def get_sessions(self) -> SessionListResponse:
         """Get all sessions."""
-        return self._paginate(ENDPOINTS['session list'])
+        sessions = self._paginate(ENDPOINTS['session list'])
+        return [SessionListItem.model_validate(session) for session in sessions]
 
-    def get_session_details(self, session_id: str) -> dict:
+    def get_session_details(self, session_id: str) -> SessionDetailResponse:
         """Get details for a specific session."""
         url = ENDPOINTS['session detail'].format(session_id=session_id)
         response = self._make_request('get', url)
-        return response.json()
+        return SessionDetailResponse.model_validate(response.json())
 
-    def get_reviews(self, username: Optional[str] = None) -> list[dict]:
+    def get_reviews(self, username: Optional[str] = None) -> ReviewListResponse:
         """Get all reviews for a user."""
         if username is None:
             response = self._make_request('get', ENDPOINTS['me'])
             username = response.json()['username']
 
         url = ENDPOINTS['reviews'].format(username=username)
-        return self._paginate(url)
+        return [Review.model_validate(review) for review in self._paginate(url)]
 
-    def get_freelance_jobs(self) -> list[dict]:
+    def get_freelance_jobs(self) -> FreelanceJobListResponse:
         """Get all freelance jobs."""
-        return self._paginate(
+        jobs = self._paginate(
             ENDPOINTS['freelance jobs'],
             params={'type': 'solved'},
             timestamp_key='offset'
         )
+        return [FreelanceJobListItem.model_validate(job) for job in jobs]

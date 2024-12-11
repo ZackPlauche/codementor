@@ -1,0 +1,42 @@
+{
+    "length": 2436,
+    "legacy": false,
+    "id": "4545373665",
+    "finished_at": 1731341848,
+    "started_at": 1731339412,
+    "schedule_rate": "40.00",
+    "paid": true,
+    "has_invoice_question": false,
+    "total_cost": "108.27",
+    "cost": "108.27",
+    "init_cost": "108.27",
+    "tip_amount": "0.00",
+    "payment_failure": false,
+    "survey_is_filled": false,
+    "aasm_state": "finished",
+    "review": null,
+    "review_from_mentor": {
+        "rating": 5,
+        "content": ""
+    },
+    "mentor": {
+        "name": "Zack Plauch\u00e9",
+        "username": "zackplauche",
+        "small_avatar_url": "https://ucarecdn.com/ac71e130-9586-41d7-9718-ce4147b3f278/",
+        "first_name": "Zack",
+        "time_zone_region": "London",
+        "time_zone_offset": 0
+    },
+    "mentee": {
+        "name": "Steve Metzger",
+        "username": "stvmetzger",
+        "small_avatar_url": "https://www.gravatar.com/avatar/722f4e56d27910b48fc8d57be20aee9e?d=mm&s=64",
+        "first_name": "Steve",
+        "time_zone_region": "Eastern Time (US & Canada)",
+        "time_zone_offset": -18000
+    },
+    "earnings": "86.62",
+    "is_partial_refundable": false,
+    "is_full_refundable": false,
+    "is_refunded": false
+}

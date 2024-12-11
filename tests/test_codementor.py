@@ -6,7 +6,7 @@ def test_get_jobs(jobs):
 
 
 def test_get_job_details(client, jobs):
-    client.get_job_details(jobs[0]['random_key'])
+    client.get_job_details(jobs[0].random_key)
 
 
 def test_get_all_jobs(all_jobs):
