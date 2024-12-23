@@ -1,11 +1,12 @@
-{
-    "random_key": "l1uny0poqo",
-    "title": "Debug my implementation of Microsoft Remote Desktop (Rust/C++)",
+[
+  {
+    "random_key": "l5xtihjgeo",
+    "title": "Need help building a local tool that produces Jupiter V6 swap instructions",
     "body": "",
-    "request_type": "one_on_one",
+    "request_type": "offline_help",
     "aasm_state": "open",
-    "estimated_budget": "20.0",
-    "created_at": 1733518139,
+    "estimated_budget": "600.0",
+    "created_at": 1734925811,
     "is_featured": true,
     "has_recruiter_addon": false,
     "skipped": false,
@@ -13,30 +14,869 @@
     "can_express_interest": true,
     "interest": null,
     "user": {
-        "name": "louis beaumont",
-        "username": "louisbeaumont",
-        "small_avatar_url": "https://cdn.filestackcontent.com/cXWpC6OoSeq3nVpH7blJ",
-        "time_zone_display": "Pacific Time (US & Canada) (-08:00)",
-        "is_student": false
+      "name": "Greg 5770",
+      "username": "greg5770",
+      "small_avatar_url": "https://cdn.filestackcontent.com/CEPW6lkoTSOiVxoS78JK",
+      "time_zone_display": "Central Time (US & Canada) (-06:00)",
+      "is_student": false
     },
     "categories": [
-        {
-            "name": "C++",
-            "url_string": "c_plus_plus"
-        },
-        {
-            "name": "Debugging",
-            "url_string": "debugging"
-        },
-        {
-            "name": "Rust",
-            "url_string": "rust"
-        }
+      {
+        "name": "Blockchain",
+        "url_string": "blockchain"
+      },
+      {
+        "name": "Solana",
+        "url_string": "solana"
+      }
     ],
     "detail": {
-        "kind": "troubleshooting",
-        "description": "https://github.com/mediar-ai/screenpipe/pull/686",
-        "estimated_length": "More than 1 hr"
+      "kind": "existing-project",
+      "description": "I currently run a program that uses Jupiter V6 Swap API to execute token swaps on the Solana blockchain. The program works by first fetching a quote for the given parameters (input token, output token, amount, etc.), and it fetches this quote by calling the Jupiter /quote endpoint, which returns data in the form of an object called quoteResponse. Once a quote is fetched, the program then builds a transaction that it will submit to the blockchain (specifically submitting transactions to the Jito network currently). When building the transaction, the program further utilizes Jupiter by calling the /swap-instructions endpoint offered by Jupiter. The /swap-instructions endpoint accepts quoteResponse as input and generates a complete and ordered list of instructions that the program simply inserts into the transaction. \n\nHowever, the process of calling the /swap-instruction endpoint is responsible for over half of the latency produced by my program between fetching the quote and submitting the transaction to Jito. **I am trying to reduce this latency by creating a local tool that will run on my own machine that will mimic the function of the /swap-instruction endpoint but without the latency inherent with external RPC/API calls.** There is a lengthy amount of information that the tool would need to produce effective output. Most of this information can be retrieved from the quoteResponse or in other areas of the overall program, such as:\n\n- Automated Market Maker key: public key of relevant AMMs\n- Input Mint: Address of the origin token that I will be swapping out from\n- Output Mint: Address of the destination token that I will be swapping to\n- Input Amount: Amount of the origin token that I will be exchanging in the transaction\n- Output Amount: Amount of the destination token that I will be receiving in the transaction\n- Fee Amount: Amount of fees to be paid in the transaction (fees always paid in SOL)\n- DEX Label: Name of the DEX program ID involved in the transaction (examples are \"Raydium Concentrated Liquidity\" or \"Meteora DLMM Program\"\n- Slippage: The maximum change in token price (expressed as percentage in format \"0.05\" or \"0.1\" etc.) that the program is willing to except to still proceed with the transaction by the time it's submitted to Jito\n- Swap Mode: Parameter specific to Jupiter, by default i always choose \"ExactIn\" which means the program expects you to specify the exact amount of input token for the swap, then it will determine the output token amount after accounting for currency conversion and slippage and fees. Other option would be \"ExactOut\" where you specify the exact amount of output token you want from the transaction, and it will conversely determine all other parameters needed to satisfy that requirement\n- otherAmountThreshold: Parameter specific to Jupiter and I believe is paired with the Swap Mode Parameter, as this simply represents the minimum amount of the output token that you're willing to accept in the transaction, so another way of representing slippage, just as an exact number this time instead of a percentage as noted in the Swap Mode parameter\n- Input Token Decimals: Amount of decimals used in the formatting of the origin token\n- Output Token Decimals: Amount of decimals used in the formatting of the destination token\n\n\n\nAside from the information mentioned, there is also required information that can only be gathered through external RPC/API calls. For this, I would like a caching mechanism to store these parameters as they map to the other information in the tool, so that over time it will gradually eliminate the need for external RPC/API calls and can reference everything locally. The program implements this caching methodology for Address Lookup Tables currently, which has resulted in phenomenal latency improvements.",
+      "tech_family": "desktop-app",
+      "deliverables": "1. Data Model Classes\n\n2. Config/Constants Files: For program IDs and other known static data.\n\n3. Functions to query user ATAs (Associated Token Address) and confirm existence.\n\n4. Reliable ATA creation function (prepare instruction, sign, send, and verify successful creation).\n\n5. Borsh schema definitions for Raydium, Meteora, and Orca instruction formats.\n\n6. Serialization function that returns the serialized instruction data buffer.\n\n7. Utility functions to compute slippage-based thresholds.\n\n8. Updated serialization calls that include correct amount_in, minimum_amount_out, or amount_out fields, fully precision-adjusted.\n\n9. A function that returns a fully constructed Transaction object ready to be signed and sent.",
+      "estimated_completion_date": 1735002746
     },
     "special_rate": null
-}
+  },
+  {
+    "random_key": "l5zyumy5tv",
+    "title": "Need help building flutterflow app ",
+    "body": "",
+    "request_type": "offline_help",
+    "aasm_state": "open",
+    "estimated_budget": "100.0",
+    "created_at": 1734946361,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Shahla Babayeva",
+      "username": "shahlababayeva",
+      "small_avatar_url": "https://cdn.filestackcontent.com/FhDAT7OR0iDXwintbwr0",
+      "time_zone_display": "Baku (+04:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Mobile App Development",
+        "url_string": "mobile-app-development"
+      },
+      {
+        "name": "FlutterFlow",
+        "url_string": "flutterflow"
+      }
+    ],
+    "detail": {
+      "kind": "existing-project",
+      "description": "Need help to add extra user ",
+      "tech_family": "mobile-app",
+      "deliverables": "",
+      "estimated_completion_date": 1735032702
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5zvgc78qn",
+    "title": "Need Professional Help on Research proposal for Cambridge application",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "30.0",
+    "created_at": 1734945459,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "lazydiablo",
+      "username": "tonyglhf",
+      "small_avatar_url": "https://cdn.filestackcontent.com/oaEjaN4GS7mOYdzPXZIj",
+      "time_zone_display": "Hong Kong (+08:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Project planning",
+        "url_string": "project-planning"
+      },
+      {
+        "name": "User Research",
+        "url_string": "user-research"
+      }
+    ],
+    "detail": {
+      "kind": "tutoring",
+      "description": "Im applying for MPhil in Architecture of Cambridge University, need help on research proposal.",
+      "estimated_length": "Less than 1 hr"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5znozp78f",
+    "title": "Monte Carlo simulation, rejection algorithm",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "20.0",
+    "created_at": 1734943397,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Grahamtt",
+      "username": "yihantong",
+      "small_avatar_url": "https://www.gravatar.com/avatar/be10ca33cfcc68500e6d3b3aab5b8fa5?d=mm&s=64",
+      "time_zone_display": "Stockholm (+01:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Python",
+        "url_string": "python"
+      },
+      {
+        "name": "Monte carlo",
+        "url_string": "monte-carlo"
+      }
+    ],
+    "detail": {
+      "kind": "troubleshooting",
+      "description": "I'm a physics student working on a Monte Carlo simulation problem.\nSo far I think I have accomplished creating a histogram of simulated values. Now I need to plot it against the exact PDF. I need to find the normalized PDF, but can't obtain the normalization constant, and so on.\n\nThere is also something wrong with my histogram. Trying to fix it but not sure how.",
+      "estimated_length": "Less than 1 hr"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5zmlgdvby",
+    "title": "Building a MVP of a problem solving site that uses a library of consulting frameworks",
+    "body": "",
+    "request_type": "offline_help",
+    "aasm_state": "open",
+    "estimated_budget": "4000.0",
+    "created_at": 1734943105,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Cooper Veit",
+      "username": "coopveit",
+      "small_avatar_url": "https://www.gravatar.com/avatar/f65a3ebfc68b8d486c853bdec9795f0b?d=mm&s=64",
+      "time_zone_display": "Pacific Time (US & Canada) (-08:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "GitHub",
+        "url_string": "github"
+      },
+      {
+        "name": "Project management",
+        "url_string": "project-management"
+      },
+      {
+        "name": "React",
+        "url_string": "reactjs"
+      },
+      {
+        "name": "Application Architecture",
+        "url_string": "application-architecture"
+      },
+      {
+        "name": "Solution Architecture",
+        "url_string": "solution-architecture"
+      },
+      {
+        "name": "Supabase",
+        "url_string": "supabase"
+      }
+    ],
+    "detail": {
+      "kind": "new-project",
+      "description": "https://preview--problem-pairing-pal.lovable.app\n\nI am building a MVP of a site called Probspec that helps users to specify their problems and then matches their problem statements to known problem solving frameworks from a database and attempts to apply those frameworks to satisfy the user. \n\nThe way the system works from user perspective is:\n1. The user opens the website at probspec.com and sees a classic homepage\n2. The user then clicks the \u201cGet Started\u201d button and navigates to a form where they answer questions and eventually specify their problem in text. \n3. An LLM may ask follow-up questions.\n4. At some point, some kind of database matching is triggered and the system suggests relevant problem-solving frameworks from the framework database (explained via LLM)\n5. The user chooses a relevant framework or specifies what they want. \n6. The system walks through an analysis, laying out a plan step by step and searching the web and/or using integrations to fill in data. For the MVP, this does not have to be fully baked. An LLM merely describing the relevant framework(s) and saying how it would proceed is more than enough for now.\n7. The system prepares a PDF or other type of summary. Again, for the demo this can be very minimal / proof-of-concept. \n8. The user can choose to keep requesting changes or do further analysis, creating some kind of internal memory or account. \n\nI have a wireframe UI and GitHub repo that I made using Lovable. I am enjoying using the service Lovable, which seems to have good integration with supabase for database back-end.\n\nHere is my plan for a ~7-day project:\n\n* Day 1: Spend a ~day of paid time just to get up to speed on the task, have an intro phone call\n* Day 2-3: Break down the project into definable sub-tasks and define an end goal. Get the core Github repo in clean shape for working and integrating all the different pieces\n* Day 4-7: Integrate LLM system with user interface and back-end database\n* Day 7-10: Testing and troubleshooting to get to MVP\n\nI am free daily for a 45 minute meeting anytime between 8am and 10 am US Pacific time. ",
+      "tech_family": "web-app",
+      "deliverables": "A minimal MVP ideally",
+      "estimated_completion_date": 1736020800
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5zit8mc7c",
+    "title": "Need Help Fixing Gaming Code.",
+    "body": "",
+    "request_type": "offline_help",
+    "aasm_state": "open",
+    "estimated_budget": "250.0",
+    "created_at": 1734942099,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Christopher",
+      "username": "christopher19198",
+      "small_avatar_url": "https://cdn.filestackcontent.com/OoWpxJiUS365CMrwXJPL",
+      "time_zone_display": "Pacific Time (US & Canada) (-08:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Game Design",
+        "url_string": "game-design"
+      },
+      {
+        "name": "Godot Engine",
+        "url_string": "godot-engine"
+      }
+    ],
+    "detail": {
+      "kind": "new-project",
+      "description": "I have an online game coded in Godot that needs to be fixed as the previous developer did not deliver a suitable product.\n\nThe changes should be minor and after these changes, we can discuss expanding the game with more features.",
+      "tech_family": "web-app",
+      "deliverables": "",
+      "estimated_completion_date": 1735329600
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5ytfqy80h",
+    "title": "Workload Identity Federation using gitlab setup",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "15.0",
+    "created_at": 1734935357,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Mayur Kanade",
+      "username": "mayurkanade",
+      "small_avatar_url": "https://cdn.filestackcontent.com/YYkxRYg7RYK51ebYTBYp",
+      "time_zone_display": "Pacific Time (US & Canada) (-08:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "GitLab",
+        "url_string": "gitlab"
+      },
+      {
+        "name": "Continuous Deployment",
+        "url_string": "continuous-deployment"
+      },
+      {
+        "name": "CI/CD",
+        "url_string": "ci-cd"
+      }
+    ],
+    "detail": {
+      "kind": "troubleshooting",
+      "description": "I want to setup workload identity federation with gitlab and using terraform code as everything is ready I don't know how to do it.\nNeed guidance and work on code as early as possible",
+      "estimated_length": "Less than 1 hr"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5ykaiq19w",
+    "title": "Looking for Cyber ark training ",
+    "body": "",
+    "request_type": "offline_help",
+    "aasm_state": "open",
+    "estimated_budget": "600.0",
+    "created_at": 1734932927,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Madhu",
+      "username": "madhuprakash5959",
+      "small_avatar_url": "https://www.gravatar.com/avatar/e6c99bf25232435bbdbfbce3de8df383?d=mm&s=64",
+      "time_zone_display": "Pacific Time (US & Canada) (-08:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Cybersecurity",
+        "url_string": "cybersecurity"
+      },
+      {
+        "name": "Cyberark",
+        "url_string": "cyberark"
+      }
+    ],
+    "detail": {
+      "kind": "new-project",
+      "description": "Cyber ark ",
+      "tech_family": "Cyber ark ",
+      "deliverables": "Cyber ark ",
+      "estimated_completion_date": 1735019230
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5xys8x2hv",
+    "title": "Develop a cross-platform mobile app using React Native to streamline home insurance quote submission and management with real-time API integration and an intuitive user interface.\n\n",
+    "body": "",
+    "request_type": "offline_help",
+    "aasm_state": "open",
+    "estimated_budget": "4000.0",
+    "created_at": 1734927212,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Chandler Coven",
+      "username": "chandlercoven416632",
+      "small_avatar_url": "https://cdn.filestackcontent.com/pbkP0pCWR652SGIcBqg1",
+      "time_zone_display": "Eastern Time (US & Canada) (-05:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "React Native",
+        "url_string": "react-native"
+      },
+      {
+        "name": "Mobile App Development",
+        "url_string": "mobile-app-development"
+      },
+      {
+        "name": "API Integration",
+        "url_string": "api-integration"
+      }
+    ],
+    "detail": {
+      "kind": "new-project",
+      "description": "I need an experienced React Native developer to build a cross-platform mobile app for submitting and managing home insurance quotes. The app will integrate with a third-party API to fetch real-time quotes and include features like user authentication, a dashboard for quote tracking, and push notifications. The final product should be scalable, secure, and optimized for iOS and Android.\n\n\n---\n\nKey Features:\n\n1. User Authentication: Secure login, sign-up, and password recovery.\n\n\n2. Quote Submission: A form to collect client/home information.\n\n\n3. API Integration: Connect with a Home Insurance Quoting API for real-time quote retrieval.\n\n\n4. Quote Management Dashboard: Display and track submitted quotes with status updates.\n\n\n5. Push Notifications: Notify users of quote status changes or promotions.\n\n\n6. Scalable Backend: Ensure secure storage of user data and smooth app performance.\n\n\n7. Responsive Design: Optimize the app for both iOS and Android devices \n\nWhat I\u2019m Looking For:\n\nLinks to your GitHub, portfolio, or apps showing relevant experience.\n\nA ballpark estimate for the total cost of the project.\n",
+      "tech_family": "mobile-app",
+      "deliverables": "A fully functional mobile app built with React Native.\n\nBackend setup with secure database integration.\n\nIntegration with the Home Insurance Quoting API.\n\nFinal deployment to the App Store and Google Play.\n\nPost-launch support for bug fixes.\n",
+      "estimated_completion_date": 1740762000
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5xiqinxdz",
+    "title": "Web socket connecting issue",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "15.0",
+    "created_at": 1734922947,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Akash Vijay",
+      "username": "akashvijay",
+      "small_avatar_url": "https://cdn.filestackcontent.com/yfvIRF7qS9uzMgmy40Xy",
+      "time_zone_display": "Central Time (US & Canada) (-06:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "WebSocket",
+        "url_string": "websocket"
+      },
+      {
+        "name": "Socket.IO",
+        "url_string": "socketio"
+      },
+      {
+        "name": "Socket programming",
+        "url_string": "socket-programming"
+      }
+    ],
+    "detail": {
+      "kind": "debugging",
+      "description": "Have a frontend and backend, websocket doesn't seem to be having a connection",
+      "estimated_length": "Less than 1 hr"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5x694xuwn",
+    "title": "i want to learn more about coding as a beginer ",
+    "body": "",
+    "request_type": "longterm",
+    "aasm_state": "open",
+    "estimated_budget": "15.0",
+    "created_at": 1734919631,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "George anderson",
+      "username": "georgeanderson676559",
+      "small_avatar_url": "https://cdn.filestackcontent.com/WOSqFSGDSFyumK6Yfj1u",
+      "time_zone_display": "Pacific Time (US & Canada) (-08:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Node.js",
+        "url_string": "nodejs"
+      },
+      {
+        "name": "JavaScript",
+        "url_string": "javascript"
+      }
+    ],
+    "detail": {
+      "kind": "tutoring",
+      "description": "i need help becoming a coder as a beginer so i can improve my coding skills on how to write and understand coding ",
+      "estimated_hours_per_week": 150,
+      "estimated_weeks": 8
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5wrr6vs88",
+    "title": "I am looking for a Drupal and Docker expert.",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "30.0",
+    "created_at": 1734915778,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Aron Dylan",
+      "username": "arondylan",
+      "small_avatar_url": "https://cdn.filestackcontent.com/ruG2QUZuTtvX3IKaBhUr",
+      "time_zone_display": "Pacific Time (US & Canada) (-08:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Drupal",
+        "url_string": "drupal"
+      },
+      {
+        "name": "Docker",
+        "url_string": "docker"
+      },
+      {
+        "name": "Docker Compose",
+        "url_string": "docker-compose"
+      }
+    ],
+    "detail": {
+      "kind": "troubleshooting",
+      "description": "I have a Drupal project. I am going to build this project using Docker. But there is some terrible. If you are interested in it, please contact with me.",
+      "estimated_length": "Not sure yet"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5wo9zo144",
+    "title": "Provide some professional help on my project on Construct 3",
+    "body": "",
+    "request_type": "offline_help",
+    "aasm_state": "open",
+    "estimated_budget": "100.0",
+    "created_at": 1734914854,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "ANITA",
+      "username": "xyysmnssn",
+      "small_avatar_url": "https://www.gravatar.com/avatar/e1c0babf6f71107ada553513b180e191?d=mm&s=64",
+      "time_zone_display": "Sydney (+11:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Plugin Development",
+        "url_string": "plugin-development"
+      },
+      {
+        "name": "Technical Support",
+        "url_string": "technical-support"
+      },
+      {
+        "name": "IT Support",
+        "url_string": "it-support"
+      }
+    ],
+    "detail": {
+      "kind": "existing-project",
+      "description": "Hi,\n\nI'm trying to make a mini-game on construct3. However, there's couple problems I don't know how to fix. One is local storage, one is 8 direction shooting. If you could provide the professional help that would be greatly appreciated.\n\nLooking forward to hearing from you,\nAnita",
+      "tech_family": "Mini-game development",
+      "deliverables": "",
+      "estimated_completion_date": 1735001083
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5wn21ozhe",
+    "title": "Need help for a sql assessment study guide",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "20.0",
+    "created_at": 1734914529,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": true,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "DKS Singleton",
+      "username": "dkssingleton",
+      "small_avatar_url": "https://www.gravatar.com/avatar/e5dc2dac7b9cbc89cdc548ea5d0b1bcc?d=mm&s=64",
+      "time_zone_display": "Central Time (US & Canada) (-06:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "SQL",
+        "url_string": "sql"
+      },
+      {
+        "name": "Oracle PL/SQL",
+        "url_string": "oracle-pl-sql"
+      },
+      {
+        "name": "Microsoft SQL Server",
+        "url_string": "microsoft-sql-server"
+      },
+      {
+        "name": "Oracle SQL",
+        "url_string": "oracle-sql"
+      },
+      {
+        "name": "SQL Databases",
+        "url_string": "sql-databases"
+      }
+    ],
+    "detail": {
+      "kind": "tutoring",
+      "description": "I need someone to help me answer a few questions on my sql study guide to prep for an exam. I am struggling with a few queries so I am wondering if someone could explain what some of the joins mean and break it down a little more. Could someone have a high level expertise knowledge please to help",
+      "estimated_length": "Not sure yet"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5w4psq6br",
+    "title": "I want to learn full stack development.",
+    "body": "",
+    "request_type": "longterm",
+    "aasm_state": "open",
+    "estimated_budget": "15.0",
+    "created_at": 1734909656,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "RISHABH GANGWAR",
+      "username": "rishabhgangwar",
+      "small_avatar_url": "https://cdn.filestackcontent.com/9UlU5xyTU6RhlL2gTuZa",
+      "time_zone_display": "Pacific Time (US & Canada) (-08:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Web Development",
+        "url_string": "web-development"
+      },
+      {
+        "name": "Full Stack",
+        "url_string": "full-stack"
+      },
+      {
+        "name": "MEAN Stack",
+        "url_string": "mean-stack"
+      },
+      {
+        "name": "Software Development",
+        "url_string": "software-development"
+      },
+      {
+        "name": "MERN Stack",
+        "url_string": "mern-stack"
+      }
+    ],
+    "detail": {
+      "kind": "tutoring",
+      "description": "I want to learn full stack development.",
+      "estimated_hours_per_week": null,
+      "estimated_weeks": null
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5vehtch1u",
+    "title": "Full-stack Developer for Decentralized Gaming DApp",
+    "body": "",
+    "request_type": "offline_help",
+    "aasm_state": "open",
+    "estimated_budget": "4000.0",
+    "created_at": 1734902688,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "John Grafton",
+      "username": "johngrafton915",
+      "small_avatar_url": "https://www.gravatar.com/avatar/00ea615aa27b45e1ad344b3d2291daf0?d=mm&s=64",
+      "time_zone_display": "Eastern Time (US & Canada) (-05:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Full Stack",
+        "url_string": "full-stack"
+      },
+      {
+        "name": "Blockchain",
+        "url_string": "blockchain"
+      },
+      {
+        "name": "Smart contract",
+        "url_string": "smart-contract"
+      }
+    ],
+    "detail": {
+      "kind": "new-project",
+      "description": "We are building an innovative decentralized application (DApp) that revolutionizes the way gamers purchase and own video games across different platforms and game stores. By leveraging NFTs (Non-Fungible Tokens), our platform provides users with a seamless, cross-platform gaming experience. Users will be able to purchase games and claim ownership through NFTs, which serve as proof of ownership that can be accessed and used across a variety of gaming platforms.\n\nOur progress has been temporarily halted due to unforeseen circumstances, but we are back on track and are looking for a talented Full-stack Developer to join our team and help us bring this exciting project to life.\n\nWhat You\u2019ll Be Doing:\n\n- Develop the Front-End: Build and maintain the user-facing side of the DApp using modern front-end technologies.\n- UI/UX Overhaul: Collaborate closely with designers and stakeholders to improve the current user interface and experience, ensuring a smooth and intuitive platform for users of all backgrounds.\n- Integrate Blockchain Functionality: Work with blockchain and smart contract teams to ensure that the front-end interacts seamlessly with the underlying decentralized backend (e.g., NFT transactions, wallet integrations, etc.).\n- Cross-Platform Compatibility: Ensure the DApp works flawlessly across various devices (desktop, tablet, mobile) and integrates with multiple gaming platforms and stores.\n- Optimize for Performance: Ensure the application is optimized for speed, scalability, and responsiveness.\n- Collaborate in an Agile Environment: Work closely with a multidisciplinary team of developers, designers, and product managers to refine the product vision and bring it to life.",
+      "tech_family": "web-app",
+      "deliverables": "",
+      "estimated_completion_date": 1737219600
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5v5lh6e6d",
+    "title": "Withdrawing funds into wallet ",
+    "body": "",
+    "request_type": "offline_help",
+    "aasm_state": "open",
+    "estimated_budget": "4000.0",
+    "created_at": 1734900324,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Shannon Bagby",
+      "username": "shannonbagby",
+      "small_avatar_url": "https://cdn.filestackcontent.com/RKsT7BjSrWhdLbOJZV8t",
+      "time_zone_display": "Central Time (US & Canada) (-06:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Transactions",
+        "url_string": "transactions"
+      },
+      {
+        "name": "Payment gateway",
+        "url_string": "payment-gateway"
+      },
+      {
+        "name": "Bitcoin",
+        "url_string": "bitcoin"
+      },
+      {
+        "name": "Banking",
+        "url_string": "banking"
+      },
+      {
+        "name": "Payment systems",
+        "url_string": "payment-systems"
+      }
+    ],
+    "detail": {
+      "kind": "new-project",
+      "description": "Help withdrawing bitcoin to ewallet",
+      "tech_family": "web-app",
+      "deliverables": "",
+      "estimated_completion_date": 1734986546
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5v4v5ekw3",
+    "title": "Need help withdrawing my funds",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "15.0",
+    "created_at": 1734900130,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Shannon Bagby",
+      "username": "shannonbagby",
+      "small_avatar_url": "https://cdn.filestackcontent.com/RKsT7BjSrWhdLbOJZV8t",
+      "time_zone_display": "Central Time (US & Canada) (-06:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Payment gateway",
+        "url_string": "payment-gateway"
+      },
+      {
+        "name": "Bitcoin",
+        "url_string": "bitcoin"
+      },
+      {
+        "name": "Banking",
+        "url_string": "banking"
+      },
+      {
+        "name": "Payment systems",
+        "url_string": "payment-systems"
+      },
+      {
+        "name": "Payment processing",
+        "url_string": "payment-processing"
+      }
+    ],
+    "detail": {
+      "kind": "Need help seeing if this is a scam or is it real and if it is I need help withdrawing my funds ",
+      "description": "Need help withdrawing my funds and need help wit understanding what to do with it ",
+      "estimated_length": "Not sure yet"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5u7gha0h6",
+    "title": "Re: I want someone to add 1 piece of HTML code to my Blogger blog",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "20.0",
+    "created_at": 1734891253,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Darren J. Prior",
+      "username": "darrenjprior",
+      "small_avatar_url": "https://cdn.filestackcontent.com/l9YxdPzRSWcVUdl53IMm",
+      "time_zone_display": "Edinburgh (+00:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "HTML/CSS",
+        "url_string": "html_css"
+      },
+      {
+        "name": "Blogger",
+        "url_string": "blogger"
+      }
+    ],
+    "detail": {
+      "kind": "debugging",
+      "description": "I have a link on my blog that displays over 3 sentences. And I would like to be able to hover over the sentences combined as 1 link together.\n\nThe link works in normal terms. I just want to be able to hover over the 3 sentences combined as 1.",
+      "estimated_length": "Less than 1 hr"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5u77raokk",
+    "title": "NODE JS Fix Startup Error the site",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "50.0",
+    "created_at": 1734891188,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Anna",
+      "username": "anna385168",
+      "small_avatar_url": "https://cdn.filestackcontent.com/WxpVlFB4Qx6bSP1aJJYG",
+      "time_zone_display": "Madrid (+01:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Node.js",
+        "url_string": "nodejs"
+      },
+      {
+        "name": "Next.js",
+        "url_string": "nextjs"
+      },
+      {
+        "name": "NestJS",
+        "url_string": "nestjs"
+      },
+      {
+        "name": "Vue.js",
+        "url_string": "vue"
+      },
+      {
+        "name": "Express.js",
+        "url_string": "expressjs"
+      }
+    ],
+    "detail": {
+      "kind": "debugging",
+      "description": "I bought a website, after the purchase it worked, now when I launch it through \"npm start\" it shows errors and nothing works\n\nBelow I have attached an archive with the source code of the site, first check if you can fix them, if you can fix them then we can cooperate\n\nI only need to fix the error when launching, nothing else is required from you\n\nWork deadlines - until January 5 inclusive\n\nThis project: https://drive.google.com/file/d/1EZ7c-9WXoN9zpgnT3ZBeeF9DqbFGXk8Y/view?usp=drive_link\n",
+      "estimated_length": "More than 1 hr"
+    },
+    "special_rate": null
+  }
+]

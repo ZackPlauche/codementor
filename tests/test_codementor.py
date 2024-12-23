@@ -9,6 +9,11 @@ def test_get_job_details(client, jobs):
     client.get_job_details(jobs[0].random_key)
 
 
+def test_get_job_details_full_list(client, jobs):
+    for job in jobs:
+        client.get_job_details(job.random_key)
+
+
 def test_get_all_jobs(all_jobs):
     assert len(all_jobs) > 15
 

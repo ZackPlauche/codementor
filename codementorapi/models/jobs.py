@@ -1,7 +1,6 @@
 from __future__ import annotations
-
-from pydantic import BaseModel
-from typing import Literal, Optional
+from pydantic import BaseModel, Field
+from typing import Literal, Optional, Union, Annotated
 
 
 class Category(BaseModel):
@@ -9,43 +8,66 @@ class Category(BaseModel):
     url_string: str
 
 
-class JobListItemUser(BaseModel):
+class BaseUser(BaseModel):
     name: str
     username: str
     small_avatar_url: str
 
 
-class JobDetailResponseUser(BaseModel):
-    name: str
-    username: str
-    small_avatar_url: str
+class JobListItemUser(BaseUser):
+    pass
+
+
+class JobDetailResponseUser(BaseUser):
     time_zone_display: str
+    is_student: bool
 
 
-class JobDetails(BaseModel):
-    kind: str
+class TutoringDetails(BaseModel):
+    kind: Literal["tutoring"]
+    description: str
+    estimated_length: Optional[str] = None
+    estimated_hours_per_week: Optional[int] = None
+    estimated_weeks: Optional[int] = None
+
+
+class ProjectDetails(BaseModel):
+    kind: Literal["existing-project", "new-project"]
+    description: str
+    tech_family: str
+    deliverables: str
+    estimated_completion_date: int
+
+
+class TroubleshootingDetails(BaseModel):
+    kind: Literal["troubleshooting", "debugging"]
     description: str
     estimated_length: str
+
+
+JobDetails = Annotated[
+    Union[TutoringDetails, ProjectDetails, TroubleshootingDetails],
+    Field(discriminator='kind')
+]
 
 
 class BaseJob(BaseModel):
     random_key: str
     title: str
     body: str
-    request_type: Literal["one_on_one",
-                          "longterm", "offline_help", "code_review"]
+    request_type: Literal["one_on_one", "longterm", "offline_help", "code_review"]
     aasm_state: str
     estimated_budget: str
     created_at: int
     is_featured: bool
     has_recruiter_addon: bool
-    user: JobListItemUser
     categories: list[Category]
 
 
 class JobListItem(BaseJob):
     interest_count: int
     read: bool
+    user: JobListItemUser
 
 
 class JobDetailResponse(BaseJob):
@@ -55,6 +77,7 @@ class JobDetailResponse(BaseJob):
     interest: Optional[str]
     detail: JobDetails
     special_rate: Optional[str]
+    user: JobDetailResponseUser
 
 
 JobListResponse = list[JobListItem]
