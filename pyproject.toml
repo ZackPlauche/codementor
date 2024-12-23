@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "codementorapi"
-version = "0.2.1"
+version = "0.2.2"
 description = "Python client for the Codementor API"
 authors = ["Zack Plauché <zackknowspython@gmail.com>"]
 readme = "README.md"

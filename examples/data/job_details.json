@@ -40,6 +40,50 @@
     "special_rate": null
   },
   {
+    "random_key": "l60byivwgp",
+    "title": "Making a City Render with Open GL",
+    "body": "",
+    "request_type": "offline_help",
+    "aasm_state": "open",
+    "estimated_budget": "250.0",
+    "created_at": 1734949844,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Rishi Kataria",
+      "username": "rishikataria",
+      "small_avatar_url": "https://cdn.filestackcontent.com/WQHZHOYQJiA7kQFcqOtA",
+      "time_zone_display": "Eastern Time (US & Canada) (-05:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "OpenGL",
+        "url_string": "opengl"
+      },
+      {
+        "name": "GLSL",
+        "url_string": "glsl"
+      },
+      {
+        "name": "Graphics",
+        "url_string": "graphics"
+      }
+    ],
+    "detail": {
+      "kind": "new-project",
+      "description": "I want to make a render of a city. I have the 3d models.\n\nI need you to just make the base of the project. I also want 2 suns which cast shadows.\n\nAlso we need a river.\n\nIt\u2019ll be even better if you can add small npc animation or just clouds going back and forth.\n\nI can give you code for a skybox as a starting point.",
+      "tech_family": "OpenGL",
+      "deliverables": "",
+      "estimated_completion_date": 1735194600
+    },
+    "special_rate": null
+  },
+  {
     "random_key": "l5zyumy5tv",
     "title": "Need help building flutterflow app ",
     "body": "",
@@ -876,6 +920,3116 @@
       "kind": "debugging",
       "description": "I bought a website, after the purchase it worked, now when I launch it through \"npm start\" it shows errors and nothing works\n\nBelow I have attached an archive with the source code of the site, first check if you can fix them, if you can fix them then we can cooperate\n\nI only need to fix the error when launching, nothing else is required from you\n\nWork deadlines - until January 5 inclusive\n\nThis project: https://drive.google.com/file/d/1EZ7c-9WXoN9zpgnT3ZBeeF9DqbFGXk8Y/view?usp=drive_link\n",
       "estimated_length": "More than 1 hr"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5u0x1y1n4",
+    "title": "A client portal to handle orders and delivery",
+    "body": "",
+    "request_type": "offline_help",
+    "aasm_state": "open",
+    "estimated_budget": "4000.0",
+    "created_at": 1734889515,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Kausar Mussa",
+      "username": "kausarmussa636",
+      "small_avatar_url": "https://www.gravatar.com/avatar/a3bcbf94571dcae8dde8636129e8f59c?d=mm&s=64",
+      "time_zone_display": "Pacific Time (US & Canada) (-08:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Python",
+        "url_string": "python"
+      },
+      {
+        "name": "Django",
+        "url_string": "django"
+      },
+      {
+        "name": "Database",
+        "url_string": "database"
+      },
+      {
+        "name": "Web Development",
+        "url_string": "web-development"
+      }
+    ],
+    "detail": {
+      "kind": "new-project",
+      "description": "I want to build a client portail web app that will have a client login, once logged in the client will have a personal item and item cost, on the portal they can make a order. Once that order is made we would want a ticket system where a billing ticket is made, delivery/pickup ticket is made, these tickets associated to that client id. On the portail we will have admin and employee access where these tickets can be taken care of\n\nIn the backend we want a database that is linked, where we have tables with client info, item prices with cost, employee info with id and more. \n\nMore details can be given once contacted. ",
+      "tech_family": "web-app",
+      "deliverables": "",
+      "estimated_completion_date": 1740848400
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5tmv6dval",
+    "title": "\"Develop a secure, cloud-integrated platform to create a reliable stem cell donor database for emergencies and personalized healthcare.\"",
+    "body": "",
+    "request_type": "offline_help",
+    "aasm_state": "open",
+    "estimated_budget": "2000.0",
+    "created_at": 1734885781,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Asvene Sekar",
+      "username": "bairavaash",
+      "small_avatar_url": "https://www.gravatar.com/avatar/389f022cdce8a2015a9e766a513c1d98?d=mm&s=64",
+      "time_zone_display": "Pacific Time (US & Canada) (-08:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Python",
+        "url_string": "python"
+      },
+      {
+        "name": "Node.js",
+        "url_string": "nodejs"
+      },
+      {
+        "name": "Web Application Security",
+        "url_string": "web-application-security"
+      },
+      {
+        "name": "Cybersecurity",
+        "url_string": "cybersecurity"
+      },
+      {
+        "name": "Cloud Architecture",
+        "url_string": "cloud-architecture"
+      },
+      {
+        "name": "Data Engineering",
+        "url_string": "data-engineering"
+      }
+    ],
+    "detail": {
+      "kind": "new-project",
+      "description": "Seeking collaborators to create a secure, cloud-integrated platform for a reliable stem cell donor database to improve emergency and personalized healthcare.\"\nWe\u2019re working on a platform called Navisutra, which aims to solve the critical gap in stem cell availability during medical emergencies. Our vision is to develop a secure, scalable donor database with features like:\n\nCloud integration for real-time accessibility.\nAdvanced security measures to protect sensitive donor information.\nA user-friendly interface for managing donor profiles and healthcare provider access.\nThis is a high-impact project with significant societal benefits, and we\u2019re looking for:\n\nBackend developers skilled in Python or Node.js.\nCloud experts for AWS/GCP integration.\nSecurity specialists for database protection.\nIf you\u2019re passionate about healthcare innovation, let\u2019s collaborate!\nContact: bairavaash@protonmail.com",
+      "tech_family": "devops",
+      "deliverables": "Cloud integration for real-time accessibility.\nAdvanced security measures to protect sensitive donor information.\nA user-friendly interface for managing donor profiles and healthcare provider access.",
+      "estimated_completion_date": 1741933800
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5tivxvzbz",
+    "title": "Create a new website for wpoptic.com a free chrome extension detecting WordPress plugins",
+    "body": "",
+    "request_type": "offline_help",
+    "aasm_state": "open",
+    "estimated_budget": "2000.0",
+    "created_at": 1734884724,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Remco Nieuwenhuizen",
+      "username": "career751366",
+      "small_avatar_url": "https://www.gravatar.com/avatar/3a6a729046e9c1e5a3a17e13cdc63c0f?d=mm&s=64",
+      "time_zone_display": "Astana (+06:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Web Development",
+        "url_string": "web-development"
+      },
+      {
+        "name": "Chrome Extension",
+        "url_string": "chrome-extension"
+      },
+      {
+        "name": "JavaScript Plugins",
+        "url_string": "javascript-plugins"
+      }
+    ],
+    "detail": {
+      "kind": "new-project",
+      "description": "As a Web Developer for wpoptic.com, you will be instrumental in creating an innovative website for a free Chrome extension that detects WordPress plugins. Reporting to the project manager, you will leverage your core skills in JavaScript, HTML, CSS, and front-end development to build a user-friendly interface. Your premium skills in Docker and SQL will enhance the website's functionality and performance. Additionally, your relevant experience in web design and SEO will ensure the site is optimized for user engagement and search visibility, making a significant impact on our audience.",
+      "tech_family": "web-app",
+      "deliverables": "WPoptic.com is a free chrome extension that detects WordPress plugins active on a website. Right now the site is quite simple as we are still improving our extension. For the new site we will need a new homepage including packages that we are going to sell. Please check out the website, and also check out the extension because we will keep the style of the extension. It\u2019s important for the job that you have a good understanding of the Chrome extension. Show us your best design and hopefully we can work things out.\n\nQualifications\n\nProficient in JavaScript, HTML, and CSS for front-end development\nExperience with WordPress and creating user-friendly websites\nFamiliarity with Docker and SQL databases (MySQL, PostgreSQL)\nKnowledge of web design principles and SEO best practices\nAbility to wireframe and design intuitive user interfaces\nUnderstanding of RESTful services and e-commerce platforms\nLevel of expertise Advanced\n\nResponsibilities\n\nDesign and develop a user-friendly website for wpoptic.com, focusing on the detection of WordPress plugins.\nUtilize core technologies such as JavaScript, HTML, and CSS to create an engaging front-end experience.\nCollaborate with stakeholders to gather requirements and implement features that enhance user interaction.\nEnsure the website is optimized for performance and SEO best practices.\nTest and troubleshoot website functionality across various browsers and devices.\n\nJob Types: Fixed Contract\n\nBudget: $2,000.00",
+      "estimated_completion_date": 1738303200
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5t5599f26",
+    "title": "Python, basics of project management, learn how to use LLMs",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "15.0",
+    "created_at": 1734881072,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "shehmeer ahmad",
+      "username": "shehmeerahmad",
+      "small_avatar_url": "https://cdn.filestackcontent.com/kD6l5BXVQ5CPhI1t0pxK",
+      "time_zone_display": "Atlantic Time (Canada) (-04:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Python",
+        "url_string": "python"
+      },
+      {
+        "name": "Project development",
+        "url_string": "project-development"
+      },
+      {
+        "name": "AI",
+        "url_string": "ai"
+      },
+      {
+        "name": "Large Language Models",
+        "url_string": "large-language-models"
+      }
+    ],
+    "detail": {
+      "kind": "tutoring",
+      "description": "Learning the basics of python, how to manage a team, ",
+      "estimated_length": "Not sure yet"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5t2ysffqt",
+    "title": "I wish I could see someone to teach me apps and Website development \ud83d\ude14",
+    "body": "",
+    "request_type": "offline_help",
+    "aasm_state": "open",
+    "estimated_budget": "100.0",
+    "created_at": 1734880493,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "MARCUX GRABAT",
+      "username": "marcuxgrabat",
+      "small_avatar_url": "https://cdn.filestackcontent.com/F2S5oZRQSGyzrqDVRz5H",
+      "time_zone_display": "Pacific Time (US & Canada) (-08:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Custom Development",
+        "url_string": "custom-development"
+      },
+      {
+        "name": "Web Design",
+        "url_string": "web-design"
+      },
+      {
+        "name": "Application Development",
+        "url_string": "application-development"
+      },
+      {
+        "name": "Mobile App Development",
+        "url_string": "mobile-app-development"
+      },
+      {
+        "name": "Web Application",
+        "url_string": "web-application"
+      },
+      {
+        "name": "Mobile App Testing",
+        "url_string": "mobile-app-testing"
+      }
+    ],
+    "detail": {
+      "kind": "new-project",
+      "description": "I wish I could see someone to teach me apps and Website development \ud83d\ude14",
+      "tech_family": "I wish I could see someone to teach me apps and Website development \ud83d\ude14",
+      "deliverables": "I wish I could see someone to teach me apps and Website development \ud83d\ude14",
+      "estimated_completion_date": 1734966796
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5t1kka2yc",
+    "title": "I half no experience coding but would like to learn quickly through practical application.",
+    "body": "",
+    "request_type": "longterm",
+    "aasm_state": "open",
+    "estimated_budget": "20.0",
+    "created_at": 1734880122,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Wyatt Fletcher",
+      "username": "wyattfletcherusmc",
+      "small_avatar_url": "https://www.gravatar.com/avatar/0381f803f1a2d0d70791ddf676c04541?d=mm&s=64",
+      "time_zone_display": "Eastern Time (US & Canada) (-05:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Programming",
+        "url_string": "programming"
+      },
+      {
+        "name": "Application Development",
+        "url_string": "application-development"
+      },
+      {
+        "name": "Startup development",
+        "url_string": "startup-development"
+      }
+    ],
+    "detail": {
+      "kind": "tutoring",
+      "description": "Teach me how to code. ",
+      "estimated_hours_per_week": 48,
+      "estimated_weeks": 4
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5t1iskyur",
+    "title": "I want to learn CS*2053-FR01B: Intro to Game Development",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "15.0",
+    "created_at": 1734880109,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Harshith Mahendra",
+      "username": "harshithmahendra",
+      "small_avatar_url": "https://cdn.filestackcontent.com/axM6egMzRpS9Qa7l4xHW",
+      "time_zone_display": "Atlantic Time (Canada) (-04:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Computer Science",
+        "url_string": "computer-science"
+      },
+      {
+        "name": "Programming",
+        "url_string": "programming"
+      },
+      {
+        "name": "Software Development",
+        "url_string": "software-development"
+      },
+      {
+        "name": "Game Design",
+        "url_string": "game-design"
+      },
+      {
+        "name": "Software engineer",
+        "url_string": "software-engineer"
+      },
+      {
+        "name": "Game Engine Development",
+        "url_string": "game-engine-development"
+      }
+    ],
+    "detail": {
+      "kind": "tutoring",
+      "description": "The course contains -\nIntroduces basic concepts and technologies for computer and video game development, including math and physics foundations for games, core technologies and algorithms in game development, game design and implementation, and game development environments and programming. By taking this course, students will understand various elements and phases of game development. Students will develop a small but complete game during the course and reflect upon the process.",
+      "estimated_length": "Less than 1 hr"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5sylosk89",
+    "title": "I need a bunch of roblox developers to help for free/fun I'm making a game and would love doe them to join",
+    "body": "",
+    "request_type": "offline_help",
+    "aasm_state": "open",
+    "estimated_budget": "100.0",
+    "created_at": 1734879334,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Autumn \u201cDuke\u201d",
+      "username": "autumnwinkler111",
+      "small_avatar_url": "https://cdn.filestackcontent.com/UwBNJOfaSrKZ7xVExY8N",
+      "time_zone_display": "Eastern Time (US & Canada) (-05:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Development",
+        "url_string": "development"
+      },
+      {
+        "name": "Art",
+        "url_string": "art"
+      },
+      {
+        "name": "Roblox",
+        "url_string": "roblox"
+      },
+      {
+        "name": "Design Systems",
+        "url_string": "design-systems"
+      }
+    ],
+    "detail": {
+      "kind": "new-project",
+      "description": "I need help with making the game scripts and ect \n",
+      "tech_family": "Developers in roblox",
+      "deliverables": "The final should be a community game that people can work there but I would explain more in discord. ",
+      "estimated_completion_date": 1734965581
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5stsmnrkz",
+    "title": "writh the python code for Kalman ",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "15.0",
+    "created_at": 1734878056,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Yazan Nasser",
+      "username": "yazannasser",
+      "small_avatar_url": "https://cdn.filestackcontent.com/W0RVQKZpRY2DxAgSl1HP",
+      "time_zone_display": "Pacific Time (US & Canada) (-08:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Python",
+        "url_string": "python"
+      },
+      {
+        "name": "Python 3",
+        "url_string": "python-3"
+      }
+    ],
+    "detail": {
+      "kind": "tutoring",
+      "description": "writh the python code for Kalman filter in dapper",
+      "estimated_length": "Not sure yet"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5rpb9mmli",
+    "title": "python project about implement a mutation-based fault localization technique inspired by MUSE.",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "15.0",
+    "created_at": 1734867299,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Michelle Hsieh",
+      "username": "michellehsieh",
+      "small_avatar_url": "https://cdn.filestackcontent.com/vCZmM5bgQXiSyj3I2jTw",
+      "time_zone_display": "Berlin (+01:00)",
+      "is_student": true
+    },
+    "categories": [
+      {
+        "name": "Python",
+        "url_string": "python"
+      },
+      {
+        "name": "Debugging tools",
+        "url_string": "debugging-tools"
+      }
+    ],
+    "detail": {
+      "kind": "tutoring",
+      "description": "The assignment provided a template to be implement, looking for a tutor to guide me through the project. ",
+      "estimated_length": "Not sure yet"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5rhu698eq",
+    "title": "Help for my image processing assignment using yolo and opencv",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "15.0",
+    "created_at": 1734865313,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "\u015fule iset",
+      "username": "isetsule",
+      "small_avatar_url": "https://cdn.filestackcontent.com/QxtvJ12uTcr3sinEq1pw",
+      "time_zone_display": "Istanbul (+03:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "OpenCV",
+        "url_string": "opencv"
+      },
+      {
+        "name": "Image Processing",
+        "url_string": "image-processing"
+      },
+      {
+        "name": "YOLO",
+        "url_string": "yolo"
+      },
+      {
+        "name": "Roboflow",
+        "url_string": "roboflow"
+      }
+    ],
+    "detail": {
+      "kind": "troubleshooting",
+      "description": "I have an image processing assignment given in class. In this assignment, it is necessary to create a data set with the Greek images on the stone and then analyze the percentage rate that it is read in a different image. Finally, the Greek text inscriptions on these stones need to be translated into meaningful Turkish texts by adding language with Greek letters.",
+      "estimated_length": "Not sure yet"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5rgbre0ge",
+    "title": "Working on an AI agent to help with product photography",
+    "body": "",
+    "request_type": "offline_help",
+    "aasm_state": "open",
+    "estimated_budget": "100.0",
+    "created_at": 1734864911,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Namish Pruthi",
+      "username": "namishpruthi",
+      "small_avatar_url": "https://ucarecdn.com/99ecfffa-1491-438f-85ac-2b83ca786bc3/",
+      "time_zone_display": "New Delhi (+05:30)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Computer Vision",
+        "url_string": "computer-vision"
+      },
+      {
+        "name": "Deep Learning",
+        "url_string": "deep-learning"
+      },
+      {
+        "name": "AI",
+        "url_string": "ai"
+      },
+      {
+        "name": "Generative AI",
+        "url_string": "generative-ai"
+      }
+    ],
+    "detail": {
+      "kind": "new-project",
+      "description": "I am trying to figure out a way to subject tune text to image models. Preferrably open source models.",
+      "tech_family": "Compound AI systems",
+      "deliverables": "Complete models which can generate photos of product in different settings",
+      "estimated_completion_date": 1735626600
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5resgn07d",
+    "title": "I want to auto accept the jobs offers",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "15.0",
+    "created_at": 1734864503,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Joe Musgrave",
+      "username": "joemusgrave",
+      "small_avatar_url": "https://cdn.filestackcontent.com/QIBFCRPcQdG10qOrNzKY",
+      "time_zone_display": "Eastern Time (US & Canada) (-05:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Automation",
+        "url_string": "automation"
+      },
+      {
+        "name": "Robotic Process Automation",
+        "url_string": "robotic-process-automation"
+      }
+    ],
+    "detail": {
+      "kind": "debugging",
+      "description": "I am a interpreter they send me jobs offers first come first serve so they get taken very quick how I can auto accept the jobs on osi.languageline.com \n\n",
+      "estimated_length": "Not sure yet"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5rdv8lbd2",
+    "title": "built an app which builds a cinematic movie from entertainment book or pdf",
+    "body": "",
+    "request_type": "offline_help",
+    "aasm_state": "open",
+    "estimated_budget": "500.0",
+    "created_at": 1734864258,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Devansh Vohra",
+      "username": "vohradevansh40",
+      "small_avatar_url": "https://www.gravatar.com/avatar/8b3bfc572d3e805d1e1d0ea93665e205?d=mm&s=64",
+      "time_zone_display": "Pacific Time (US & Canada) (-08:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Mobile App Development",
+        "url_string": "mobile-app-development"
+      },
+      {
+        "name": "AI Engineer",
+        "url_string": "ai-engineer"
+      },
+      {
+        "name": "Tools deployed",
+        "url_string": "tools-deployed"
+      }
+    ],
+    "detail": {
+      "kind": "new-project",
+      "description": "Don't have knowledge of ai and tools and how to integrate it all in one app, so need a partner to help me with my project",
+      "tech_family": "mobile-app",
+      "deliverables": "",
+      "estimated_completion_date": 1738305000
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5pqniruce",
+    "title": "Configuring and Maintaining Linux Enterprise Server",
+    "body": "",
+    "request_type": "offline_help",
+    "aasm_state": "open",
+    "estimated_budget": "600.0",
+    "created_at": 1734848524,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Matt Beobide",
+      "username": "mattbeobide",
+      "small_avatar_url": "https://cdn.filestackcontent.com/gTx0lQ5TsWUgNiuGJOrA",
+      "time_zone_display": "Eastern Time (US & Canada) (-05:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "System Administration",
+        "url_string": "system-administration"
+      },
+      {
+        "name": "Linux System Administration",
+        "url_string": "linux-system-administration"
+      }
+    ],
+    "detail": {
+      "kind": "existing-project",
+      "description": "Configuring and Maintaining Linux Enterprise Server",
+      "tech_family": "Red Hat Enterprise Server",
+      "deliverables": "",
+      "estimated_completion_date": 1734921616
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5pn7ngual",
+    "title": "I'm using bolt.new and running into authentication issues with supabase",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "20.0",
+    "created_at": 1734847609,
+    "is_featured": true,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Sanjiv Patel",
+      "username": "sanjivpatel",
+      "small_avatar_url": "https://cdn.filestackcontent.com/3nVP5b9BRIWnh6V5ItT5",
+      "time_zone_display": "Eastern Time (US & Canada) (-05:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "OAuth 2.0",
+        "url_string": "oauth-20"
+      },
+      {
+        "name": "Supabase",
+        "url_string": "supabase"
+      },
+      {
+        "name": "AI",
+        "url_string": "ai"
+      }
+    ],
+    "detail": {
+      "kind": "debugging",
+      "description": "I'm using bolt.new and running into authentication issues with supabase. help me get past it.",
+      "estimated_length": "Not sure yet"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5p9bxnpzo",
+    "title": "Looking for assistance troubleshooting some issues I\u2019m having with unit testing in python.",
+    "body": "",
+    "request_type": "longterm",
+    "aasm_state": "open",
+    "estimated_budget": "20.0",
+    "created_at": 1734843921,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Paul Munley",
+      "username": "paulmunley",
+      "small_avatar_url": "https://cdn.filestackcontent.com/V19mnpaQeqKFTdGsJZbg",
+      "time_zone_display": "Arizona (-07:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Unit Testing",
+        "url_string": "unit-testing"
+      },
+      {
+        "name": "Debugging",
+        "url_string": "debugging"
+      }
+    ],
+    "detail": {
+      "kind": "troubleshooting",
+      "description": "Am working on creating a blockchain oracle and am setting up unit tests for it. Am struggling with some errors pertaining to:\n\n- Object NoneType can\u2019t be used in \u2018await\u2019 expression\n- asyncio.run() cannot be called from a running event loop",
+      "estimated_hours_per_week": null,
+      "estimated_weeks": null
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5p97n29n7",
+    "title": "I have C3D data from Vicon Nexus system that I want to animate in blender. ",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "15.0",
+    "created_at": 1734843889,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Gouresh Powar",
+      "username": "goureshpowar",
+      "small_avatar_url": "https://cdn.filestackcontent.com/z80MciQYQq22MWByfYSZ",
+      "time_zone_display": "Eastern Time (US & Canada) (-05:00)",
+      "is_student": true
+    },
+    "categories": [
+      {
+        "name": "Animation",
+        "url_string": "animation"
+      },
+      {
+        "name": "Blender",
+        "url_string": "blender"
+      },
+      {
+        "name": "3D Modeling",
+        "url_string": "3d-modeling"
+      }
+    ],
+    "detail": {
+      "kind": "tutoring",
+      "description": "I have successfully imported the C3D data in blender but it is getting little difficult to add armature and then sink the Motion capture path.",
+      "estimated_length": "Not sure yet"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5onrry436",
+    "title": "I need to become advanced at Ruby on Rails and Application Security as fast as possible",
+    "body": "",
+    "request_type": "longterm",
+    "aasm_state": "open",
+    "estimated_budget": "30.0",
+    "created_at": 1734838192,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Jonathan Dycaico",
+      "username": "jdycaico",
+      "small_avatar_url": "https://www.gravatar.com/avatar/23acee24c3a957f52ed82aa43ef58cb4?d=mm&s=64",
+      "time_zone_display": "Pacific Time (US & Canada) (-08:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Ruby on Rails",
+        "url_string": "ruby-on-rails"
+      },
+      {
+        "name": "Web Application Security",
+        "url_string": "web-application-security"
+      }
+    ],
+    "detail": {
+      "kind": "tutoring",
+      "description": "I have a job coming up that's Application Security for a Rails shop.\n\nFirst off, I really want to excel at the Take Home assignment that I've received, which basically amounts to:\n\n> Your task is to review the application for any security issues and\nreport on these in a way that describes the threat, one or more\noptions for fixing any vulnerabilities, and ways to prevent\nintroducing similar vulnerabilities in the future. If you have\nideas on how to detect if a vulnerability has been exploited\nin the past, that is also appreciated!\n\nBut beyond that, I want to continue that momentum in my job to come so I'm executing well from Day One. \n\nI'd be interested in a longer-term mentorship from someone who deeply knows Rails and has some Application Security background as well.",
+      "estimated_hours_per_week": 2,
+      "estimated_weeks": 8
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5omq88ilt",
+    "title": "I need to learn Ruby on Rails, and Application Security for Ruby on Rails, as FAST as possible!",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "30.0",
+    "created_at": 1734837915,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Jonathan Dycaico",
+      "username": "jdycaico",
+      "small_avatar_url": "https://www.gravatar.com/avatar/23acee24c3a957f52ed82aa43ef58cb4?d=mm&s=64",
+      "time_zone_display": "Pacific Time (US & Canada) (-08:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Ruby",
+        "url_string": "ruby"
+      },
+      {
+        "name": "Ruby on Rails",
+        "url_string": "ruby-on-rails"
+      },
+      {
+        "name": "Web Application Security",
+        "url_string": "web-application-security"
+      },
+      {
+        "name": "Security testing",
+        "url_string": "security-testing"
+      }
+    ],
+    "detail": {
+      "kind": "tutoring",
+      "description": "I have a take-home Application Security Engineering project for a company that lives in Rails.\n\nHere's a short version of the README for the assignment:\n\n# AppSec Test\n\nThis example application is an email sending tool with the following features:\n\n1. Users can add individual recipients to their account\n2. Users can select a group of recipients to whom to send a rich\n   text email\n3. Users may import a CSV of recipients and see conflicting\n   names with imported users and existing users\n\nThis application is implemented in Ruby on Rails, using\n[ActiveAdmin](https://github.com/activeadmin/activeadmin) and other\nstack components very similar to that in our own stack.\n\nWe use:\n\n- [ActiveAdmin](https://github.com/activeadmin/activeadmin) to implement most of the structure of the application and its user interface\n- [Devise](https://github.com/heartcombo/devise) to implement authentication\n- [Pundit](https://github.com/varvet/pundit) to implement authorization\n- [ActionText](https://guides.rubyonrails.org/action_text_overview.html) to implement rich text entry for HTML emails\n- [React](https://react.dev/) to implement bulk recipient imports\n- [Apollo](https://www.apollographql.com/docs/react/) to handle frontend GraphQL communication for bulk recipient imports\n- [GraphQL Ruby](https://graphql-ruby.org/) for server side GraphQL implementation\n\n\n## Using the application\n\nThe most important concepts and models in the application are:\n\n1. Users - these includes the admin user above as well as a number\n   of non-privileged users who may send emails to Recipients in\n   their account.\n2. Recipients - these are names and emails associated with a User\n   who may receive emails. Recipients are not Users themselves,\n   though it's possible a Recipient and User share an email address.\n3. Emails - these are emails with subjects, rich text body contents,\n   and an associated list of Recipients to whom the emails are sent.\n   (The application doesn't actually send any real emails.)\n\nThe application is setup with seed data of a number of users, each\nwith their own recipients.\n\nYou may login as any of the users by finding their email address on\nthe Users dashboard and the password `password_1234`.\n\n## Exercise\n\nYour task is to review the application for any security issues and\nreport on these in a way that describes the threat, one or more\noptions for fixing any vulnerabilities, and ways to prevent\nintroducing similar vulnerabilities in the future. If you have\nideas on how to detect if a vulnerability has been exploited\nin the past, that is also appreciated!\n\nYou **do not** need to provide automated exploits or complex fixes\nbeyond a few example lines of code.\n\nFor any areas you investigate and do not find security issues,\nplease also note what potential issues you were looking for and\nwhy you believe the code you looked at may not be vulnerable.\n",
+      "estimated_length": "More than 1 hr"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5ohbklicr",
+    "title": "Help finding and tracking my crypto funds. ",
+    "body": "",
+    "request_type": "longterm",
+    "aasm_state": "open",
+    "estimated_budget": "20.0",
+    "created_at": 1734836478,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Jon",
+      "username": "totalwine2339",
+      "small_avatar_url": "https://cdn.filestackcontent.com/VVlLNBBT7e04YrpjwZjb",
+      "time_zone_display": "Central Time (US & Canada) (-06:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Tracking",
+        "url_string": "tracking"
+      },
+      {
+        "name": "Bitcoin",
+        "url_string": "bitcoin"
+      },
+      {
+        "name": "Issue Tracking",
+        "url_string": "issue-tracking"
+      },
+      {
+        "name": "Crypto algorithms",
+        "url_string": "crypto-algorithms"
+      },
+      {
+        "name": "Search algorithms",
+        "url_string": "search-algorithms"
+      },
+      {
+        "name": "Cryptocurrency wallet",
+        "url_string": "cryptocurrency-wallet"
+      }
+    ],
+    "detail": {
+      "kind": "Recovering ",
+      "description": "I have many PGP files, rsa files, signature packets with subkey binding signature, that could use some help with. I'm still new but I'm learning fast about everything this crypto jungle has to offer. It's might be overwhelming to most, but crypto as a whole is so challenging, but this journey is just beginning. I'm not expecting anyone's help for free, we're all here to eat, not starve. ",
+      "estimated_hours_per_week": null,
+      "estimated_weeks": null
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5n5udluqs",
+    "title": "Investigate a bug in Android project ( communication with WebView) Channels ",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "15.0",
+    "created_at": 1734823862,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Raisa Lemishko",
+      "username": "raisalemishko",
+      "small_avatar_url": "https://www.gravatar.com/avatar/ff8661e5e86a6bbbe47bd1a88ce26642?d=mm&s=64",
+      "time_zone_display": "Jerusalem (+02:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Android",
+        "url_string": "android"
+      },
+      {
+        "name": "Android Studio",
+        "url_string": "android-studio"
+      },
+      {
+        "name": "Android SDK",
+        "url_string": "android-sdk"
+      },
+      {
+        "name": "Android Jetpack",
+        "url_string": "android-jetpack"
+      }
+    ],
+    "detail": {
+      "kind": "debugging",
+      "description": "Custom event is being sent by the WebView, received at a high level on Android (using channels), but failing to propagate lower. This is likely due to a race condition or incorrect event consumption.\n",
+      "estimated_length": "Not sure yet"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5mlcr9ped",
+    "title": "I have the logins to my crypto wallet but have forgotten payment password, I need your help.\n\n10% of my funds which is a lot of money will be given to you\n\n",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "15.0",
+    "created_at": 1734818418,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Daniel Kwabena",
+      "username": "danielkwabena",
+      "small_avatar_url": "https://cdn.filestackcontent.com/dVehLX0TWhg3d3GQWpQ9",
+      "time_zone_display": "Edinburgh (+00:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Cryptocurrency",
+        "url_string": "cryptocurrency"
+      },
+      {
+        "name": "Authentication",
+        "url_string": "authentication"
+      },
+      {
+        "name": "Cryptography",
+        "url_string": "cryptography"
+      }
+    ],
+    "detail": {
+      "kind": "Wallet recovery",
+      "description": "I created a crypto account  since 2019,have lost my phone, recently I  logged into my wallet recently and I want to withdraw, but have forgotten the payment password I created.",
+      "estimated_length": "Not sure yet"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5mauykf5q",
+    "title": "SAP data anaytics cloud certification tutor",
+    "body": "",
+    "request_type": "longterm",
+    "aasm_state": "open",
+    "estimated_budget": "15.0",
+    "created_at": 1734815629,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "hanumanth hi",
+      "username": "hanumanthhi",
+      "small_avatar_url": "https://cdn.filestackcontent.com/zXt6HwEbTpi1J5mb6gje",
+      "time_zone_display": "Berlin (+01:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Data analytics",
+        "url_string": "data-analytics"
+      },
+      {
+        "name": "SAP/ABAP",
+        "url_string": "sap-abap"
+      }
+    ],
+    "detail": {
+      "kind": "tutoring",
+      "description": "SAP data anaytics cloud certification  tutor ",
+      "estimated_hours_per_week": null,
+      "estimated_weeks": null
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5m1i989m8",
+    "title": "I would like to learn to code",
+    "body": "",
+    "request_type": "longterm",
+    "aasm_state": "open",
+    "estimated_budget": "15.0",
+    "created_at": 1734813144,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Gildo",
+      "username": "afribuymoz",
+      "small_avatar_url": "https://www.gravatar.com/avatar/cba9afd6b96d3a00b15f1e6b8fe5e66d?d=mm&s=64",
+      "time_zone_display": "Mountain Time (US & Canada) (-07:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Xcode",
+        "url_string": "xcode"
+      },
+      {
+        "name": "Programming",
+        "url_string": "programming"
+      }
+    ],
+    "detail": {
+      "kind": "Learn to code ",
+      "description": "Beginning coding, Xcode preferred ",
+      "estimated_hours_per_week": 30,
+      "estimated_weeks": 6
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5lkc5pd3v",
+    "title": "Bot for booking appointment in one second.",
+    "body": "",
+    "request_type": "offline_help",
+    "aasm_state": "open",
+    "estimated_budget": "400.0",
+    "created_at": 1734808582,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Tech Defaulter",
+      "username": "techdefaulter",
+      "small_avatar_url": "https://cdn.filestackcontent.com/Iz1FxWjDTmVIo9PndN18",
+      "time_zone_display": "Islamabad (+05:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Automation",
+        "url_string": "automation"
+      },
+      {
+        "name": "Bot",
+        "url_string": "bot"
+      }
+    ],
+    "detail": {
+      "kind": "new-project",
+      "description": "https://service2.diplo.de/rktermin/extern/appointment_showDay.do?locationCode=doha&realmId=481&categoryId=766&dateStr=11.02.2025\n\nWebsite reference for karachi i shared link of doha so you can see how the bookings is.\nAnyone who can make a system to book this type of all categories appointment.\nShould be fast enough to 1.3 seconds not more then that.\n\nOnly expert plz no waste of time.\nPayment after project verification.",
+      "tech_family": "Web Automation booking system Germany visa appointment ",
+      "deliverables": "Monday ",
+      "estimated_completion_date": 1734894680
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5l5hmpy7x",
+    "title": "Data scientist providing me instructions on entering the field",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "20.0",
+    "created_at": 1734804636,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Peter",
+      "username": "philox",
+      "small_avatar_url": "https://ucarecdn.com/8a7edd6d-8242-493b-a0dc-26a59b26ada4/",
+      "time_zone_display": "Pacific Time (US & Canada) (-08:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Machine learning",
+        "url_string": "machine-learning"
+      },
+      {
+        "name": "Data analysis",
+        "url_string": "data-analysis"
+      },
+      {
+        "name": "Data Science",
+        "url_string": "data-science"
+      },
+      {
+        "name": "Data Visualization",
+        "url_string": "data-visualization"
+      },
+      {
+        "name": "Data analytics",
+        "url_string": "data-analytics"
+      },
+      {
+        "name": "Data Engineering",
+        "url_string": "data-engineering"
+      }
+    ],
+    "detail": {
+      "kind": "tutoring",
+      "description": "Hi,\n\nI'm currently a ASU data science student and I'd like to speak to a seasoned data scientist on how to gain practical experience so that I can stand out in the data science field as I'm getting my degree.\n\nPlease send a CV/Resume if possible. If you have data engineering skills it would be great as well.\n\nThanks",
+      "estimated_length": "Not sure yet"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5kwf5r88f",
+    "title": "To explore helpful features",
+    "body": "",
+    "request_type": "offline_help",
+    "aasm_state": "open",
+    "estimated_budget": "600.0",
+    "created_at": 1734802227,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Ritesh kumar Sahu",
+      "username": "riteshtherkstar123",
+      "small_avatar_url": "https://www.gravatar.com/avatar/14648db3e827de7da5303f19cefa8db7?d=mm&s=64",
+      "time_zone_display": "Pacific Time (US & Canada) (-08:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Usability testing",
+        "url_string": "usability-testing"
+      },
+      {
+        "name": "Security testing",
+        "url_string": "security-testing"
+      },
+      {
+        "name": "User Research",
+        "url_string": "user-research"
+      },
+      {
+        "name": "UX design",
+        "url_string": "ux-design"
+      }
+    ],
+    "detail": {
+      "kind": "existing-project",
+      "description": "To discover ideas from other developers on valuable features & skills",
+      "tech_family": "web-app",
+      "deliverables": "",
+      "estimated_completion_date": 1734888532
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5ksslxiz9",
+    "title": "Need help with how to produce an app in flutter flow quickly",
+    "body": "",
+    "request_type": "offline_help",
+    "aasm_state": "open",
+    "estimated_budget": "100.0",
+    "created_at": 1734801263,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Ahad Saeed",
+      "username": "ahadsaeed398100",
+      "small_avatar_url": "https://www.gravatar.com/avatar/6ecb29bc180af21e5a096f603f1b7f34?d=mm&s=64",
+      "time_zone_display": "Edinburgh (+00:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Mobile App Development",
+        "url_string": "mobile-app-development"
+      },
+      {
+        "name": "Flutter",
+        "url_string": "flutter"
+      }
+    ],
+    "detail": {
+      "kind": "new-project",
+      "description": "I am producing an app designed to improve the productivity and efficiency of boxing athletes through the use of a dashboard. The aim is to take in details of the user such as height weight age etc, as well as the current schedule they are adhering to as a student, employer etc in order to produce a timetable that will allow them to produce the quickest results of improving within the given time that they have free. I need help specifically to understand how I can produce this app quickly and what resources etc would be beneficial for me to use as I am on a time constraint and aim to complete this as soon as possible.",
+      "tech_family": "mobile-app",
+      "deliverables": "",
+      "estimated_completion_date": 1736769600
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5krrbu05v",
+    "title": "parse packets and rebuild",
+    "body": "",
+    "request_type": "offline_help",
+    "aasm_state": "open",
+    "estimated_budget": "600.0",
+    "created_at": 1734800988,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "jasson lazo",
+      "username": "jassonlazo860",
+      "small_avatar_url": "https://cdn.filestackcontent.com/dYqyv3QIRFqOX9eeGfY9",
+      "time_zone_display": "Bogota (-05:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Debugging",
+        "url_string": "debugging"
+      },
+      {
+        "name": "Network Programming",
+        "url_string": "network-programming"
+      },
+      {
+        "name": "Reverse Engineering",
+        "url_string": "reverse-engineering"
+      },
+      {
+        "name": "Network Protocols",
+        "url_string": "network-protocols"
+      },
+      {
+        "name": "Wireshark",
+        "url_string": "wireshark"
+      },
+      {
+        "name": "Socket programming",
+        "url_string": "socket-programming"
+      }
+    ],
+    "detail": {
+      "kind": "new-project",
+      "description": "Rebuild functions of an MMO game using engineering, such as login, movements, and packet analysis\n\n",
+      "tech_family": "desktop-app",
+      "deliverables": "",
+      "estimated_completion_date": 1741690800
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5kczhefix",
+    "title": "I need help with Load runner - VUGen coding",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "20.0",
+    "created_at": 1734797062,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Keerthana Bugatha ",
+      "username": "keerthanabugata",
+      "small_avatar_url": "https://www.gravatar.com/avatar/b445fe3d43f9491f0c2e2af905af34c0?d=mm&s=64",
+      "time_zone_display": "Central Time (US & Canada) (-06:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Performance Testing",
+        "url_string": "performance-testing"
+      },
+      {
+        "name": "LoadRunner",
+        "url_string": "loadrunner"
+      }
+    ],
+    "detail": {
+      "kind": "Debugging and tutoring",
+      "description": "Need help with creating a vugen script.",
+      "estimated_length": "Not sure yet"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5kci3od20",
+    "title": "I want to learn about json and ai",
+    "body": "",
+    "request_type": "longterm",
+    "aasm_state": "open",
+    "estimated_budget": "40.0",
+    "created_at": 1734796934,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "ShawnFN",
+      "username": "shawnfn",
+      "small_avatar_url": "https://cdn.filestackcontent.com/Rq3v4f7eQrWCLEXxMXka",
+      "time_zone_display": "Atlantic Time (Canada) (-04:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "JSON",
+        "url_string": "json"
+      },
+      {
+        "name": "Machine learning",
+        "url_string": "machine-learning"
+      },
+      {
+        "name": "JSON API",
+        "url_string": "json-api"
+      },
+      {
+        "name": "AI",
+        "url_string": "ai"
+      }
+    ],
+    "detail": {
+      "kind": "tutoring",
+      "description": "I just want to learn how to use json and create things for fun as a hobby ",
+      "estimated_hours_per_week": null,
+      "estimated_weeks": null
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5katpp896",
+    "title": "I have an issue with the data model in BI publisher. It is not showing data but stays processing. ",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "20.0",
+    "created_at": 1734796488,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Lana Verenich",
+      "username": "lenaver873",
+      "small_avatar_url": "https://www.gravatar.com/avatar/0f660d0f002b4219afdbc6ed9e2dc93c?d=mm&s=64",
+      "time_zone_display": "Eastern Time (US & Canada) (-05:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "SQL",
+        "url_string": "sql"
+      },
+      {
+        "name": "Oracle BI Publisher",
+        "url_string": "oracle-bi-publisher"
+      },
+      {
+        "name": "Oracle SQL",
+        "url_string": "oracle-sql"
+      }
+    ],
+    "detail": {
+      "kind": "troubleshooting",
+      "description": "Modify the sql query so that the data model will show the data that I can save as sample one and be able to create a report from it ",
+      "estimated_length": "Not sure yet"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5k6g4o1rl",
+    "title": "Need a tutor to train me with TOGAF 10",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "20.0",
+    "created_at": 1734795325,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Tanmoy Debnath",
+      "username": "tanmoydebnath405047",
+      "small_avatar_url": "https://www.gravatar.com/avatar/3b566baf55031a6e2efbf3c31ec72421?d=mm&s=64",
+      "time_zone_display": "Stockholm (+01:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "TOGAF",
+        "url_string": "togaf"
+      },
+      {
+        "name": "ArchiMate",
+        "url_string": "archimate"
+      }
+    ],
+    "detail": {
+      "kind": "tutoring",
+      "description": "I am aspiring for EA role and would like someone to teach me TOGAF 10",
+      "estimated_length": "Not sure yet"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5jsje5hoq",
+    "title": "I want to learn Java to contribute api development ",
+    "body": "",
+    "request_type": "longterm",
+    "aasm_state": "open",
+    "estimated_budget": "15.0",
+    "created_at": 1734791629,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Palanivelraja",
+      "username": "palanivelrajas",
+      "small_avatar_url": "https://www.gravatar.com/avatar/50c866afba2956e49ec3987a0f202553?d=mm&s=64",
+      "time_zone_display": "Pacific Time (US & Canada) (-08:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Java",
+        "url_string": "java"
+      },
+      {
+        "name": "Java EE",
+        "url_string": "java-ee"
+      },
+      {
+        "name": "Java J2EE",
+        "url_string": "java-j2ee"
+      }
+    ],
+    "detail": {
+      "kind": "tutoring",
+      "description": "I need a tutor who can bring me up to speed in Java development ",
+      "estimated_hours_per_week": 10,
+      "estimated_weeks": 10
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5jhcuueg3",
+    "title": "I need help to recover my fund in Remix solidity ",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "15.0",
+    "created_at": 1734788658,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Raji Bomodeoku ",
+      "username": "rajiquadri838",
+      "small_avatar_url": "https://www.gravatar.com/avatar/f5cebb29fd6ad648e02b24546247888a?d=mm&s=64",
+      "time_zone_display": "Amsterdam (+01:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Solidity",
+        "url_string": "solidity"
+      },
+      {
+        "name": "Web3",
+        "url_string": "web3"
+      },
+      {
+        "name": "Smart contract",
+        "url_string": "smart-contract"
+      }
+    ],
+    "detail": {
+      "kind": "troubleshooting",
+      "description": " I have 1 eth stick in Remix after I was lured by some scammers. The fund is still in the contract as I speak. I am wondering if you could be of any help. \nI will be grateful!",
+      "estimated_length": "Less than 1 hr"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5jgiqk71b",
+    "title": "I need someone to help me recover my funds in Remix smart contract ",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "15.0",
+    "created_at": 1734788435,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Raji Bomodeoku ",
+      "username": "rajiquadri838",
+      "small_avatar_url": "https://www.gravatar.com/avatar/f5cebb29fd6ad648e02b24546247888a?d=mm&s=64",
+      "time_zone_display": "Amsterdam (+01:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Resque",
+        "url_string": "resque"
+      },
+      {
+        "name": "Ethereum",
+        "url_string": "ethereum"
+      },
+      {
+        "name": "Solidity",
+        "url_string": "solidity"
+      },
+      {
+        "name": "Web3",
+        "url_string": "web3"
+      },
+      {
+        "name": "Remix",
+        "url_string": "remix"
+      }
+    ],
+    "detail": {
+      "kind": "debugging",
+      "description": " I have 1 eth stick in Remix after I was lured by some scammers. The fund is still in the contract as I speak. I am wondering if you could be of any help. \nI will be grateful!",
+      "estimated_length": "Not sure yet"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5jayi315d",
+    "title": "I just which I will see someone to help me \ud83d\ude14",
+    "body": "",
+    "request_type": "longterm",
+    "aasm_state": "open",
+    "estimated_budget": "15.0",
+    "created_at": 1734786957,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "MARCUX GRABAT",
+      "username": "marcuxgrabat",
+      "small_avatar_url": "https://cdn.filestackcontent.com/F2S5oZRQSGyzrqDVRz5H",
+      "time_zone_display": "Pacific Time (US & Canada) (-08:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "HTML/CSS",
+        "url_string": "html_css"
+      },
+      {
+        "name": "PHP",
+        "url_string": "php"
+      },
+      {
+        "name": "Python",
+        "url_string": "python"
+      },
+      {
+        "name": "phpMyAdmin",
+        "url_string": "phpmyadmin"
+      },
+      {
+        "name": "JavaScript",
+        "url_string": "javascript"
+      },
+      {
+        "name": "PHP 5",
+        "url_string": "php-5"
+      }
+    ],
+    "detail": {
+      "kind": "troubleshooting",
+      "description": "I'm a beginner I don't even know how to start ",
+      "estimated_hours_per_week": null,
+      "estimated_weeks": null
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5j9pavmo3",
+    "title": "I need to fetch the request get cookies and directly send the request with cookies \nAnyone can help if it work I will pay.",
+    "body": "",
+    "request_type": "offline_help",
+    "aasm_state": "open",
+    "estimated_budget": "200.0",
+    "created_at": 1734786624,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Tech Defaulter",
+      "username": "techdefaulter",
+      "small_avatar_url": "https://cdn.filestackcontent.com/Iz1FxWjDTmVIo9PndN18",
+      "time_zone_display": "Islamabad (+05:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "AJAX",
+        "url_string": "ajax"
+      },
+      {
+        "name": "JavaScript",
+        "url_string": "javascript"
+      }
+    ],
+    "detail": {
+      "kind": "existing-project",
+      "description": "When I use a common button to send request like submit i have to take 3000ms delay which I too high I want to directly send the request plz help",
+      "tech_family": "Automation web",
+      "deliverables": "2 days",
+      "estimated_completion_date": 1734872803
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5iug77iwd",
+    "title": "Machine Learning Model To Understand Document Relevance",
+    "body": "",
+    "request_type": "offline_help",
+    "aasm_state": "open",
+    "estimated_budget": "1000.0",
+    "created_at": 1734782571,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Antony Deroshan",
+      "username": "antony756430",
+      "small_avatar_url": "https://www.gravatar.com/avatar/b9cd7f540ee71ecdb0a5a3b2c0afbfdf?d=mm&s=64",
+      "time_zone_display": "Pacific Time (US & Canada) (-08:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Machine learning",
+        "url_string": "machine-learning"
+      },
+      {
+        "name": "NLP",
+        "url_string": "nlp"
+      }
+    ],
+    "detail": {
+      "kind": "new-project",
+      "description": "We want to build a machine learning model that can understand a document (webpage) semantic relevance.\n\n1. We have the scrapped data of 1 million webpages of partner sites\n\n2. I want an experienced ML developer to develop a relevance model and run relevance for 1 million webpages and store the metadata (embeddings, etc) on the database. \n\n3. And then, I will input a URL of a client webpage and want the ML model to find out the top relevant pages from this 1M data.\n\nPS: cluster of 1M pages can be formed as well.  ",
+      "tech_family": "web-app",
+      "deliverables": "",
+      "estimated_completion_date": 1735367400
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5iq4r0axj",
+    "title": "I want to learn how to code",
+    "body": "",
+    "request_type": "code_review",
+    "aasm_state": "open",
+    "estimated_budget": "15.0",
+    "created_at": 1734781423,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Andre Inaboya",
+      "username": "andreinaboya",
+      "small_avatar_url": "https://cdn.filestackcontent.com/MxDge7uqSO4j6Y4EZtVl",
+      "time_zone_display": "Amsterdam (+01:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Computer Science",
+        "url_string": "computer-science"
+      },
+      {
+        "name": "Programming",
+        "url_string": "programming"
+      },
+      {
+        "name": "Software Development",
+        "url_string": "software-development"
+      }
+    ],
+    "detail": {
+      "kind": "coding style",
+      "description": "I want to be able to create something just by writing down code i want to be able to create games and also some other applications",
+      "estimated_length": "More than 1 hr",
+      "estimated_completion_date": 1735038000
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5iox8y6om",
+    "title": "My code keeps stopping every 80 - 100 queries probably due to driver issues or too many subprocesses, not sure",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "15.0",
+    "created_at": 1734781102,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Zara Ahmed",
+      "username": "zaraahmed",
+      "small_avatar_url": "https://ucarecdn.com/555916d0-5c01-4fa1-bb65-a98f6ae97027/",
+      "time_zone_display": "Eastern Time (US & Canada) (-05:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Debugging",
+        "url_string": "debugging"
+      },
+      {
+        "name": "Selenium",
+        "url_string": "selenium"
+      },
+      {
+        "name": "Performance Optimization",
+        "url_string": "performance-optimization"
+      }
+    ],
+    "detail": {
+      "kind": "debugging",
+      "description": "[ZARA DEBUG]: exception msg: Message: session not created: Chrome failed to start: exited normally.\n  (session not created: DevToolsActivePort file doesn't exist)\n  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)\nStacktrace:\n#0 0x59f7b63fc6da <unknown>\n#1 0x59f7b5f10f80 <unknown>\n#2 0x59f7b5f46db1 <unknown>\n#3 0x59f7b5f426c5 <unknown>\n#4 0x59f7b5f8dcf9 <unknown>\n#5 0x59f7b5f8d346 <unknown>\n#6 0x59f7b5f81953 <unknown>\n#7 0x59f7b5f5072e <unknown>\n#8 0x59f7b5f5179e <unknown>\n#9 0x59f7b63c7f1b <unknown>\n#10 0x59f7b63cbeb8 <unknown>\n#11 0x59f7b63b542c <unknown>\n#12 0x59f7b63cca37 <unknown>\n#13 0x59f7b6399fef <unknown>\n#14 0x59f7b63eaad8 <unknown>\n#15 0x59f7b63eaca0 <unknown>\n#16 0x59f7b63fb556 <unknown>\n#17 0x7d3934e9ca94 <unknown>\n#18 0x7d3934f29c3c <unknown>\n\n[ZARA DEBUG]: fatally quitting\nsuccessfully removed temp profile /tmp/uc_94d0fq0r\nsuccessfully removed temp profile /tmp/uc_wloqlryn\nsuccessfully removed temp profile /tmp/uc_vwzscode\nsuccessfully removed temp profile /tmp/uc__38ko5n8\nsuccessfully removed temp profile /tmp/uc_323jeszv\nsuccessfully removed temp profile /tmp/uc_j7nea6gt\nsuccessfully removed temp profile /tmp/uc_geidsq8x\nsuccessfully removed temp profile /tmp/uc__utnyewj\nsuccessfully removed temp profile /tmp/uc_mozfcfq1\nsuccessfully removed temp profile /tmp/uc_jpacqddy\nsuccessfully removed temp profile /tmp/uc_kudwjhtf\nsuccessfully removed temp profile /tmp/uc_b99u62nc\nsuccessfully removed temp profile /tmp/uc_qacso1ak\nsuccessfully removed temp profile /tmp/uc_9pyl4xlf\nsuccessfully removed temp profile /tmp/uc_j79_0_fr\nsuccessfully removed temp profile /tmp/uc_zuqk0xqk\nsuccessfully removed temp profile /tmp/uc_quszezb0\nsuccessfully removed temp profile /tmp/uc_j_ti6vv5\nsuccessfully removed temp profile /tmp/uc_aeynpxjl\nsuccessfully removed temp profile /tmp/uc_01gjz8n0\nsuccessfully removed temp profile /tmp/uc_4cui2h28\nsuccessfully removed temp profile /tmp/uc_t58a828d\nsuccessfully removed temp profile /tmp/uc_ewd0s2nz\nsuccessfully removed temp profile /tmp/uc_6we2ihzc\nsuccessfully removed temp profile /tmp/uc_a_dyvlud\nsuccessfully removed temp profile /tmp/uc_u4nattec\nsuccessfully removed temp profile /tmp/uc_hl77b1pm\nsuccessfully removed temp profile /tmp/uc_tb6bmoe_\nsuccessfully removed temp profile /tmp/uc_uhrg2x2t\nsuccessfully removed temp profile /tmp/uc_1jpnv0bj\nsuccessfully removed temp profile /tmp/uc_6kew5byp\nsuccessfully removed temp profile /tmp/uc_pe8l1x_z\nsuccessfully removed temp profile /tmp/uc_i463r2dn\nsuccessfully removed temp profile /tmp/uc_c76a1u4s\nsuccessfully removed temp profile /tmp/uc_vgbfgckr\nsuccessfully removed temp profile /tmp/uc_qldu4odg\nsuccessfully removed temp profile /tmp/uc_m26ctt16\n\n\nMaximum number of clients reached\nMaximum number of clients reached\n\n(gnome-screenshot:260518): Gtk-WARNING **: 22:59:34.023: cannot open display: :1\nMaximum number of clients reached\nMaximum number of clients reached\nMaximum number of clients reached\n\n(gnome-screenshot:260526): Gtk-WARNING **: 22:59:34.130: cannot open display: :1\nFailed to register: GDBus.Error:org.freedesktop.DBus.Error.NoReply: Message recipient disconnected from message bus without replying",
+      "estimated_length": "Not sure yet"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5inxqzr69",
+    "title": "Create a new website for wpoptic.com a free chrome extension detecting WordPress plugins",
+    "body": "",
+    "request_type": "offline_help",
+    "aasm_state": "open",
+    "estimated_budget": "2000.0",
+    "created_at": 1734780840,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Remco Nieuwenhuizen",
+      "username": "career751366",
+      "small_avatar_url": "https://www.gravatar.com/avatar/3a6a729046e9c1e5a3a17e13cdc63c0f?d=mm&s=64",
+      "time_zone_display": "Astana (+06:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "WordPress",
+        "url_string": "wordpress"
+      },
+      {
+        "name": "Chrome Extension",
+        "url_string": "chrome-extension"
+      },
+      {
+        "name": "PSD to WordPress",
+        "url_string": "psd-to-wordpress"
+      }
+    ],
+    "detail": {
+      "kind": "new-project",
+      "description": "WPoptic.com is a free chrome extension that detects WordPress plugins active on a website. Right now the site is quite simple as we are still improving our extension. For the new site we will need a new homepage including packages that we are going to sell. Please check out the website, and also check out the extension because we will keep the style of the extension. It\u2019s important for the job that you have a good understanding of the Chrome extension. Show us your best design and hopefully we can work things out.\n\nSummary\n\nAs a Web Developer for wpoptic.com, you will be instrumental in creating an innovative website for a free Chrome extension that detects WordPress plugins. Reporting to the project manager, you will leverage your core skills in JavaScript, HTML, CSS, and front-end development to build a user-friendly interface. Your premium skills in Docker and SQL will enhance the website's functionality and performance. Additionally, your relevant experience in web design and SEO will ensure the site is optimized for user engagement and search visibility, making a significant impact on our audience.\n",
+      "tech_family": "web-app",
+      "deliverables": "Qualifications\n\nProficient in JavaScript, HTML, and CSS for front-end development\nExperience with WordPress and creating user-friendly websites\nFamiliarity with Docker and SQL databases (MySQL, PostgreSQL)\nKnowledge of web design principles and SEO best practices\nAbility to wireframe and design intuitive user interfaces\nUnderstanding of RESTful services and e-commerce platforms\nLevel of expertise Advanced\n\nResponsibilities\n\nDesign and develop a user-friendly website for wpoptic.com, focusing on the detection of WordPress plugins.\nUtilize core technologies such as JavaScript, HTML, and CSS to create an engaging front-end experience.\nCollaborate with stakeholders to gather requirements and implement features that enhance user interaction.\nEnsure the website is optimized for performance and SEO best practices.\nTest and troubleshoot website functionality across various browsers and devices.\n\nJob Types: Fixed Contract\n\nBudget: $2,000.00",
+      "estimated_completion_date": 1745992800
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5iml9zuj2",
+    "title": "I need to port code from macos to ubuntu without GUI",
+    "body": "",
+    "request_type": "code_review",
+    "aasm_state": "open",
+    "estimated_budget": "30.0",
+    "created_at": 1734780483,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Jakub Kie\u0142basiewicz",
+      "username": "jakkie",
+      "small_avatar_url": "https://cdn.filestackcontent.com/UZPwLsbeQoK82fBHUkub",
+      "time_zone_display": "Warsaw (+01:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Python",
+        "url_string": "python"
+      },
+      {
+        "name": "Linux",
+        "url_string": "linux"
+      },
+      {
+        "name": "Selenium",
+        "url_string": "selenium"
+      },
+      {
+        "name": "Web Scraping",
+        "url_string": "web-scraping"
+      }
+    ],
+    "detail": {
+      "kind": "Code porting",
+      "description": "I need to port selenium-based scraper app to Ubuntu without GUI, right now the entire process get stuck on Chrome driver webpage refresh and does not work.",
+      "estimated_length": "Not sure yet",
+      "estimated_completion_date": 1734908399
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5i3ybpgda",
+    "title": "Machine learning or deep learning project to predict electricity prices in deregulated power markets ",
+    "body": "",
+    "request_type": "offline_help",
+    "aasm_state": "open",
+    "estimated_budget": "100.0",
+    "created_at": 1734775530,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "BT22EEE014 Diksha Ratha",
+      "username": "bt22eee014diksharatha",
+      "small_avatar_url": "https://cdn.filestackcontent.com/5wbmLvCTYiaEauTDrqVh",
+      "time_zone_display": "Pacific Time (US & Canada) (-08:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Machine learning",
+        "url_string": "machine-learning"
+      },
+      {
+        "name": "Data Science",
+        "url_string": "data-science"
+      },
+      {
+        "name": "Deep Learning",
+        "url_string": "deep-learning"
+      }
+    ],
+    "detail": {
+      "kind": "new-project",
+      "description": "Dynamic pricing in deregulated power markets is my project , so I need a project that could predict next day hourly price..data is not available for my country so it can be taken from kaggle. ",
+      "tech_family": "Machine learning project ",
+      "deliverables": "",
+      "estimated_completion_date": 1734861753
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5hi69g5qg",
+    "title": "I am java developer i want to do code for sending the alrt in mail id the sla is breaches wnat that code we used java servlet and request and response",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "15.0",
+    "created_at": 1734769743,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Ashwini Patil",
+      "username": "ashwinipatil876122",
+      "small_avatar_url": "https://cdn.filestackcontent.com/77WrBFblS7u8oapO4DFv",
+      "time_zone_display": "Abu Dhabi (+04:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Java",
+        "url_string": "java"
+      },
+      {
+        "name": "Java J2EE",
+        "url_string": "java-j2ee"
+      }
+    ],
+    "detail": {
+      "kind": "tutoring",
+      "description": "I am java developer i want to do code for sending the alrt in mail id the sla is breaches wnat that code we used java servlet and request and response",
+      "estimated_length": "Not sure yet"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5hcxxxvcz",
+    "title": "Design patterns using Java and sockets.",
+    "body": "",
+    "request_type": "offline_help",
+    "aasm_state": "open",
+    "estimated_budget": "100.0",
+    "created_at": 1734768353,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Jess",
+      "username": "jesssmolsmol",
+      "small_avatar_url": "https://www.gravatar.com/avatar/0d3ca50ecb4e0b9b6962c8017bf202fa?d=mm&s=64",
+      "time_zone_display": "Eastern Time (US & Canada) (-05:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Java",
+        "url_string": "java"
+      },
+      {
+        "name": "Design Pattern",
+        "url_string": "design-pattern"
+      }
+    ],
+    "detail": {
+      "kind": "new-project",
+      "description": "To be clear, I'm looking for someone familiar with DESIGN PATTERNS. And I just happen to be using Java and java sockets. I'm not looking to do Android development. \nThere are 3-4 assignments that I need assistance on. Looking for someone sooner rather than later. Please be specific about what you know and clear about how exactly you can help with DESIGN PATTERNS.",
+      "tech_family": "Design patterns",
+      "deliverables": "",
+      "estimated_completion_date": 1734854660
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5gnqfqu3n",
+    "title": "Macro for business purpose. ",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "15.0",
+    "created_at": 1734761655,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Divya R",
+      "username": "divyar0491",
+      "small_avatar_url": "https://www.gravatar.com/avatar/495de2ebfd1f65ecc55c0e454ac4779e?d=mm&s=64",
+      "time_zone_display": "Pacific Time (US & Canada) (-08:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Excel",
+        "url_string": "excel"
+      },
+      {
+        "name": "Excel VBA",
+        "url_string": "excel-vba"
+      }
+    ],
+    "detail": {
+      "kind": "troubleshooting",
+      "description": "Im working in a large excel data takes longer time.\nI need a help to develop a macro to save time.\n",
+      "estimated_length": "Less than 1 hr"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5fwrgkkod",
+    "title": "Junior dev need guidance. Hoping to meet a professional.",
+    "body": "",
+    "request_type": "longterm",
+    "aasm_state": "open",
+    "estimated_budget": "20.0",
+    "created_at": 1734754488,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "AleksandrTchaikovsky",
+      "username": "aleksandrtchaikovsky",
+      "small_avatar_url": "https://cdn.filestackcontent.com/JhTBNrIQEaD7vhOlTdgw",
+      "time_zone_display": "Santiago (-03:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Development",
+        "url_string": "development"
+      },
+      {
+        "name": "Mentoring",
+        "url_string": "mentoring"
+      }
+    ],
+    "detail": {
+      "kind": "troubleshooting",
+      "description": "Hoping to find a dev in-the-scene to guide me in my journey to become a dev. I love computers and that  it. ",
+      "estimated_hours_per_week": null,
+      "estimated_weeks": null
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5fgv6nvko",
+    "title": "Webapplication / Webshop with payment thorugh crypto",
+    "body": "",
+    "request_type": "offline_help",
+    "aasm_state": "open",
+    "estimated_budget": "4000.0",
+    "created_at": 1734750264,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "asmat10",
+      "username": "asmat10",
+      "small_avatar_url": "https://cdn.filestackcontent.com/PsRQcAhWSuaaq3CJDYDj",
+      "time_zone_display": "Bern (+01:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "WordPress",
+        "url_string": "wordpress"
+      },
+      {
+        "name": "WooCommerce",
+        "url_string": "woocommerce"
+      },
+      {
+        "name": "WordPress E-commerce",
+        "url_string": "wordpress-e-commerce"
+      },
+      {
+        "name": "Cryptocurrency",
+        "url_string": "cryptocurrency"
+      }
+    ],
+    "detail": {
+      "kind": "new-project",
+      "description": "The website will sell +18 content (images and videos) for payment.\nCrypto payments will be implemented using plugins or APIs (e.g., Coinbase Commerce, BitPay).\n\nSecurity measures:\nProtection of sensitive user data through SSL/HTTPS.\nUse of secure WordPress plugins to prevent SQL injection and XSS attacks.\nRegular updates of themes, plugins, and the WordPress core.\n\nUser Features\n\nRegistration and Login:\nUsers can register with a pseudonym/username.\nPasswords will be encrypted using WordPress's built-in security features.\nAge Verification (18+):\nUse a plugin or a simple popup to confirm that users are 18+ without collecting personal data.\n\nContent Access:\nUsers can browse previews of content (thumbnails, descriptions) and unlock them via payment.\n\nFeatures for the Client\n\nContent Management:\nThe client can upload and manage images and videos using WordPress's media library.\nAbility to edit content descriptions, set prices, and manage sales through WooCommerce or a similar plugin.\n\nOnline Status:\nThe client can toggle their online/offline status via a custom WordPress dashboard widget.\nA visible indicator on the site shows when the client is available for chat.\n\nChat Functionality:\nReal-time chat with users can be implemented using a plugin (e.g., WP Live Chat Support or Tawk.to).\nChat availability depends on the client\u2019s online/offline status.\n\nTechnical Requirements\n\nWordPress Core:\nBuilt on the WordPress.org platform with a self-hosted setup.\nCustomizable through plugins and themes.\n\nPlugins:\nWooCommerce for managing payments and sales.\nCrypto Payment Gateway Plugins (e.g., Coinbase Commerce, NOWPayments).\nPopup Plugin for age verification (e.g., Popup Maker).\nLive Chat Plugin for real-time communication.\n\nMedia Storage:\nUse WordPress\u2019s built-in media library or integrate a third-party cloud storage solution (e.g., AWS S3, Cloudflare R2).\n\nSecurity Enhancements:\nInstall security plugins like Wordfence or iThemes Security for additional protection.\nSet up automatic backups with a plugin like UpdraftPlus.\n\nDatabase:\nUse the MySQL database included with the hosting service to store user data, sales records, and other site information.",
+      "tech_family": "web-app",
+      "deliverables": "",
+      "estimated_completion_date": 1740740400
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5ffzian4j",
+    "title": "Webapplication / Webshop with payment thorugh crypto",
+    "body": "",
+    "request_type": "offline_help",
+    "aasm_state": "open",
+    "estimated_budget": "4000.0",
+    "created_at": 1734750030,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "asmat10",
+      "username": "asmat10",
+      "small_avatar_url": "https://cdn.filestackcontent.com/PsRQcAhWSuaaq3CJDYDj",
+      "time_zone_display": "Bern (+01:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Angular",
+        "url_string": "angular"
+      },
+      {
+        "name": "Web Service",
+        "url_string": "web-service"
+      },
+      {
+        "name": "Spring Boot",
+        "url_string": "spring-boot"
+      },
+      {
+        "name": "Cryptocurrency",
+        "url_string": "cryptocurrency"
+      },
+      {
+        "name": "ASP.NET Web API",
+        "url_string": "aspdot_net-web-api"
+      },
+      {
+        "name": "Web Application",
+        "url_string": "web-application"
+      }
+    ],
+    "detail": {
+      "kind": "new-project",
+      "description": "The website sells +18 content (images and videos) for payment.\nCrypto payments as the only payment method (e.g., Bitcoin, Ethereum).\n\nSecurity measures:\nProtection of sensitive user data.\nSSL/HTTPS encryption.\nProtection against SQL injection and XSS attacks.\n\nUser Features\n\nRegistration and Login:\nCreate a profile with a pseudonym/username.\nPassword encryption (e.g., bcrypt).\nAge Verification (18+):\nPopup confirmation for age verification without collecting personal data.\n\nContent Access:\nUsers can view available content (thumbnails, descriptions) and unlock it after payment.\n\nFeatures for the Client\n\nContent Management:\nUpload images and videos.\nEdit descriptions and prices.\n\nOnline Status:\nAbility to mark herself as \"Online\" or \"Offline.\"\nUsers can only send messages when she is \"Online.\"\n\nChat Functionality:\nReal-time communication with users.\nTechnical Requirements\n\nBackend:\nProgrammed in Spring Boot (Java) or ASP.NET\nUser and content management.\nIntegration of a crypto payment gateway (e.g., Coinbase Commerce, BitPay).\n\nFrontend:\nDeveloped with Angular or anything others also possible\nIntuitive, user-friendly design (responsive).\n\nDatabase:\nStorage of users, content, and chat messages.\nUse PostgreSQL or MySQL for relational data.\nStore media files in a cloud storage solution (e.g., AWS S3).\n",
+      "tech_family": "web-app",
+      "deliverables": "",
+      "estimated_completion_date": 1740740400
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5f5ff6vt3",
+    "title": "I invested in to a crypto need help out or advise ",
+    "body": "",
+    "request_type": "offline_help",
+    "aasm_state": "open",
+    "estimated_budget": "200.0",
+    "created_at": 1734747224,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "John Defalco",
+      "username": "johndefalcojr",
+      "small_avatar_url": "https://www.gravatar.com/avatar/2e18ee0ce0e3c4b2a68596ab2fb2d5b4?d=mm&s=64",
+      "time_zone_display": "Bogota (-05:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Consulting",
+        "url_string": "consulting"
+      },
+      {
+        "name": "Cryptocurrency",
+        "url_string": "cryptocurrency"
+      }
+    ],
+    "detail": {
+      "kind": "new-project",
+      "description": "I found a token my friend sent me $50 worth at the time it has pumped several times it\u2019s wrapped in binance it\u2019s GameStop Coin I need to know how to swap it for another coin or cash it out it is currently in my Coinbase wallet I\u2019m stuck ",
+      "tech_family": "web-app",
+      "deliverables": "",
+      "estimated_completion_date": 1734833420
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5ex3xx18l",
+    "title": "Help Deploying Full-Stack Spring Boot Application on Railway",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "15.0",
+    "created_at": 1734745014,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "htrillo95",
+      "username": "htrillo95",
+      "small_avatar_url": "https://cdn.filestackcontent.com/aJ2xNq0pTMKeFXFOvQ1r",
+      "time_zone_display": "Eastern Time (US & Canada) (-05:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Java",
+        "url_string": "java"
+      },
+      {
+        "name": "React",
+        "url_string": "reactjs"
+      },
+      {
+        "name": "Spring Boot",
+        "url_string": "spring-boot"
+      },
+      {
+        "name": "JavaScript",
+        "url_string": "javascript"
+      }
+    ],
+    "detail": {
+      "kind": "troubleshooting",
+      "description": "I\u2019m having trouble deploying a full-stack application built with Spring Boot, MySQL, and React. The backend is being hosted on Railway, while the frontend is hosted on Vercel. The backend crashes during deployment, and I\u2019m encountering errors related to database connectivity and configuration (e.g., Hibernate SessionFactory, JDBC connection issues). I need assistance debugging the deployment process to ensure the backend connects properly to the Railway database and works seamlessly with the frontend hosted on Vercel. \n\nShould be a simple fix but I'm fairly new to developing and still am learning. ",
+      "estimated_length": "Less than 1 hr"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5ewsa01hg",
+    "title": "I'm trying to learn how to make a csgo case opening animation.",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "15.0",
+    "created_at": 1734744928,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Wirfy Yirf",
+      "username": "wirfyyirf",
+      "small_avatar_url": "https://cdn.filestackcontent.com/AqRupRpCRga7u9pn0NIm",
+      "time_zone_display": "Pacific Time (US & Canada) (-08:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Java",
+        "url_string": "java"
+      },
+      {
+        "name": "Animation",
+        "url_string": "animation"
+      },
+      {
+        "name": "Minecraft",
+        "url_string": "minecraft"
+      }
+    ],
+    "detail": {
+      "kind": "tutoring",
+      "description": "I'm trying to learn how to make a csgo case opening animation.",
+      "estimated_length": "Less than 1 hr"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5edsg0sqe",
+    "title": "Script that pulls list of Groups from Broadcom DX UIM ",
+    "body": "",
+    "request_type": "offline_help",
+    "aasm_state": "open",
+    "estimated_budget": "250.0",
+    "created_at": 1734739880,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Reba Gaines",
+      "username": "fhtechllc",
+      "small_avatar_url": "https://ucarecdn.com/27d22a6a-6f4f-47b0-97e5-f128616303a1/",
+      "time_zone_display": "Eastern Time (US & Canada) (-05:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "API",
+        "url_string": "api"
+      },
+      {
+        "name": "PowerShell",
+        "url_string": "powershell"
+      }
+    ],
+    "detail": {
+      "kind": "new-project",
+      "description": "I have a csv with 2000+ groups.   \nGroups have names like XYZ - Substation 6\nLOC would be the first 3 characters of the Group name\n\nI need to read groups from CSV and create them in UIM if the don't already exist\nThe groups are dynamic where startswith = LOC\n\nLooking at UIM SWAGGER UI,\n\nto get groups:\n\ncurl -X GET \"https://<host>:443/uimapi/groups\" -H \"accept: application/xml\"\n\nto create groups:\ncurl -X GET \"https://<host>:443/uimapi/groups/container?name=<name>&description=<desc>&elementType=system&criteria=<json string>parent=0&account=0\" -H \"accept: application/xml\"\n\nThe JSON string could be for example\n\ncriteriaOperator = AND\" \nisCsfilter = true\nsubCritera\n    attribute = \"DisplayName\"\n    filterOperator = \"STARTWITH\"\n    isCsfilter = true\n    negated = false\n    value = LOC\n\nJust to see if I can pull the list of what's already in UIM, I tried this but could not get it to work\n\n#Define the UIM API Credentials and URL\n\n$UIMHost = \"host\"\n\n$Username = \"user\"\n\n$Password = \"password\n\n$UIMAPIURL = \u201chttps://$UIMHost:443/uimapi/groups?type=1\u201d\n\n \n\n# Get Orignal and Set TLS version\n\n$OriginalProtocol = [Net.ServicePointManager]::SecurityProtocol\n\n[Net.ServicePointManager]::SecurityProtocol = `\n\n[Net.SecurityProtocolType]::Tls12 , [Net.SecurityProtocolType]::Tls11 , [Net.SecurityProtocolType]::Tls\n\n \n\n \n\n#Create the base64-encoded credentials for Basic Authentication\n\n$CredentialBytes = [System.Text.Encoding]::ASCII.GetBytes(\"$($Username):$($Password)\")\n\n$Base64Credential = [Convert]::ToBase64String($CredentialBytes)\n\n \n\n#Set the headers for the GET request (with the Basic Authentication)\n\n$Headers = @{\n\n    \"Accept\"           = \"application/xml\"\n\n    \"Accept-Encoding\"  = \"gzip, deflate, br\"\n\n    \"Accept-Language\"  = \"en-US,en;q=0.5\"\n\n    \"Authorization\"    = \"Basic $Base64Credential\"\n\n    \"Host\"             = $UIMHosttm\n\n    \"Referer\"          = https://$UIMHost/uimapi/swagger-ui/index.html\n\n}\n\n \n\n \n\n#Ignore Cert Validation\n\n[System.Net.ServicePointManager]::ServerCertificateValidationCallback = {true}\n\n \n\n#Send the GET request to the UMP\n\ntry {\n\n    $response = Invoke-RestMethod -Uri $UIMAPIURL -Method Get -Headers $Headers\n\n    Write-Ouptut \"Request Sucessful: $response\"\n\n} catch {\n\n\n    Write-Error \"Request Failed. Error details:\"\n\n    Write-Error $_.Exception.Message\n\n}\n\n \n\n# Restore original protocol\n\n[Net.ServicePointManager]::SecurityProtocol = $OriginalProtocol\n\nIdealy< I would like a script to pull the Network Containers under Universe in Broadcom DX Spectrum and create the same groups in Broadcom DX UIM",
+      "tech_family": "Powershell",
+      "deliverables": "",
+      "estimated_completion_date": 1734823687
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5ebxhs8z9",
+    "title": "I am doing a course in AI and I have assignments to complete in Python but my level of Python coding is too low and I need help in understanding where I do wrong.",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "15.0",
+    "created_at": 1734739386,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Grazia Rapisarda ",
+      "username": "graziarapisarda",
+      "small_avatar_url": "https://www.gravatar.com/avatar/a96edcc61b02a1440658b2db279d0d20?d=mm&s=64",
+      "time_zone_display": "Edinburgh (+00:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Python",
+        "url_string": "python"
+      },
+      {
+        "name": "Machine learning",
+        "url_string": "machine-learning"
+      },
+      {
+        "name": "Artificial Neural Networks",
+        "url_string": "artificial-neural-networks"
+      }
+    ],
+    "detail": {
+      "kind": "debugging",
+      "description": "I am currently struggling to write a code on Baysian Optimisation and k-fold cross validation.",
+      "estimated_length": "Less than 1 hr"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5dusnt45n",
+    "title": "Pydantic based LLM to manage chat history, RAG, function calling",
+    "body": "",
+    "request_type": "offline_help",
+    "aasm_state": "open",
+    "estimated_budget": "100.0",
+    "created_at": 1734734833,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": false,
+    "interest": {
+      "message": "Hey Claudio!\n\nI'd love to help you with this \ud83d\ude42.\n\nWould you like to have a call?",
+      "open_to_special_rate": false
+    },
+    "user": {
+      "name": "Claudio Cronin",
+      "username": "cronin",
+      "small_avatar_url": "https://cdn.filestackcontent.com/RdD380xkQlK2i0yRmACm",
+      "time_zone_display": "Rome (+01:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Python",
+        "url_string": "python"
+      },
+      {
+        "name": "Python 3",
+        "url_string": "python-3"
+      }
+    ],
+    "detail": {
+      "kind": "new-project",
+      "description": "The will be used via whatsapp",
+      "tech_family": "web-app",
+      "deliverables": "",
+      "estimated_completion_date": 1734821150
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5cp86610b",
+    "title": "Astro React Web App Fixes",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "20.0",
+    "created_at": 1734723787,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Seth Bambling",
+      "username": "sethbambling",
+      "small_avatar_url": "https://cdn.filestackcontent.com/4WISCK0T920NEoh7V0Hg",
+      "time_zone_display": "Central Time (US & Canada) (-06:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "React",
+        "url_string": "reactjs"
+      },
+      {
+        "name": "Tailwind css",
+        "url_string": "tailwind-css"
+      },
+      {
+        "name": "Astro.js",
+        "url_string": "astrojs"
+      }
+    ],
+    "detail": {
+      "kind": "troubleshooting",
+      "description": "I have an Astro SaaS app based on the repo linked below. It's like 95% complete but is showing errors and I cant seem to get it running. In an overview it is a SaaS Astro app to charge people to manage golf tee times with their normal friend groups. I just need someone who is familiar with Astro to debug and get it running and functioning.\n\nhttps://github.com/fogbender/b2b-saaskit",
+      "estimated_length": "More than 1 hr"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5cl7de36c",
+    "title": "I want to learn angular and RxJs from an experience angular tutor who can fast track my learning",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "15.0",
+    "created_at": 1734722719,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Jake Salazar",
+      "username": "jakesalazar",
+      "small_avatar_url": "https://cdn.filestackcontent.com/TVb9klwRwOpBqYIFd8UA",
+      "time_zone_display": "Beijing (+08:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Angular",
+        "url_string": "angular"
+      },
+      {
+        "name": "RxJS",
+        "url_string": "rxjs"
+      }
+    ],
+    "detail": {
+      "kind": "tutoring",
+      "description": " Introduction to Angular and RxJS\nAngular Project Setup\nRxJS Basics\nBuilding Reusable Components\nServices and Dependency Injection\nAdvanced RxJS Techniques\nAPI Integration\nRouting and Lazy Loading\nError Handling and Logging\nPerformance Optimization\nTesting\nDeployment\nBest Practices and Code Quality\nReal-world Project",
+      "estimated_length": "Less than 1 hr"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5c3rzptfz",
+    "title": "Preparation of interview ",
+    "body": "",
+    "request_type": "offline_help",
+    "aasm_state": "open",
+    "estimated_budget": "100.0",
+    "created_at": 1734718088,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Ramesh Amale",
+      "username": "rameshamale",
+      "small_avatar_url": "https://cdn.filestackcontent.com/U6h510LJQz6reY9AEP4D",
+      "time_zone_display": "Pacific Time (US & Canada) (-08:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Team Building",
+        "url_string": "team-building"
+      },
+      {
+        "name": "Interview Preparation",
+        "url_string": "interview-preparation"
+      },
+      {
+        "name": "Communication Skills",
+        "url_string": "communication-skills"
+      }
+    ],
+    "detail": {
+      "kind": "new-project",
+      "description": "I am not able to crack Testing interviewes.",
+      "tech_family": "web-app",
+      "deliverables": "",
+      "estimated_completion_date": 1734804352
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5bmuvibxd",
+    "title": "\"I'm seeking guidance on GitHub Python Backend Engineering projects to enhance my portfolio and job prospects post-graduation.",
+    "body": "",
+    "request_type": "offline_help",
+    "aasm_state": "open",
+    "estimated_budget": "400.0",
+    "created_at": 1734713592,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Eyad Ahmed",
+      "username": "zezoahmeyad",
+      "small_avatar_url": "https://www.gravatar.com/avatar/daa711a4888ec1d49bd576cf0082f6cd?d=mm&s=64",
+      "time_zone_display": "Edinburgh (+00:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "GitHub",
+        "url_string": "github"
+      },
+      {
+        "name": "GitLab",
+        "url_string": "gitlab"
+      },
+      {
+        "name": "Web Development",
+        "url_string": "web-development"
+      },
+      {
+        "name": "Back-End",
+        "url_string": "back-end"
+      },
+      {
+        "name": "Software Development",
+        "url_string": "software-development"
+      },
+      {
+        "name": "Project development",
+        "url_string": "project-development"
+      }
+    ],
+    "detail": {
+      "kind": "new-project",
+      "description": "I have a solid foundation in the basics of software development, including OOP, Git, Python, Java, and Haskell. However, I struggle to transition from academic or incomplete projects to industry-standard software engineering projects.\n\nCurrently, all my GitHub repositories are private, as they are either related to university assignments or lack the polish to be published publicly.\n\nI am seeking a mentor to guide me through the following steps:\n\nIdentifying a project that aligns with my skills and helps me grow professionally.\nNavigating the process of contributing to this project effectively.\nShowcasing my skills and progress by reflecting on this project in a personal portfolio.\nI would greatly appreciate this guidance, particularly for my first public project, to help me establish a professional presence in software development.",
+      "tech_family": "web-app",
+      "deliverables": "",
+      "estimated_completion_date": 1742040000
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5b7kolnrk",
+    "title": "I want to recover my hacked google account ",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "20.0",
+    "created_at": 1734709531,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Zxfaa",
+      "username": "zxfaa",
+      "small_avatar_url": "https://cdn.filestackcontent.com/ICrOyVESjm7bnBC2RrAD",
+      "time_zone_display": "Pacific Time (US & Canada) (-08:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Google",
+        "url_string": "google"
+      },
+      {
+        "name": "Google Account Recovery",
+        "url_string": "google-account-recovery"
+      }
+    ],
+    "detail": {
+      "kind": "I want someone to recover my hacked account",
+      "description": "I want someone to help me recover my hacked google account ",
+      "estimated_length": "Not sure yet"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5b2s59k6z",
+    "title": "I want to learn Linux foundational skills for Cloud Engineering",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "15.0",
+    "created_at": 1734708257,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Jonathan Mann",
+      "username": "jemann115",
+      "small_avatar_url": "https://www.gravatar.com/avatar/589615ae6265160822cdd90cf56ca7c0?d=mm&s=64",
+      "time_zone_display": "Eastern Time (US & Canada) (-05:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Linux",
+        "url_string": "linux"
+      },
+      {
+        "name": "Bash",
+        "url_string": "bash"
+      },
+      {
+        "name": "Linux System Administration",
+        "url_string": "linux-system-administration"
+      }
+    ],
+    "detail": {
+      "kind": "tutoring",
+      "description": "I hope this message finds you well. I'm in the process of learning Cloud Engineering. One of the foundation skills I need to acquire is Linux. I\u2019m looking for a tutor to help me learn the fundamentals of Linux, including basic commands, file management, and system navigation. If you\u2019re available for tutoring or can recommend someone who is, I\u2019d love to discuss scheduling and rates.",
+      "estimated_length": "Not sure yet"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5azcei0z2",
+    "title": "Expert Trainer in Azure Cloud Development, Terraform, and Project Building",
+    "body": "",
+    "request_type": "longterm",
+    "aasm_state": "open",
+    "estimated_budget": "20.0",
+    "created_at": 1734707344,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Ashish Arya",
+      "username": "ashisharya65",
+      "small_avatar_url": "https://cdn.filestackcontent.com/8w4n8I2SGiGyoD8HrtXU",
+      "time_zone_display": "Kolkata (+05:30)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Azure",
+        "url_string": "azure"
+      },
+      {
+        "name": "Azure SQL",
+        "url_string": "azure-sql"
+      },
+      {
+        "name": "Terraform",
+        "url_string": "terraform"
+      },
+      {
+        "name": "Azure Functions",
+        "url_string": "azure-functions"
+      },
+      {
+        "name": "Devops engineer",
+        "url_string": "devops-engineer"
+      }
+    ],
+    "detail": {
+      "kind": "tutoring",
+      "description": "I am actively seeking a skilled and experienced trainer to help me upskill in Azure Cloud Development and effectively integrate Terraform with Azure for infrastructure automation. Additionally, I am looking for someone who can guide me in building real-world projects to solidify my learning and gain practical experience.\n\nThis will be a long-term training commitment, focusing on mastering every aspect of Azure Development, including advanced concepts, best practices, and hands-on implementation.\n\nHere are some key details about my current status and requirements:\n\nI have recently completed the Azure Fundamentals certification, so I am familiar with the basics of Azure.\nMy goal is to become a proficient Cloud Developer with deep knowledge of Azure services and tools.\nI want to gain expertise in using Terraform for managing Azure infrastructure.\nThe training should include practical guidance on building projects that simulate real-world scenarios.\nA mix of theoretical knowledge and hands-on experience is essential.\nIf you are a trainer with proven experience in Azure Development, Terraform, and mentoring on project building, and are passionate about teaching, I would love to connect with you!\n\nPlease feel free to reach out to me with your experience, training plan, and rates.",
+      "estimated_hours_per_week": null,
+      "estimated_weeks": null
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l5ad8ugmcz",
+    "title": "Understanding data behind AX reports and interfaces",
+    "body": "",
+    "request_type": "offline_help",
+    "aasm_state": "open",
+    "estimated_budget": "250.0",
+    "created_at": 1734701472,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Hardeep Josen",
+      "username": "hardeepjosen",
+      "small_avatar_url": "https://cdn.filestackcontent.com/hWFm02V0SAWQTIa56r0I",
+      "time_zone_display": "Edinburgh (+00:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "SQL",
+        "url_string": "sql"
+      },
+      {
+        "name": "SQL Databases",
+        "url_string": "sql-databases"
+      },
+      {
+        "name": "Dynamics AX 2012",
+        "url_string": "dynamics-ax-2012"
+      }
+    ],
+    "detail": {
+      "kind": "new-project",
+      "description": "I was primarily wanted to understand the Data that is behind AX dynamics. we currently use AX Dynamics 2012, \n\nI'll need to understand;\n\n1. where the data is coming from within different reports/ front end interfaces \n2. How is the data manipulated/what steps are taken from initial regular SQL database tables to when the data is shown in sirs reports and frontend interfaces \n\nI have a brief base knowledge of AX Dynamics (AOT, classes , methods, X++) , but my background is in finance, SQL and Power BI reporting. \n\nIs this something you may be able to help with, I'll need 2 hours a week at first, maybe more  of 1-1 help. ",
+      "tech_family": "web-app",
+      "deliverables": "",
+      "estimated_completion_date": 1734787515
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l59y15kidw",
+    "title": "PHP - freelancers / Need to create self paced course",
+    "body": "",
+    "request_type": "offline_help",
+    "aasm_state": "open",
+    "estimated_budget": "340.0",
+    "created_at": 1734697429,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "sathya",
+      "username": "sathyaguvi",
+      "small_avatar_url": "https://www.gravatar.com/avatar/0957649e3290e074264056817256805e?d=mm&s=64",
+      "time_zone_display": "Chennai (+05:30)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "PHP",
+        "url_string": "php"
+      },
+      {
+        "name": "Back-End",
+        "url_string": "back-end"
+      },
+      {
+        "name": "PHP 7",
+        "url_string": "php-7"
+      }
+    ],
+    "detail": {
+      "kind": "new-project",
+      "description": "GUVI is currently seeking a Freelance Instructor with expertise in PHP. As part of our team, you'll have the opportunity to create an e-learning course by developing syllabi & designing instructional videos. \n\nNote: Only Indian\n",
+      "tech_family": "web-app",
+      "deliverables": "At GUVI, we provide a wide range of tech-based courses for our learners. Your role will be creating course content for \"PHP\" course through a video for the learners.\nIt is a freelancing opportunity. You will be given 25 to 30 days of time to create a 3 hour course. (10 to 12 videos of 15 mins each will comprise a 3 hour course).",
+      "estimated_completion_date": 1735281000
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l52uq4biuo",
+    "title": "I need help with a Rails app running on Heroku.",
+    "body": "",
+    "request_type": "longterm",
+    "aasm_state": "open",
+    "estimated_budget": "20.0",
+    "created_at": 1734629589,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Greg Spencer",
+      "username": "skynetbright",
+      "small_avatar_url": "https://www.gravatar.com/avatar/dfeeafecb34de5f8496d9c928e88db7f?d=mm&s=64",
+      "time_zone_display": "Eastern Time (US & Canada) (-05:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "Ruby",
+        "url_string": "ruby"
+      },
+      {
+        "name": "Ruby on Rails",
+        "url_string": "ruby-on-rails"
+      },
+      {
+        "name": "Heroku",
+        "url_string": "heroku"
+      },
+      {
+        "name": "Devise",
+        "url_string": "devise"
+      }
+    ],
+    "detail": {
+      "kind": "troubleshooting",
+      "description": "I need help with Devise.",
+      "estimated_hours_per_week": null,
+      "estimated_weeks": null
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l4mtuf5bii",
+    "title": "js (p5, three.js, d3), python, HTML/CSS",
+    "body": "",
+    "request_type": "longterm",
+    "aasm_state": "open",
+    "estimated_budget": "20.0",
+    "created_at": 1734476300,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "daria",
+      "username": "dariakoshkina",
+      "small_avatar_url": "https://ucarecdn.com/46e6897c-d75b-40b1-89ac-fcab789bb767/",
+      "time_zone_display": "Eastern Time (US & Canada) (-05:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "HTML/CSS",
+        "url_string": "html_css"
+      },
+      {
+        "name": "Python",
+        "url_string": "python"
+      },
+      {
+        "name": "D3.js",
+        "url_string": "d3js"
+      },
+      {
+        "name": "Three.js",
+        "url_string": "threejs"
+      },
+      {
+        "name": "WebGL",
+        "url_string": "webgl"
+      },
+      {
+        "name": "JavaScript",
+        "url_string": "javascript"
+      }
+    ],
+    "detail": {
+      "kind": "tutoring",
+      "description": "Hello,\n\nI am seeking a mentor with a good sense of creative coding, data storytelling, and tools to tell those stories. \nI have a basic understanding of d3, HTML/CSS and Python. \nMy goals are:\n- get proficient in these languages so I can confidently implement even ambitious ideas, debug, and think conceptually rather than in terms of my limitations\n- have a good data analysis understanding\n-learn not being afraid of those languages, debugging and unknown\n\n\nAreas where I *for now* plan to use it:\n- interactive data visualizations\n- data art\n- infographics\n\n\n\n\n",
+      "estimated_hours_per_week": null,
+      "estimated_weeks": null
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "l37qttpwej",
+    "title": "I want to learn how to do Image segmentation in remote sensing images ",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "20.0",
+    "created_at": 1733987636,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Sabah S",
+      "username": "sabahs",
+      "small_avatar_url": "https://cdn.filestackcontent.com/x0j6QIBQg26wzH7I533O",
+      "time_zone_display": "Abu Dhabi (+04:00)",
+      "is_student": true
+    },
+    "categories": [
+      {
+        "name": "Computer Vision",
+        "url_string": "computer-vision"
+      },
+      {
+        "name": "Deep Learning",
+        "url_string": "deep-learning"
+      }
+    ],
+    "detail": {
+      "kind": "tutoring",
+      "description": "I'd like someone to walk me through image segmentation models and how to use Slurm for GPU cluster. ",
+      "estimated_length": "Not sure yet"
+    },
+    "special_rate": null
+  },
+  {
+    "random_key": "ky1gy7j2gq",
+    "title": "URGENT - IMMEDIATE HIRE - OpenAPI 3.1 Specification Expert Needed to Resolve API Schema Issues",
+    "body": "",
+    "request_type": "one_on_one",
+    "aasm_state": "open",
+    "estimated_budget": "15.0",
+    "created_at": 1732205746,
+    "is_featured": false,
+    "has_recruiter_addon": false,
+    "skipped": false,
+    "reported_as_homework": false,
+    "can_express_interest": true,
+    "interest": null,
+    "user": {
+      "name": "Jasmine Ibikunle",
+      "username": "jasmineibikunle",
+      "small_avatar_url": "https://www.gravatar.com/avatar/0fc8a3848425f73a9a8359cee96d48c3?d=mm&s=64",
+      "time_zone_display": "Edinburgh (+00:00)",
+      "is_student": false
+    },
+    "categories": [
+      {
+        "name": "API",
+        "url_string": "api"
+      },
+      {
+        "name": "Fastapi",
+        "url_string": "fastapi"
+      },
+      {
+        "name": "Openapi specification",
+        "url_string": "openapi-specification"
+      },
+      {
+        "name": "ChatGPT",
+        "url_string": "chatgpt"
+      },
+      {
+        "name": "OpenAI APIs",
+        "url_string": "openai-apis"
+      }
+    ],
+    "detail": {
+      "kind": "Assistance",
+      "description": "I am looking for an experienced OpenAPI specification expert who can help troubleshoot and resolve issues in our API schema. Our current schema, generated using FastAPI, is facing validation errors in Swagger Editor and compatibility challenges when used with GPT-powered applications.\n\nThis is an ongoing issue, and we need someone with deep expertise in OpenAPI 3.0/3.1, API documentation, and FastAPI to assist in fixing these problems efficiently.\n\nResponsibilities:\n\nReview our OpenAPI schema and identify root causes of validation errors.\nGuide us in fixing structural issues, such as:\nOpenAPI version mismatches.\nInvalid schema definitions (anyOf, nullable, etc.).\nSecurity scheme issues.\nParameter and response type mismatches.\nHelp optimize the schema for compatibility with Swagger Editor and GPT-powered tools.\nWork collaboratively via screen-sharing to ensure solutions are implemented effectively.\nProvide clear explanations and documentation for changes made.\n",
+      "estimated_length": "Less than 1 hr"
     },
     "special_rate": null
   }

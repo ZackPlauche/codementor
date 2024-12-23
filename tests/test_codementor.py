@@ -9,8 +9,8 @@ def test_get_job_details(client, jobs):
     client.get_job_details(jobs[0].random_key)
 
 
-def test_get_job_details_full_list(client, jobs):
-    for job in jobs:
+def test_get_all_job_details(client, all_jobs):
+    for job in all_jobs:
         client.get_job_details(job.random_key)
 
 

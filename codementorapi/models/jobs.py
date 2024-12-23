@@ -1,6 +1,6 @@
 from __future__ import annotations
-from pydantic import BaseModel, Field
-from typing import Literal, Optional, Union, Annotated
+from pydantic import BaseModel, Field, ConfigDict
+from typing import Literal, Optional, Union, Dict, Any
 
 
 class Category(BaseModel):
@@ -23,32 +23,17 @@ class JobDetailResponseUser(BaseUser):
     is_student: bool
 
 
-class TutoringDetails(BaseModel):
-    kind: Literal["tutoring"]
+class JobDetails(BaseModel):
+    """Base model for all job details"""
+    kind: str  # More flexible, accept any kind
     description: str
+    # Common optional fields
     estimated_length: Optional[str] = None
     estimated_hours_per_week: Optional[int] = None
     estimated_weeks: Optional[int] = None
-
-
-class ProjectDetails(BaseModel):
-    kind: Literal["existing-project", "new-project"]
-    description: str
-    tech_family: str
-    deliverables: str
-    estimated_completion_date: int
-
-
-class TroubleshootingDetails(BaseModel):
-    kind: Literal["troubleshooting", "debugging"]
-    description: str
-    estimated_length: str
-
-
-JobDetails = Annotated[
-    Union[TutoringDetails, ProjectDetails, TroubleshootingDetails],
-    Field(discriminator='kind')
-]
+    tech_family: Optional[str] = None
+    deliverables: Optional[str] = None
+    estimated_completion_date: Optional[int] = None
 
 
 class BaseJob(BaseModel):
@@ -70,21 +55,33 @@ class JobListItem(BaseJob):
     user: JobListItemUser
 
 
+class JobInterest(BaseModel):
+    """Model for job interest data"""
+    message: str
+    # Add other fields as needed based on the actual response
+    # Using dict for flexibility until we know all possible fields
+    additional_fields: Dict[str, Any] = Field(default_factory=dict)
+
+
 class JobDetailResponse(BaseJob):
+    model_config = ConfigDict(
+        # Increase max_length for error messages
+        str_max_length=4096,  # or however long you need
+        # Show all validation errors
+        validate_assignment=True,
+        # Include more context in errors
+        extra='forbid'
+    )
     skipped: bool
     reported_as_homework: bool
     can_express_interest: bool
-    interest: Optional[str]
+    interest: Optional[Union[str, JobInterest]] = None  # Can be string or interest object
     detail: JobDetails
     special_rate: Optional[str]
     user: JobDetailResponseUser
 
 
 JobListResponse = list[JobListItem]
-
-
-class JobInterestResponse(BaseModel):
-    request: JobInterestRequest
 
 
 class JobInterestRequest(BaseModel):
@@ -94,3 +91,7 @@ class JobInterestRequest(BaseModel):
 
 class JobInterestUser(BaseModel):
     online: bool
+
+
+class JobInterestResponse(BaseModel):
+    request: JobInterestRequest
